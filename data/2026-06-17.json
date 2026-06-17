@@ -1,13 +1,13 @@
 {
   "date": "2026-06-17",
-  "generatedAt": "2026-06-17T20:59:00.112Z",
+  "generatedAt": "2026-06-17T21:36:21.856Z",
   "count": 4,
   "cards": [
     {
       "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Ruptura hemorrágica espontánea de neoplasia quística mucinosa pancreática",
-      "headlineEn": "Spontaneous Hemorrhagic Rupture of Pancreatic Mucinous Cystic Neoplasm",
-      "studyType": "Case Report",
+      "headlineEs": "Resección exitosa de SPN pancreático gigante con excelente pronóstico a largo plazo",
+      "headlineEn": "Successful Resection of Giant Pancreatic SPN with Excellent Long-Term Outcome",
+      "studyType": "Caso clínico",
       "trialName": null,
       "n": "1",
       "primaryMetricLabelEs": null,
@@ -17,85 +17,85 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "dna",
-          "es": "Las MCN son tumores quísticos pancreáticos raros (aprox. 1% de las neoplasias pancreáticas).",
-          "en": "MCNs are rare pancreatic cystic tumors (approx. 1% of pancreatic neoplasms)."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La ruptura espontánea de MCN es extremadamente rara debido a su cápsula fibrosa gruesa.",
-          "en": "Spontaneous MCN rupture is extremely rare due to its thick fibrous capsule."
+          "icon": "users",
+          "es": "Mujer asintomática de 45 años con hallazgo incidental",
+          "en": "45-year-old asymptomatic woman with incidental finding"
         },
         {
           "icon": "target",
-          "es": "Presenta desafíos diagnósticos; puede confundirse inicialmente con otros tumores quísticos (ej. tumor sólido pseudopapilar).",
-          "en": "Presents diagnostic challenges; can be initially confused with other cystic tumors (e.g., solid pseudopapillary tumor)."
+          "es": "Neoplasia pseudopapilar sólida (SPN) de 22 x 22 cm",
+          "en": "22 x 22 cm Solid Pseudopapillary Neoplasm (SPN)"
         },
         {
-          "icon": "pill",
-          "es": "El tratamiento fue pancreatectomía distal con esplenectomía y gastrectomía parcial.",
-          "en": "Treatment involved distal pancreatectomy with splenectomy and partial gastrectomy."
+          "icon": "clock",
+          "es": "Libre de recurrencia 5 años después de la cirugía",
+          "en": "Recurrence-free 5 years after surgery"
+        },
+        {
+          "icon": "shield-check",
+          "es": "El tamaño tumoral no es indicador de comportamiento agresivo",
+          "en": "Tumor size alone not indicator of aggressive behavior"
         }
       ],
-      "bottomLineEs": "La ruptura hemorrágica espontánea de MCN es una complicación rara que requiere alta sospecha clínica para un diagnóstico preciso y manejo quirúrgico.",
-      "bottomLineEn": "Spontaneous hemorrhagic rupture of MCN is a rare complication requiring high clinical suspicion for accurate diagnosis and surgical management.",
-      "relevance": "Emergente",
-      "pmid": "42306153",
-      "url": "https://doi.org/10.3348/jksr.2025.0112",
-      "source": "J Korean Soc Radiol",
-      "date": "2026-May",
+      "bottomLineEs": "Este caso demuestra que incluso SPN extremadamente grandes pueden resecarse con seguridad, obteniendo excelentes resultados a largo plazo. El tamaño tumoral por sí solo no debe considerarse un indicador de comportamiento biológico agresivo.",
+      "bottomLineEn": "This case demonstrates that even extremely large SPNs can be safely resected with excellent long-term outcomes. Tumor size alone should not be considered an indicator of aggressive biological behavior.",
+      "relevance": "Práctica clínica",
+      "pmid": "42295568",
+      "url": "https://doi.org/10.1007/s12328-026-02377-2",
+      "source": "Clin J Gastroenterol",
+      "date": "2026-Jun-15",
       "topicId": "panc_other"
     },
     {
       "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "IA basada en TC predice estado HER2 en cáncer de vesícula biliar irresecable",
-      "headlineEn": "CT-based AI predicts HER2 status in unresectable gallbladder cancer",
-      "studyType": "Retrospectivo-prospectivo",
+      "headlineEs": "ESCO2: Gen clave en colangiocarcinoma, promueve crecimiento tumoral y peor pronóstico",
+      "headlineEn": "ESCO2: Key gene in cholangiocarcinoma, promotes tumor growth and poorer prognosis",
+      "studyType": "Bioinformática y validación experimental (in vitro/in vivo)",
       "trialName": null,
-      "n": "213",
-      "primaryMetricLabelEs": "Rendimiento de clasificación HER2",
-      "primaryMetricLabelEn": "HER2 Classification Performance",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "Estudio en 213 pacientes con cáncer de vesícula biliar (GBC) irresecable.",
-          "en": "Study in 213 patients with unresectable gallbladder cancer (GBC)."
+          "icon": "dna",
+          "es": "ESCO2 es un gen diferencialmente expresado y clave en colangiocarcinoma (CCA).",
+          "en": "ESCO2 is a differentially expressed and key gene in cholangiocarcinoma (CCA)."
         },
         {
-          "icon": "dna",
-          "es": "El 19.7% de los casos fueron HER2-positivos.",
-          "en": "19.7% of cases were HER2-positive."
+          "icon": "alert-triangle",
+          "es": "La alta expresión de ESCO2 se asocia a peor pronóstico y estadio N avanzado en pacientes con CCA.",
+          "en": "High ESCO2 expression is associated with poorer prognosis and advanced N stage in CCA patients."
         },
         {
           "icon": "target",
-          "es": "Marco de IA basado en TC para la predicción no invasiva del estado HER2.",
-          "en": "CT-based AI framework for non-invasive HER2 status prediction."
+          "es": "ESCO2 promueve la proliferación de células de CCA e inhibe la apoptosis in vitro.",
+          "en": "ESCO2 promotes CCA cell proliferation and inhibits apoptosis in vitro."
         },
         {
-          "icon": "shield-check",
-          "es": "El modelo DL Swin Transformer logró un AUROC de 0.792 (IC95% 0.733-0.861).",
-          "en": "Swin Transformer DL model achieved an AUROC of 0.792 (95% CI 0.733-0.861)."
+          "icon": "clock",
+          "es": "La sobreexpresión de ESCO2 acelera el crecimiento tumoral y acorta la supervivencia en modelos murinos.",
+          "en": "ESCO2 overexpression accelerates tumor growth and shortens survival in murine models."
         }
       ],
-      "bottomLineEs": "Este estudio de prueba de concepto establece una pipeline de IA basada en TC para la predicción no invasiva del estado HER2 en GBC irresecable, requiriendo validación en cohortes más grandes y multi-institucionales.",
-      "bottomLineEn": "This proof-of-concept study establishes a CT-based AI pipeline for non-invasive HER2 status prediction in unresectable GBC, warranting validation in larger, multi-institutional cohorts.",
-      "relevance": "Emergente",
-      "pmid": "42306236",
-      "url": "https://doi.org/10.1016/j.jceh.2026.103563",
-      "source": "J Clin Exp Hepatol",
-      "date": "2026",
+      "bottomLineEs": "ESCO2 emerge como un potencial biomarcador diagnóstico y una diana terapéutica para el colangiocarcinoma, requiriendo más investigación.",
+      "bottomLineEn": "ESCO2 emerges as a potential diagnostic biomarker and therapeutic target for cholangiocarcinoma, requiring further investigation.",
+      "relevance": "Preclínico",
+      "pmid": "42305461",
+      "url": "https://doi.org/10.21037/tcr-2025-1-2695",
+      "source": "Transl Cancer Res",
+      "date": "2026-May-30",
       "topicId": "biliary"
     },
     {
       "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "MASH: Resmetirom y Semaglutida Aprobados, Desafío en Selección Terapéutica",
-      "headlineEn": "MASH: Resmetirom and Semaglutide Approved, Treatment Selection Challenge",
-      "studyType": "Revisión",
+      "headlineEs": "Análisis bibliométrico de la quimiorresistencia en HCC: Tendencias y futuros focos de investigación",
+      "headlineEn": "Bibliometric Analysis of HCC Chemoresistance: Trends and Future Research Hotspots",
+      "studyType": "Análisis bibliométrico",
       "trialName": null,
-      "n": null,
+      "n": "2571 publicaciones",
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
@@ -103,40 +103,40 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "alert-triangle",
-          "es": "La MASH es la principal causa de cirrosis, un factor de riesgo importante para el HCC.",
-          "en": "MASH is the leading cause of cirrhosis, an important risk factor for HCC."
-        },
-        {
-          "icon": "pill",
-          "es": "Resmetirom (oral, agonista selectivo del receptor de hormona tiroidea-β) reduce la esteatohepatitis y promueve la regresión de la fibrosis.",
-          "en": "Resmetirom (oral, selective thyroid hormone receptor-β agonist) reduces steatohepatitis and promotes fibrosis regression."
-        },
-        {
-          "icon": "pill",
-          "es": "Semaglutida (SC, agonista del receptor GLP-1) demuestra eficacia en MASH y fibrosis hepática, con efectos favorables cardiometabólicos.",
-          "en": "Semaglutide (SC, GLP-1 receptor agonist) shows efficacy in MASH and hepatic fibrosis, with favorable cardiometabolic effects."
+          "icon": "clock",
+          "es": "Se observa un aumento anual en el número de publicaciones y citas sobre quimiorresistencia en HCC.",
+          "en": "An annual increase in the number of publications and citations on HCC chemoresistance was observed."
         },
         {
           "icon": "users",
-          "es": "Ambos agentes son de primera línea para MASH con fibrosis moderada-avanzada, planteando el reto de la selección óptima.",
-          "en": "Both agents are first-line for MASH with moderate-to-advanced fibrosis, posing a challenge for optimal selection."
+          "es": "China y EE. UU. son los países dominantes en la investigación de la quimiorresistencia en HCC.",
+          "en": "China and the USA are the dominant countries in HCC chemoresistance research."
+        },
+        {
+          "icon": "target",
+          "es": "Cambio temático de enfoques de agente único a terapias combinadas complejas e intervenciones tecnológicas novedosas.",
+          "en": "Thematic shift from single-agent approaches to complex combination therapies and novel technological interventions."
+        },
+        {
+          "icon": "dna",
+          "es": "Focos de investigación futuros incluyen nano-inmunoterapia combinatoria, inductores de ferroptosis e inmunoterapia combinada.",
+          "en": "Future research hotspots include combinatorial nano-immunotherapy, ferroptosis inducers, and combined immunotherapy."
         }
       ],
-      "bottomLineEs": "La aprobación de resmetirom y semaglutida ofrece nuevas herramientas para el tratamiento de MASH con fibrosis, requiriendo un marco práctico para la individualización de la terapia.",
-      "bottomLineEn": "The approval of resmetirom and semaglutide offers new tools for MASH with fibrosis, requiring a practical framework for individualized treatment selection.",
-      "relevance": "Práctica clínica",
-      "pmid": "42307712",
-      "url": "https://doi.org/10.1007/s10620-026-10003-x",
-      "source": "Dig Dis Sci",
+      "bottomLineEs": "Este análisis bibliométrico mapea la evolución de la investigación en quimiorresistencia del HCC, identificando tendencias clave y áreas emergentes con potencial terapéutico futuro.",
+      "bottomLineEn": "This bibliometric analysis maps the evolution of HCC chemoresistance research, identifying key trends and emerging areas with future therapeutic potential.",
+      "relevance": "Emergente",
+      "pmid": "42307640",
+      "url": "https://doi.org/10.1007/s00210-026-05568-3",
+      "source": "Naunyn Schmiedebergs Arch Pharmacol",
       "date": "2026-Jun-17",
       "topicId": "hcc"
     },
     {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Estrategia de Imagen Funcional para Adenomas Hipofisarios (PitNETs)",
-      "headlineEn": "Functional Imaging Strategy for Pituitary Adenomas (PitNETs)",
-      "studyType": "Revisión",
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Metabolismo lipídico alelo-específico en mutantes KRAS G12C y G12D",
+      "headlineEn": "Allele-specific lipid metabolism in KRAS G12C and G12D mutants",
+      "studyType": "Preclínico",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -146,34 +146,34 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "target",
-          "es": "La RM de alta resolución localiza la mayoría de los PitNETs, pero los microadenomas y remanentes postquirúrgicos son un desafío.",
-          "en": "High-resolution MRI localizes most PitNETs, but microadenomas and post-operative remnants remain challenging."
+          "icon": "dna",
+          "es": "KRAS G12C y G12D muestran afinidades lipídicas distintas, afectando su organización en la membrana plasmática.",
+          "en": "KRAS G12C and G12D exhibit distinct lipid affinities, impacting their plasma membrane organization."
         },
         {
           "icon": "dna",
-          "es": "La PET funcional es una modalidad clave para resolver problemas cuando la imagen convencional es equívoca, usada selectivamente.",
-          "en": "Functional PET is a problem-solving modality when conventional imaging is equivocal, used selectively."
+          "es": "LPCAT1 incorpora ácidos grasos saturados a fosfolípidos, alterando los niveles de lípidos saturados/insaturados.",
+          "en": "LPCAT1 incorporates saturated fatty acids into phospholipids, altering saturated/unsaturated lipid levels."
         },
         {
-          "icon": "pill",
-          "es": "Se propone una estrategia de imagen escalonada: RM primero, seguida de PET con trazadores como [C]metionina o ligandos SSTR.",
-          "en": "A tiered imaging strategy is proposed: MRI-first, followed by PET with tracers like [C]methionine or SSTR ligands."
+          "icon": "target",
+          "es": "La expresión de LPCAT1 suprime la señalización de KRAS G12C pero la promueve en KRAS G12D en células de cáncer de páncreas.",
+          "en": "LPCAT1 expression suppresses KRAS G12C signaling but promotes it in KRAS G12D in pancreatic cancer cells."
         },
         {
           "icon": "shield-check",
-          "es": "Es crucial integrar la imagen con el fenotipo endocrino, el historial de tratamiento y la planificación quirúrgica/radiocirugía.",
-          "en": "Crucial to integrate imaging with endocrine phenotype, treatment history, and surgical/radiosurgical planning."
+          "es": "Los efectos de LPCAT1 son específicos para células con KRAS mutado, sin afectar el KRAS de tipo salvaje.",
+          "en": "LPCAT1 effects are specific to mutant KRAS cells, not affecting wild-type KRAS."
         }
       ],
-      "bottomLineEs": "Esta revisión propone una estrategia de imagen escalonada, priorizando la RM y utilizando PET funcional selectivamente, para optimizar la localización y manejo de PitNETs funcionales, especialmente en casos complejos.",
-      "bottomLineEn": "This review proposes a tiered imaging strategy, prioritizing MRI and selectively using functional PET, to optimize localization and management of functional PitNETs, especially in complex cases.",
-      "relevance": "Práctica clínica",
-      "pmid": "42307852",
-      "url": "https://doi.org/10.1007/s11154-026-10063-4",
-      "source": "Rev Endocr Metab Disord",
-      "date": "2026-Jun-17",
-      "topicId": "net"
+      "bottomLineEs": "La actividad de los mutantes KRAS G12C y G12D depende de la remodelación alelo-específica de las cadenas de acilo lipídicas, lo que sugiere nuevas vías para la intervención terapéutica.",
+      "bottomLineEn": "KRAS G12C and G12D mutant activities depend on allele-specific lipid acyl chain remodeling, suggesting novel avenues for therapeutic intervention.",
+      "relevance": "Preclínico",
+      "pmid": "42303154",
+      "url": "https://doi.org/10.1016/j.jlr.2026.101079",
+      "source": "J Lipid Res",
+      "date": "2026-Jun-16",
+      "topicId": "kras"
     }
   ]
 }
