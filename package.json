@@ -1,0 +1,15 @@
+{
+  "name": "onco-daily",
+  "version": "0.1.0",
+  "description": "Motor de contenido: busca novedades en PubMed sobre tumores hepatobiliopancreáticos, NET y vías moleculares (KRAS) y genera tarjetas bilingües con la API gratuita de Gemini.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "digest": "node buildDigest.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.1"
+  }
+}

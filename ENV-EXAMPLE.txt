@@ -1,0 +1,10 @@
+# Clave GRATUITA de Google AI Studio (obligatoria). Empieza por "AIza".
+# Se saca gratis en: https://aistudio.google.com/app/apikey
+GEMINI_API_KEY=
+
+# Clave de NCBI E-utilities (opcional, sube el límite de 3 a 10 peticiones/seg).
+# Gratis en: https://www.ncbi.nlm.nih.gov/account/  -> Settings -> API Key Management
+NCBI_API_KEY=
+
+# Tu email (cortesía que pide NCBI para contactar en caso de uso intensivo).
+NCBI_EMAIL=
