@@ -1,0 +1,36 @@
+name: Digest diario
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - name: Generar el digest
+        run: node buildDigest.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+
+      - name: Guardar el digest
+        run: |
+          git config user.name "onco-daily bot"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add data
+          git commit -m "Digest $(date +%F)" || echo "Sin cambios que guardar"
+          git push
