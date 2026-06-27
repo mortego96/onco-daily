@@ -1,15 +1,157 @@
 {
   "date": "2026-06-27",
-  "generatedAt": "2026-06-27T08:40:48.047Z",
-  "count": 5,
+  "generatedAt": "2026-06-27T17:12:24.311Z",
+  "count": 6,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Clasificación LLPS y NRF1 como diana terapéutica en cáncer de páncreas",
-      "headlineEn": "LLPS-based classification and NRF1 as a therapeutic target in pancreatic cancer",
-      "studyType": "Preclínico",
+      "headlineEs": "Índice de Muerte Celular Regulada (RCDI): Nuevo Biomarcador Pronóstico en PDAC",
+      "headlineEn": "Regulatory Cell Death Index (RCDI): Novel Prognostic Biomarker in PDAC",
+      "studyType": "Bioinformático",
       "trialName": null,
-      "n": "176",
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia Global",
+      "primaryMetricLabelEn": "Overall Survival",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Desarrollo de un índice pronóstico (RCDI) basado en genes de muerte celular regulada (RCD) mediante RNAseq y machine learning.",
+          "en": "Development of a prognostic index (RCDI) based on regulatory cell death (RCD) genes using RNAseq and machine learning."
+        },
+        {
+          "icon": "target",
+          "es": "El RCDI demostró un rendimiento robusto en la predicción de la supervivencia global y resultados clínicos en pacientes con PDAC.",
+          "en": "RCDI showed robust performance in predicting overall survival and clinical outcomes in PDAC patients."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El RCDI se correlaciona significativamente con el microambiente inmune tumoral y la heterogeneidad inmune.",
+          "en": "RCDI is significantly correlated with the tumor immune microenvironment and immune heterogeneity."
+        },
+        {
+          "icon": "pill",
+          "es": "Potencial indicador para estratificar pacientes con PDAC que podrían beneficiarse de la inmunoterapia.",
+          "en": "Potential indicator for stratifying PDAC patients who could benefit from immunotherapy."
+        }
+      ],
+      "bottomLineEs": "El índice RCDI es una herramienta novedosa para la estratificación de riesgo y el tratamiento individualizado en pacientes con adenocarcinoma ductal de páncreas, con implicaciones para la selección de inmunoterapia.",
+      "bottomLineEn": "The RCDI is a novel tool for risk stratification and individualized treatment in pancreatic ductal adenocarcinoma patients, with implications for immunotherapy selection.",
+      "relevance": "Emergente",
+      "pmid": "42363988",
+      "url": "https://doi.org/10.1007/s12672-026-05363-9",
+      "source": "Discov Oncol",
+      "date": "2026-Jun-27",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Estrategia Multimodal Mejora Estratificación de Riesgo en Neoplasias Mucinosas Papilares Intraductales (IPMN)",
+      "headlineEn": "Multimodal Strategy Improves Risk Stratification in Intraductal Papillary Mucinous Neoplasms (IPMNs)",
+      "studyType": "Estudio observacional retrospectivo",
+      "trialName": null,
+      "n": "25",
+      "primaryMetricLabelEs": "Rendimiento diagnóstico",
+      "primaryMetricLabelEn": "Diagnostic performance",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Análisis molecular (KRAS/GNAS) mostró 100% sensibilidad pero baja especificidad para neoplasia avanzada.",
+          "en": "Molecular testing (KRAS/GNAS) showed 100% sensitivity but low specificity for advanced neoplasia."
+        },
+        {
+          "icon": "target",
+          "es": "Citología por EUS-FNA tuvo 38.5% sensibilidad y 75% especificidad para neoplasia avanzada.",
+          "en": "EUS-FNA cytology had 38.5% sensitivity and 75% specificity for advanced neoplasia."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Estrategia combinada (morfología, citología, molecular) aumentó la sensibilidad pero redujo la especificidad.",
+          "en": "Combined strategy (morphology, cytology, molecular) increased sensitivity but reduced specificity."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "No se detectó carcinoma invasivo en los casos resecados, limitando la evaluación para enfermedad invasiva.",
+          "en": "No invasive carcinoma detected in resected cases, limiting evaluation for invasive disease."
+        }
+      ],
+      "bottomLineEs": "Un enfoque diagnóstico multimodal, que integra morfología, citología y pruebas moleculares, mejora la estratificación de riesgo de las IPMN y puede apoyar la toma de decisiones quirúrgicas en casos indeterminados, aunque con un tamaño de muestra limitado.",
+      "bottomLineEn": "A multimodal diagnostic approach, integrating morphology, cytology, and molecular testing, improves IPMN risk stratification and may support surgical decision-making in indeterminate cases, despite a limited sample size.",
+      "relevance": "Emergente",
+      "pmid": "42355870",
+      "url": "https://doi.org/10.3390/jcm15124701",
+      "source": "J Clin Med",
+      "date": "2026-Jun-17",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Colangiocarcinoma intrahepático: Mejor SG post-resección que extrahepático, pero CSS similar",
+      "headlineEn": "Intrahepatic Cholangiocarcinoma: Better OS Post-Resection than Extrahepatic, but Similar CSS",
+      "studyType": "Estudio de cohorte retrospectivo (PSM)",
+      "trialName": null,
+      "n": "478 (239 por grupo) en cohorte emparejada",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Intrahepático",
+          "value": "45 meses",
+          "months": 45,
+          "highlight": true
+        },
+        {
+          "name": "Extrahepático",
+          "value": "25 meses",
+          "months": 25,
+          "highlight": false
+        }
+      ],
+      "hr": "1.244 (IC95% 1.001–1.545)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "1,586 pacientes con colangiocarcinoma (intrahepático/extrahepático) sometidos a resección quirúrgica.",
+          "en": "1,586 patients with intrahepatic/extrahepatic cholangiocarcinoma undergoing surgical resection."
+        },
+        {
+          "icon": "dna",
+          "es": "Estudio basado en la base de datos SEER con emparejamiento por puntuación de propensión (PSM).",
+          "en": "SEER database study with Propensity Score Matching (PSM)."
+        },
+        {
+          "icon": "clock",
+          "es": "La mediana de SG fue de 45 meses para intrahepático vs. 25 meses para extrahepático.",
+          "en": "Median OS was 45 months for intrahepatic vs. 25 months for extrahepatic."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La linfadenectomía de ≥4 ganglios se asoció con mejor SG (HR 0.630).",
+          "en": "Lymphadenectomy of ≥4 nodes associated with improved OS (HR 0.630)."
+        }
+      ],
+      "bottomLineEs": "La ubicación intrahepática se asocia con mejor SG post-resección, pero la SG específica por cáncer es similar. La linfadenectomía adecuada (≥4 ganglios) mejora la SG y es un indicador de calidad quirúrgica.",
+      "bottomLineEn": "Intrahepatic location is linked to better OS post-resection, but cancer-specific OS is similar. Adequate lymphadenectomy (≥4 nodes) improves OS and serves as a surgical quality metric.",
+      "relevance": "Práctica clínica",
+      "pmid": "42364046",
+      "url": "https://doi.org/10.1007/s00423-026-04118-y",
+      "source": "Langenbecks Arch Surg",
+      "date": "2026-Jun-27",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Reanálisis de scRNA-seq identifica ejes MIF-PTGDR como programas inmunorreguladores en HCC",
+      "headlineEn": "scRNA-seq Reanalysis Identifies MIF-PTGDR Axes as Immunoregulatory Programs in HCC",
+      "studyType": "Análisis de datos preclínico",
+      "trialName": null,
+      "n": null,
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
@@ -18,81 +160,38 @@
       "facts": [
         {
           "icon": "dna",
-          "es": "Identificadas 3 subtipos de PDAC basados en reguladores LLPS (LS1-LS3) con diferencias pronósticas y en el microambiente inmune.",
-          "en": "Three LLPS regulator subtypes (LS1-LS3) identified in PDAC with prognostic and immune microenvironment differences."
+          "es": "Reanálisis de datos públicos de secuenciación de ARN de célula única (scRNA-seq) en HCC.",
+          "en": "Reanalysis of public single-cell RNA sequencing (scRNA-seq) data in HCC."
         },
         {
           "icon": "target",
-          "es": "Modelo de riesgo LRRPC predice pronóstico y respuesta a inmunoterapia en PDAC.",
-          "en": "LRRPC risk model predicts prognosis and immunotherapy efficacy in PDAC."
+          "es": "Identifica el eje MIF-CD74/CXCR4/CD44 como un programa de comunicación inmunorregulador candidato.",
+          "en": "Identifies the MIF-CD74/CXCR4/CD44 axis as a candidate immunoregulatory communication program."
         },
         {
-          "icon": "dna",
-          "es": "NRF1 regula genes clave (FAM83A, RHOV, ITGB6) y promueve la proliferación de células de PDAC.",
-          "en": "NRF1 regulates key genes (FAM83A, RHOV, ITGB6) and promotes PDAC cell proliferation."
-        },
-        {
-          "icon": "pill",
-          "es": "La inhibición de NRF1 induce apoptosis y reduce el crecimiento tumoral en modelos experimentales de PDAC.",
-          "en": "NRF1 inhibition induces apoptosis and reduces tumor growth in experimental PDAC models."
-        }
-      ],
-      "bottomLineEs": "Este estudio propone una estratificación de PDAC basada en LLPS y un modelo pronóstico. NRF1 emerge como una diana terapéutica prometedora, cuya inhibición reduce el crecimiento tumoral en modelos preclínicos, justificando su evaluación futura.",
-      "bottomLineEn": "This study proposes an LLPS-based PDAC stratification and prognostic model. NRF1 emerges as a promising therapeutic candidate, whose inhibition reduces tumor growth in preclinical models, warranting further evaluation.",
-      "relevance": "Preclínico",
-      "pmid": "42363116",
-      "url": "https://doi.org/10.1186/s12935-026-04395-z",
-      "source": "Cancer Cell Int",
-      "date": "2026-Jun-26",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "CA19.9 en NMPQ: Baja precisión para excluir displasia de alto grado o carcinoma invasivo",
-      "headlineEn": "CA19.9 in IPMN: Poor accuracy for excluding high-grade dysplasia or invasive carcinoma",
-      "studyType": "Meta-análisis",
-      "trialName": null,
-      "n": "5281 pacientes",
-      "primaryMetricLabelEs": "Precisión diagnóstica (AUC)",
-      "primaryMetricLabelEn": "Diagnostic accuracy (AUC)",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "5281 pacientes con NMPQ resecado incluidos en el meta-análisis.",
-          "en": "5281 patients with resected IPMN included in the meta-analysis."
-        },
-        {
-          "icon": "dna",
-          "es": "CA19.9 (≥37 U/mL) evaluado para detectar displasia de alto grado o carcinoma invasivo.",
-          "en": "CA19.9 (≥37 U/mL) evaluated for detecting high-grade dysplasia or invasive carcinoma."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Sensibilidad del 35% (IC95% 0.29-0.43) y especificidad del 90% (IC95% 0.87-0.92) para HGD o IC.",
-          "en": "Sensitivity of 35% (95% CI 0.29-0.43) and specificity of 90% (95% CI 0.87-0.92) for HGD or IC."
+          "icon": "target",
+          "es": "Destaca la señalización de PTGDR asociada a programas de citoquinas, adhesión y activación de linfocitos T.",
+          "en": "Highlights PTGDR signaling associated with cytokine, cell adhesion, and T-cell activation programs."
         },
         {
           "icon": "shield-check",
-          "es": "Baja capacidad para excluir HGD/IC (NLR 0.72); valor modesto para confirmar (PLR 3.37). AUC 0.78.",
-          "en": "Poor ability to exclude HGD/IC (NLR 0.72); modest value for ruling in (PLR 3.37). AUC 0.78."
+          "es": "Refina la interpretación de la disfunción de linfocitos T en el microambiente tumoral del HCC.",
+          "en": "Refines the interpretation of T-cell dysfunction in the HCC tumor microenvironment."
         }
       ],
-      "bottomLineEs": "El CA19.9 con el corte actual (37 U/mL) tiene un rendimiento pobre para excluir displasia de alto grado o carcinoma invasivo en NMPQ y un valor modesto para confirmarlo. No debe usarse como prueba única de cribado.",
-      "bottomLineEn": "CA19.9 with the current cutoff (37 U/mL) shows poor performance for excluding high-grade dysplasia or invasive carcinoma in IPMN and only modest value for ruling it in. It should not be used as a standalone screening test.",
-      "relevance": "Práctica clínica",
-      "pmid": "42360746",
-      "url": "https://doi.org/10.1001/jamanetworkopen.2026.17587",
-      "source": "JAMA Netw Open",
-      "date": "2026-Jun-1",
-      "topicId": "panc_other"
+      "bottomLineEs": "Este estudio preclínico sugiere que los ejes MIF-CD74/CXCR4/CD44 y PTGDR son programas inmunorreguladores clave en el HCC, proporcionando una base para futura validación traslacional.",
+      "bottomLineEn": "This preclinical study suggests MIF-CD74/CXCR4/CD44 and PTGDR axes are key immunoregulatory programs in HCC, providing a rationale for further translational validation.",
+      "relevance": "Preclínico",
+      "pmid": "42364071",
+      "url": "https://doi.org/10.1007/s12672-026-05507-x",
+      "source": "Discov Oncol",
+      "date": "2026-Jun-27",
+      "topicId": "hcc"
     },
     {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Auranofin sensibiliza HCC a Motesanib vía inhibición de TrxR1 y estrés oxidativo",
-      "headlineEn": "Auranofin Sensitizes HCC to Motesanib via TrxR1 Inhibition and Oxidative Stress",
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Tigeciclina inhibe el crecimiento y la secreción hormonal en PitNETs somatótrofos in vitro",
+      "headlineEn": "Tigecycline Inhibits Growth and Hormone Secretion in Somatotroph PitNETs In Vitro",
       "studyType": "Preclínico",
       "trialName": null,
       "n": null,
@@ -103,119 +202,71 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "pill",
-          "es": "La combinación de Motesanib (inhibidor VEGFR) y Auranofin (inhibidor TrxR1) muestra actividad anticancerígena sinérgica en HCC.",
-          "en": "Combination of Motesanib (VEGFR inhibitor) and Auranofin (TrxR1 inhibitor) shows synergistic anticancer activity in HCC."
-        },
-        {
           "icon": "dna",
-          "es": "La inhibición de TrxR1 es clave para la sensibilización, asociada a la acumulación de especies reactivas de oxígeno (ROS) mediada por autofagia.",
-          "en": "TrxR1 inhibition is critical for sensitization, linked to autophagy-related reactive oxygen species (ROS) accumulation."
+          "es": "Estudio in vitro en línea celular GH3 de tumores neuroendocrinos hipofisarios (PitNET) somatótrofos.",
+          "en": "In vitro study in GH3 somatotroph pituitary neuroendocrine tumor (PitNET) cell line."
         },
         {
           "icon": "target",
-          "es": "Esta respuesta de estrés conduce a estrés del retículo endoplasmático (ER) sostenido y activación de la vía JNK.",
-          "en": "This stress response leads to sustained endoplasmic reticulum (ER) stress and JNK pathway activation."
-        },
-        {
-          "icon": "shield-check",
-          "es": "La estrategia dual-targeting resulta en daño al ADN, proliferación alterada y reducción de la viabilidad celular en modelos de HCC.",
-          "en": "The dual-targeting strategy results in DNA damage, impaired proliferation, and reduced cell viability in HCC models."
-        }
-      ],
-      "bottomLineEs": "La combinación de Motesanib y Auranofin representa un régimen de tratamiento prometedor y con base mecanística para el hepatocarcinoma avanzado, actuando a través de la inhibición de TrxR1 y el estrés oxidativo.",
-      "bottomLineEn": "The combination of Motesanib and Auranofin represents a promising and mechanistically grounded treatment regimen for advanced hepatocellular carcinoma, acting via TrxR1 inhibition and oxidative stress.",
-      "relevance": "Preclínico",
-      "pmid": "42363247",
-      "url": "https://doi.org/10.1186/s13062-026-00874-5",
-      "source": "Biol Direct",
-      "date": "2026-Jun-26",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Durvalumab + etopósido-platino en NSCLC EGFR mutado con transformación neuroendocrina",
-      "headlineEn": "Durvalumab + Etoposide-Platinum in EGFR-mutated NSCLC with Neuroendocrine Transformation",
-      "studyType": "Phase 2",
-      "trialName": "ORCHARD",
-      "n": "14",
-      "primaryMetricLabelEs": "Tasa de respuesta objetiva (ORR)",
-      "primaryMetricLabelEn": "Objective Response Rate (ORR)",
-      "arms": [],
-      "hr": null,
-      "pfs": "4.2 meses (IC95% 3.0–5.6)",
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Pacientes con NSCLC EGFR mutado avanzado y transformación neuroendocrina tras osimertinib.",
-          "en": "Patients with advanced EGFR-mutated NSCLC and neuroendocrine transformation post-osimertinib."
+          "es": "Tigeciclina inhibe la vía Akt/mTOR, induce arresto en fase G0/G1 y apoptosis.",
+          "en": "Tigecycline inhibits Akt/mTOR pathway, induces G0/G1 arrest and apoptosis."
         },
         {
           "icon": "pill",
-          "es": "Durvalumab + etopósido-platino mostró una ORR confirmada del 43%.",
-          "en": "Durvalumab + etoposide-platinum showed a confirmed ORR of 43%."
-        },
-        {
-          "icon": "clock",
-          "es": "Mediana de supervivencia global (SG) de 10.2 meses y mediana de SLP de 4.2 meses.",
-          "en": "Median overall survival (OS) of 10.2 months and median PFS of 4.2 months."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "El 64% de los pacientes experimentó eventos adversos G3+, principalmente neutropenia.",
-          "en": "64% of patients experienced G3+ adverse events, mainly neutropenia."
+          "es": "Potente efecto antiproliferativo y antisecretor de hormona del crecimiento (GH) en células GH3.",
+          "en": "Potent antiproliferative and anti-secretory effect on growth hormone (GH) in GH3 cells."
         }
       ],
-      "bottomLineEs": "Durvalumab más etopósido-platino mostró una respuesta modesta y un perfil de seguridad manejable en NSCLC EGFR mutado con transformación neuroendocrina.",
-      "bottomLineEn": "Durvalumab plus etoposide-platinum demonstrated a modest response and manageable safety profile in EGFR-mutated NSCLC with neuroendocrine transformation.",
-      "relevance": "Emergente",
-      "pmid": "42361644",
-      "url": "https://doi.org/10.1016/j.lungcan.2026.109501",
-      "source": "Lung Cancer",
-      "date": "2026-Jun-18",
+      "bottomLineEs": "Estos hallazgos sugieren que la tigeciclina, un antibiótico, podría ser un agente terapéutico potencial para los PitNETs secretores de GH, justificando futuras investigaciones.",
+      "bottomLineEn": "These findings suggest that tigecycline, an antibiotic, could be a potential therapeutic agent for GH-secreting PitNETs, warranting further investigation.",
+      "relevance": "Preclínico",
+      "pmid": "42359160",
+      "url": "https://doi.org/10.1155/ije/3784550",
+      "source": "Int J Endocrinol",
+      "date": "2026",
       "topicId": "net"
     },
     {
       "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Perfil molecular en Cáncer de Vías Biliares: Terapia dirigida mejora SLP, no SG.",
-      "headlineEn": "Molecular Profiling in BTC: Targeted Therapy Improves PFS, Not OS.",
-      "studyType": "Estudio de cohorte prospectivo",
+      "headlineEs": "Nimotuzumab potencia inmunoterapia con células NK en cáncer de páncreas KRAS mutado",
+      "headlineEn": "Nimotuzumab enhances NK cell immunotherapy in KRAS-mutant pancreatic cancer",
+      "studyType": "Preclínico",
       "trialName": null,
-      "n": "1254 pacientes",
-      "primaryMetricLabelEs": "Supervivencia Libre de Progresión (SLP)",
-      "primaryMetricLabelEn": "Progression-Free Survival (PFS)",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "dna",
-          "es": "El 59% de los pacientes con BTC presentaban alteraciones OncoKB; 32.2% con alteraciones nivel 1/2.",
-          "en": "59% of BTC patients harbored OncoKB alterations; 32.2% with level 1/2 alterations."
+          "es": "PDAC con mutación KRAS exhibe resistencia intrínseca a terapias dirigidas a EGFR.",
+          "en": "KRAS-mutant PDAC shows intrinsic resistance to EGFR-targeted therapies."
+        },
+        {
+          "icon": "pill",
+          "es": "Nimotuzumab (anticuerpo IgG1 anti-EGFR) potencia la citotoxicidad celular dependiente de anticuerpos (ADCC) mediada por células NK.",
+          "en": "Nimotuzumab (EGFR-targeting IgG1 antibody) enhances NK cell-mediated antibody-dependent cellular cytotoxicity (ADCC)."
         },
         {
           "icon": "target",
-          "es": "KRAS (17%), MTAP (12.8%), MDM2 (6.5%) y MET (1.5%) son dianas emergentes.",
-          "en": "KRAS (17%), MTAP (12.8%), MDM2 (6.5%), and MET (1.5%) are emerging targets."
+          "es": "Las mutaciones KRAS no comprometen la ADCC mediada por nimotuzumab; la expresión de EGFR tumoral predice la respuesta.",
+          "en": "KRAS mutations do not compromise nimotuzumab-mediated ADCC; tumor EGFR expression predicts responsiveness."
         },
         {
-          "icon": "alert-triangle",
-          "es": "La resistencia adquirida se asoció con alteraciones en RAS, MEK, MET, MYC y CDKN2A.",
-          "en": "Acquired resistance linked to alterations in RAS, MEK, MET, MYC, and CDKN2A."
-        },
-        {
-          "icon": "dna",
-          "es": "Co-alteraciones TP53/RAS y SMAD4 se asocian a peores resultados en tumores IDH1/FGFR2 y ERBB2.",
-          "en": "Co-occurring TP53/RAS and SMAD4 alterations linked to inferior outcomes in IDH1/FGFR2 and ERBB2 tumors."
+          "icon": "shield-check",
+          "es": "La combinación de nimotuzumab y terapia adoptiva con células NK ejerce potente eficacia antitumoral en modelos preclínicos de PDAC.",
+          "en": "Combined nimotuzumab and adoptive NK cell therapy exerts potent antitumor efficacy in preclinical PDAC models."
         }
       ],
-      "bottomLineEs": "El perfilado molecular en BTC demuestra utilidad y limitaciones de la secuenciación de nueva generación, afirmando la medicina de precisión y la necesidad de caracterizar la resistencia para el desarrollo de fármacos.",
-      "bottomLineEn": "Molecular profiling in BTC shows real-world utility and limitations of NGS, affirming precision medicine and the need to characterize resistance for drug development.",
-      "relevance": "Práctica clínica",
-      "pmid": "42360806",
-      "url": "https://doi.org/10.1158/1078-0432.CCR-26-0428",
-      "source": "Clin Cancer Res",
-      "date": "2026-Jun-26",
+      "bottomLineEs": "La inmunoterapia con células NK dirigida a EGFR es una estrategia prometedora para PDAC con mutación KRAS, con la expresión de EGFR como biomarcador predictivo.",
+      "bottomLineEn": "EGFR-directed NK cell immunotherapy is a promising strategy for KRAS-mutant PDAC, with EGFR expression as a predictive biomarker.",
+      "relevance": "Preclínico",
+      "pmid": "42358409",
+      "url": "https://doi.org/10.1002/mco2.70860",
+      "source": "MedComm (2020)",
+      "date": "2026-Jul",
       "topicId": "kras"
     }
   ]
