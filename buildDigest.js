@@ -112,6 +112,33 @@ async function main() {
 
   console.log(`\n=== Digest del ${date}: ${cards.length} tarjeta(s) ===`);
   console.log(`Guardado en ${path.join(DATA_DIR, "latest.json")}`);
+
+  await sendPush(cards);
+}
+
+// Envía una notificación al móvil vía Expo (si hay token y novedades).
+async function sendPush(cards) {
+  const token = process.env.EXPO_PUSH_TOKEN;
+  if (!token) return;          // notificación no configurada
+  if (!cards.length) return;   // no avisar si no hay novedades
+  const top = cards[0];
+  const extra = cards.length > 1 ? ` (+${cards.length - 1} más)` : "";
+  const message = {
+    to: token,
+    sound: "default",
+    title: `${cards.length} novedad${cards.length > 1 ? "es" : ""} en oncología`,
+    body: `${top.headlineEs}${extra}`,
+  };
+  try {
+    const res = await fetch("https://exp.host/--/api/v2/push/send", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(message),
+    });
+    console.log("Notificación enviada:", JSON.stringify(await res.json()));
+  } catch (e) {
+    console.log("No se pudo enviar la notificación:", e.message);
+  }
 }
 
 main().catch((e) => {
