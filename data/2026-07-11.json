@@ -1,125 +1,278 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T08:00:29.755Z",
-  "count": 2,
+  "generatedAt": "2026-07-11T17:07:00.044Z",
+  "count": 6,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Costo-efectividad de tratamientos de primera línea para cáncer de páncreas metastásico",
-      "headlineEn": "Cost-effectiveness of first-line treatments for metastatic pancreatic cancer",
-      "studyType": "Estudio de costo-efectividad",
+      "headlineEs": "Factibilidad y seguridad de FOLFIRINOX neoadyuvante en PDAC en práctica real",
+      "headlineEn": "Real-world feasibility and safety of neoadjuvant FOLFIRINOX in PDAC",
+      "studyType": "Estudio retrospectivo monocéntrico",
       "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": "Ratio de costo-efectividad incremental (ICER) por AVAC",
-      "primaryMetricLabelEn": "Incremental Cost-Effectiveness Ratio (ICER) per QALY",
-      "arms": [
-        {
-          "name": "FOLFIRINOX vs Gemcitabine",
-          "value": "US$6,864/QALY",
-          "months": null,
-          "highlight": true
-        },
-        {
-          "name": "NALIRIFOX vs Gemcitabine",
-          "value": "US$114,614/QALY",
-          "months": null,
-          "highlight": false
-        },
-        {
-          "name": "GEM-NAB-PAC vs Gemcitabine",
-          "value": "US$231,750/QALY",
-          "months": null,
-          "highlight": false
-        }
-      ],
+      "n": "81 pacientes",
+      "primaryMetricLabelEs": "Número de ciclos y tolerabilidad",
+      "primaryMetricLabelEn": "Cycles administered and tolerability",
+      "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "Población: pacientes con adenocarcinoma de páncreas metastásico no tratados previamente.",
-          "en": "Population: previously untreated metastatic pancreatic adenocarcinoma patients."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Perspectiva del estudio: pagador de atención médica de EE. UU.",
-          "en": "Study perspective: U.S. healthcare payer."
-        },
-        {
-          "icon": "target",
-          "es": "Umbral de disposición a pagar (WTP): US$150,000 por AVAC.",
-          "en": "Willingness-to-pay (WTP) threshold: US$150,000 per QALY."
-        },
-        {
-          "icon": "dna",
-          "es": "Datos de eficacia clínica derivados de los ensayos NAPOLI-3 y PRODIGE4-ACCORD11.",
-          "en": "Clinical efficacy data derived from NAPOLI-3 and PRODIGE4-ACCORD11 trials."
-        }
-      ],
-      "bottomLineEs": "FOLFIRINOX es el tratamiento de primera línea más costo-efectivo para cáncer de páncreas metastásico; NALIRIFOX es una alternativa costo-efectiva bajo umbrales aceptados.",
-      "bottomLineEn": "FOLFIRINOX is the most cost-effective first-line treatment for metastatic pancreatic cancer; NALIRIFOX is a cost-effective alternative at accepted thresholds.",
-      "relevance": "Práctica clínica",
-      "pmid": "42430100",
-      "url": "https://doi.org/10.1007/s12094-026-04504-4",
-      "source": "Clin Transl Oncol",
-      "date": "2026-Jul-10",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Radioterapia Ablativa para HCC Central: Baja Toxicidad y Excelente Control Local",
-      "headlineEn": "Ablative Radiotherapy for Central HCC: Low Toxicity and Excellent Local Control",
-      "studyType": "Estudio retrospectivo",
-      "trialName": null,
-      "n": "103 pacientes",
-      "primaryMetricLabelEs": "Toxicidad hepatobiliar Grado ≥3 CTCAE",
-      "primaryMetricLabelEn": "Grade ≥3 CTCAE hepatobiliary toxicity",
-      "arms": [
-        {
-          "name": "HCC central",
-          "value": "28 meses",
-          "months": 28,
-          "highlight": false
-        },
-        {
-          "name": "HCC periférico",
-          "value": "42 meses",
-          "months": 42,
-          "highlight": false
-        }
-      ],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "48 pacientes (47%) con HCC central (CL-HCC)",
-          "en": "48 patients (47%) with centrally located HCC (CL-HCC)"
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "No se observaron estenosis biliares Grado ≥3; 1 caso de trombosis portal",
-          "en": "No Grade ≥3 biliary strictures observed; 1 case of portal vein thrombosis"
-        },
-        {
-          "icon": "target",
-          "es": "Control local >90% en ambos grupos (central y periférico)",
-          "en": "Local control >90% in both central and peripheral groups"
+          "es": "81 pacientes con PDAC resecable límite o localmente avanzado fueron incluidos.",
+          "en": "81 patients with borderline resectable or locally advanced PDAC were included."
         },
         {
           "icon": "pill",
-          "es": "Modalidades de EBRT: SBRT (29%), terapia de protones (58%), IMRT (13%)",
-          "en": "EBRT modalities: SBRT (29%), proton therapy (58%), IMRT (13%)"
+          "es": "La mediana de ciclos de (m)FOLFIRINOX administrados fue de seis.",
+          "en": "Median of six (m)FOLFIRINOX cycles administered."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La toxicidad fue la razón de interrupción en solo el 6.2% de los pacientes.",
+          "en": "Toxicity accounted for discontinuation in only 6.2% of patients."
+        },
+        {
+          "icon": "clock",
+          "es": "Ocho ciclos de mFOLFIRINOX parecen factibles para futuros ensayos clínicos.",
+          "en": "Eight cycles of mFOLFIRINOX appear feasible for future clinical trials."
         }
       ],
-      "bottomLineEs": "La radioterapia ablativa para el HCC central logra un excelente control local con bajas tasas de toxicidad hepatobiliar clínicamente significativa, apoyando su uso en esta población de alto riesgo.",
-      "bottomLineEn": "Ablative EBRT for centrally located HCC achieves excellent local control with low rates of clinically significant hepatobiliary toxicity, supporting its use in this high-risk population.",
+      "bottomLineEs": "La mayoría de los pacientes con PDAC pueden completar FOLFIRINOX neoadyuvante con soporte adecuado, sugiriendo 8 ciclos de mFOLFIRINOX como régimen óptimo para futuros ensayos.",
+      "bottomLineEn": "Most PDAC patients can complete neoadjuvant FOLFIRINOX with adequate supportive care, suggesting 8 cycles of mFOLFIRINOX as an optimal regimen for future trials.",
+      "relevance": "Emergente",
+      "pmid": "42434287",
+      "url": "https://doi.org/10.21037/jgo-2026-1-0041",
+      "source": "J Gastrointest Oncol",
+      "date": "2026-Jun-30",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Excelentes resultados quirúrgicos en Neoplasia Pseudopapilar Sólida (SPEN) de páncreas",
+      "headlineEn": "Excellent Surgical Outcomes for Solid Pseudopapillary Epithelial Neoplasm (SPEN) of the Pancreas",
+      "studyType": "Análisis Retrospectivo",
+      "trialName": null,
+      "n": "29",
+      "primaryMetricLabelEs": "Tasa de Supervivencia",
+      "primaryMetricLabelEn": "Survival Rate",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Predominantemente en mujeres jóvenes (ratio M:F 1:8.6, edad media 24 años).",
+          "en": "Predominantly in young females (M:F ratio 1:8.6, median age 24 years)."
+        },
+        {
+          "icon": "dna",
+          "es": "Tumores indolentes, de bajo grado, con un diámetro medio de 6.1 cm.",
+          "en": "Indolent, low-grade tumors, with a mean diameter of 6.1 cm."
+        },
+        {
+          "icon": "pill",
+          "es": "La mayoría (62.1%) requirió resección pancreática; 37.9% enucleación.",
+          "en": "Majority (62.1%) underwent pancreatic resection; 37.9% enucleation."
+        },
+        {
+          "icon": "shield-check",
+          "es": "A 37 meses de seguimiento, 96.6% de los pacientes estaban vivos, con 1 recurrencia local.",
+          "en": "At 37 months median follow-up, 96.6% of patients were alive, with 1 local recurrence."
+        }
+      ],
+      "bottomLineEs": "La neoplasia pseudopapilar sólida del páncreas es un tumor indolente con excelentes resultados a corto y largo plazo tras la resección quirúrgica, que es el tratamiento curativo principal.",
+      "bottomLineEn": "Solid pseudopapillary epithelial neoplasm of the pancreas is an indolent tumor with excellent short- and long-term outcomes following surgical resection, which is the primary curative treatment.",
       "relevance": "Práctica clínica",
-      "pmid": "42430763",
-      "url": "https://doi.org/10.1097/COC.0000000000001323",
-      "source": "Am J Clin Oncol",
-      "date": "2026-Jul-10",
+      "pmid": "42434153",
+      "url": "https://doi.org/10.20524/aog.2026.1068",
+      "source": "Ann Gastroenterol",
+      "date": "2026",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "HAIC tras drenaje biliar mejora SG en colangiocarcinoma perihiliar avanzado",
+      "headlineEn": "HAIC after Biliary Drainage Improves OS in Advanced Perihilar Cholangiocarcinoma",
+      "studyType": "Estudio controlado no aleatorizado, multicéntrico, prospectivo",
+      "trialName": "NCT05024513",
+      "n": "127",
+      "primaryMetricLabelEs": "Supervivencia global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "BD + HAIC",
+          "value": "17.63 meses",
+          "months": 17.63,
+          "highlight": true
+        },
+        {
+          "name": "BD + BSC",
+          "value": "6.10 meses",
+          "months": 6.1,
+          "highlight": false
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "127 participantes con colangiocarcinoma perihiliar avanzado (pCCA) no metastásico a distancia ni N2, ECOG 0-1, Child-Pugh ≤7.",
+          "en": "127 participants with advanced perihilar cholangiocarcinoma (pCCA) without distant metastases or N2 disease, ECOG 0-1, Child-Pugh ≤7."
+        },
+        {
+          "icon": "pill",
+          "es": "HAIC consistió en oxaliplatino, 5-fluorouracilo y leucovorina administrados tras el drenaje biliar.",
+          "en": "HAIC consisted of oxaliplatin, 5-fluorouracil, and leucovorin administered after biliary drainage."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La remisión de ictericia fue significativamente mayor con BD+HAIC (93.7% vs 46.9%) y más duradera (12.67 vs 4.50 meses).",
+          "en": "Jaundice remission was significantly higher with BD+HAIC (93.7% vs 46.9%) and more durable (12.67 vs 4.50 months)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Los eventos adversos fueron manejables, sin muertes relacionadas con el tratamiento; los eventos G3-4 fueron poco comunes.",
+          "en": "Adverse events were manageable, with no treatment-related deaths; Grade 3-4 events were uncommon."
+        }
+      ],
+      "bottomLineEs": "El drenaje biliar seguido de HAIC se asoció con una mayor supervivencia y una remisión de ictericia más duradera en pCCA avanzado. Sin embargo, debido al diseño no aleatorizado, estos hallazgos son generadores de hipótesis y requieren estudios aleatorizados confirmatorios.",
+      "bottomLineEn": "Biliary drainage followed by HAIC was associated with longer survival and more durable jaundice remission in advanced pCCA. However, due to the non-randomised design, these findings are hypothesis-generating and require confirmatory randomised studies.",
+      "relevance": "Emergente",
+      "pmid": "42433279",
+      "url": "https://doi.org/10.1016/j.eclinm.2026.104040",
+      "source": "EClinicalMedicine",
+      "date": "2026-Jul",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Modelo de Fusión CEMRI predice patrón VETC en HCC con alta precisión",
+      "headlineEn": "CEMRI Fusion Model Accurately Predicts VETC Pattern in HCC",
+      "studyType": "Análisis radiogenómico exploratorio retrospectivo",
+      "trialName": null,
+      "n": "336 pacientes con HCC (336 lesiones)",
+      "primaryMetricLabelEs": "Rendimiento predictivo (AUC)",
+      "primaryMetricLabelEn": "Predictive performance (AUC)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo en 336 pacientes con HCC (336 lesiones) para desarrollo del modelo.",
+          "en": "Retrospective study in 336 HCC patients (336 lesions) for model development."
+        },
+        {
+          "icon": "dna",
+          "es": "El patrón VETC es un subtipo agresivo de HCC caracterizado por angiogénesis e infiltración inmune.",
+          "en": "VETC pattern is an aggressive HCC subtype characterized by angiogenesis and immune infiltration."
+        },
+        {
+          "icon": "target",
+          "es": "El modelo de fusión (radiómica ITH + Deep Learning) alcanzó AUCs de 0.901 (entrenamiento) y 0.870 (validación).",
+          "en": "The fusion model (ITH radiomics + Deep Learning) achieved AUCs of 0.901 (training) and 0.870 (validation)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El grupo de alto riesgo (VETC) mostró una reducción significativa de células dendríticas en reposo, sugiriendo evasión inmune.",
+          "en": "The high-risk (VETC) group showed a significant reduction in resting dendritic cells, suggesting immune evasion."
+        }
+      ],
+      "bottomLineEs": "Un modelo de fusión basado en CEMRI que integra características de heterogeneidad intratumoral (ITH) y deep learning (DL) predice con precisión el patrón VETC en HCC y se asocia con perfiles transcriptómicos e inmunes relevantes.",
+      "bottomLineEn": "A CEMRI-based fusion model integrating intratumoral heterogeneity (ITH) and deep learning (DL) features accurately predicts the VETC pattern in HCC and is associated with relevant transcriptomic and immune profiles.",
+      "relevance": "Emergente",
+      "pmid": "42434750",
+      "url": "https://doi.org/10.3389/fonc.2026.1809603",
+      "source": "Front Oncol",
+      "date": "2026",
       "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Manejo de Neoplasias Neuroendocrinas Apendiculares (aNENs): Actualización y Estratificación de Riesgo",
+      "headlineEn": "Management of Appendiceal Neuroendocrine Neoplasms (aNENs): Updates and Risk Stratification",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Las aNENs se descubren incidentalmente en especímenes de apendicectomía.",
+          "en": "aNENs are most often incidentally identified on appendectomy specimens."
+        },
+        {
+          "icon": "dna",
+          "es": "La estratificación de riesgo postoperatoria se basa en tamaño, Ki-67, profundidad de invasión e invasión linfovascular (LVI).",
+          "en": "Postoperative risk stratification relies on tumor size, Ki-67, depth of invasion, and lymphovascular invasion (LVI)."
+        },
+        {
+          "icon": "pill",
+          "es": "Apendicectomía simple para tumores de bajo riesgo (<1 cm); hemicolectomía derecha para alto riesgo (>2 cm o LVI).",
+          "en": "Simple appendectomy for low-risk tumors (<1 cm); right hemicolectomy for high-risk lesions (>2 cm or LVI)."
+        },
+        {
+          "icon": "target",
+          "es": "El manejo de aNENs de tamaño intermedio (1.0-2.0 cm) es el área principal de incertidumbre clínica.",
+          "en": "Management of intermediate-sized aNENs (1.0-2.0 cm) remains the principal area of clinical uncertainty."
+        }
+      ],
+      "bottomLineEs": "Esta revisión actualiza el marco para la estratificación de riesgo individualizada y el manejo multidisciplinar de las aNENs, buscando refinar la práctica clínica.",
+      "bottomLineEn": "This review provides an updated framework for individualized risk stratification and multidisciplinary management of aNENs, aiming to refine clinical practice.",
+      "relevance": "Práctica clínica",
+      "pmid": "42434165",
+      "url": "https://doi.org/10.20524/aog.2026.1070",
+      "source": "Ann Gastroenterol",
+      "date": "2026",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Perfilado genómico identifica fusiones accionables en carcinomas GI",
+      "headlineEn": "Genomic Profiling Identifies Actionable Fusions in GI Carcinomas",
+      "studyType": "Estudio retrospectivo",
+      "trialName": null,
+      "n": "2,300",
+      "primaryMetricLabelEs": "Pacientes con fusiones detectadas",
+      "primaryMetricLabelEn": "Patients with detected fusions",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "2,300 pacientes con carcinomas gastrointestinales incluidos en el análisis.",
+          "en": "2,300 patients with gastrointestinal carcinomas included in the analysis."
+        },
+        {
+          "icon": "dna",
+          "es": "El 6.0% de los carcinomas GI presentaron fusiones; la incidencia más alta fue en CTP (13.7%).",
+          "en": "6.0% of GI carcinomas had fusions; highest incidence in BTCs (13.7%)."
+        },
+        {
+          "icon": "dna",
+          "es": "Las fusiones KRAS fueron las segundas más frecuentes (1.4% global), 2.6% en CCR y 5.8% en intestino delgado.",
+          "en": "KRAS fusions were second most frequent (1.4% overall), 2.6% in CRC and 5.8% in small bowel."
+        },
+        {
+          "icon": "target",
+          "es": "La terapia dirigida a fusiones se asoció con mayor supervivencia en cáncer de páncreas y CTP con fusiones NTRK.",
+          "en": "Fusion targeted therapy associated with longer survival in fusion-positive pancreatic cancer and NTRK-fusion positive BTCs."
+        }
+      ],
+      "bottomLineEs": "El perfilado genómico integral basado en ARN es crucial para identificar fusiones accionables en carcinomas GI, asociadas a una mayor supervivencia con terapia dirigida.",
+      "bottomLineEn": "RNA-based comprehensive genomic profiling is crucial for identifying actionable fusions in GI carcinomas, associated with longer survival with targeted therapy.",
+      "relevance": "Práctica clínica",
+      "pmid": "42434285",
+      "url": "https://doi.org/10.21037/jgo-2026-1-0178",
+      "source": "J Gastrointest Oncol",
+      "date": "2026-Jun-30",
+      "topicId": "kras"
     }
   ]
 }
