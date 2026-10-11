@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T12:19:54.025Z",
+  "count": 4,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "PhoFAP-02: Nuevo fotosensibilizador dirigido a FAP para PDT en PDAC preclínico",
+      "headlineEn": "PhoFAP-02: Novel FAP-targeted photosensitizer for PDT in preclinical PDAC",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "El estroma de PDAC, rico en FAP, es una diana atractiva para la terapia fotodinámica (PDT).",
+          "en": "FAP-rich PDAC stroma is an attractive target for photodynamic therapy (PDT)."
+        },
+        {
+          "icon": "dna",
+          "es": "PhoFAP-02, con un enlace amida, mostró mayor afinidad por FAP (IC28 nM) y selectividad fototóxica que PhoFAP-01.",
+          "en": "PhoFAP-02, with an amide linkage, showed higher FAP affinity (IC28 nM) and phototoxic selectivity than PhoFAP-01."
+        },
+        {
+          "icon": "shield-check",
+          "es": "PhoFAP-02 no mostró toxicidad en la oscuridad ni toxicidad inducida por luz en células FAP-negativas.",
+          "en": "PhoFAP-02 showed no dark toxicity or light-induced toxicity in FAP-negative cells."
+        },
+        {
+          "icon": "clock",
+          "es": "En ratones con tumores PDAC, PhoFAP-02 alcanzó una captación tumoral de 6.6%ID/g a 1h.",
+          "en": "In PDAC tumor-bearing mice, PhoFAP-02 achieved 6.6%ID/g tumor uptake at 1h."
+        }
+      ],
+      "bottomLineEs": "PhoFAP-02 es un prometedor fotosensibilizador de molécula pequeña dirigido a FAP para PDT en PDAC, destacando la importancia del diseño del linker.",
+      "bottomLineEn": "PhoFAP-02 is a promising small-molecule FAP-targeted photosensitizer for PDT in PDAC, highlighting the importance of linker design.",
+      "relevance": "Preclínico",
+      "pmid": "42858565",
+      "url": "https://doi.org/10.1016/j.ejmech.2026.119411",
+      "source": "Eur J Med Chem",
+      "date": "2026-Oct-8",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Decodificando el Microambiente Tumoral del Colangiocarcinoma (TME) con Ómicas Espaciales y de Célula Única",
+      "headlineEn": "Decoding Cholangiocarcinoma Tumor Microenvironment (TME) with Single-Cell and Spatial Omics",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Técnicas avanzadas (RNA-seq de célula única, multi-ómicas espaciales) redefinen el TME del CCA.",
+          "en": "Advanced techniques (single-cell RNA-seq, spatial multi-omics) redefine CCA TME."
+        },
+        {
+          "icon": "target",
+          "es": "Identifica estados celulares y nichos espaciales clínicamente relevantes (ej. fibroblastos CD146+, macrófagos SPP1+).",
+          "en": "Identifies clinically relevant cellular states and spatial niches (e.g., CD146+ fibroblasts, SPP1+ macrophages)."
+        },
+        {
+          "icon": "dna",
+          "es": "Describe ejes de comunicación clave (IL-6/IL-6R, TGF-β/TGFBR, PD-1/PD-L1) que impulsan la evasión inmune y resistencia.",
+          "en": "Describes key communication axes (IL-6/IL-6R, TGF-β/TGFBR, PD-1/PD-L1) driving immune escape and resistance."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Propone un marco traslacional para estratificación de pacientes y terapia combinada basada en el TME.",
+          "en": "Proposes a translational framework for patient stratification and TME-based combination therapy."
+        }
+      ],
+      "bottomLineEs": "Esta revisión integra atlas de célula única y espaciales del CCA, proponiendo un marco conceptual para usar estados celulares del TME, biomarcadores espaciales y ejes de comunicación como base para la estratificación de pacientes y terapias combinadas racionales. Requiere validación prospectiva.",
+      "bottomLineEn": "This review integrates single-cell and spatial CCA atlases, proposing a conceptual framework to leverage TME-derived cellular states, spatial biomarkers, and druggable communication axes for patient stratification and rational combination therapy. Requires prospective validation.",
+      "relevance": "Emergente",
+      "pmid": "42859146",
+      "url": "https://doi.org/10.1186/s12967-026-08750-6",
+      "source": "J Transl Med",
+      "date": "2026-Aug-3",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Radioembolización transarterial (TARE) con Y-90: Terapia locorregional eficaz para HCC",
+      "headlineEn": "Transarterial Radioembolization (TARE) with Y-90: Effective Locoregional Therapy for HCC",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La dosimetría personalizada mejora significativamente las tasas de respuesta (estudio DOSISPHERE-01).",
+          "en": "Personalized dosimetry significantly improves response rates (DOSISPHERE-01 study)."
+        },
+        {
+          "icon": "pill",
+          "es": "Estrategias de combinación con inhibidores de puntos de control inmunitario (ICI) y tirosina quinasa (TKI) muestran potencial sinérgico.",
+          "en": "Combination strategies with immune checkpoint inhibitors (ICI) and tyrosine kinase inhibitors (TKI) show synergistic potential."
+        },
+        {
+          "icon": "shield-check",
+          "es": "TARE presenta un perfil de seguridad favorable en comparación con las terapias sistémicas.",
+          "en": "TARE demonstrates a favorable safety profile compared to systemic therapies."
+        }
+      ],
+      "bottomLineEs": "La radioembolización transarterial (TARE) es una terapia locorregional segura y efectiva para el HCC, con indicaciones en expansión y potencial sinérgico en combinación con terapias sistémicas.",
+      "bottomLineEn": "Transarterial radioembolization (TARE) is a safe and effective locoregional therapy for HCC, with expanding indications and synergistic potential in combination with systemic therapies.",
+      "relevance": "Práctica clínica",
+      "pmid": "42859496",
+      "url": "https://doi.org/10.26574/maedica.2026.21.3.749",
+      "source": "Maedica (Bucur)",
+      "date": "2026-Sep",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Interacción Ferroptosis-Cuproptosis en Cáncer de Páncreas: Implicaciones Terapéuticas",
+      "headlineEn": "Ferroptosis-Cuproptosis Interaction in Pancreatic Cancer: Therapeutic Implications",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El PDAC impulsado por KRAS es altamente dependiente de la homeostasis de iones metálicos y sistemas antioxidantes.",
+          "en": "KRAS-driven PDAC is highly dependent on metal ion homeostasis and antioxidant systems."
+        },
+        {
+          "icon": "pill",
+          "es": "La ferroptosis (peroxidación lipídica dependiente de hierro) y la cuproptosis (unión de cobre a proteínas lipoiladas mitocondriales) son modos de muerte celular regulada.",
+          "en": "Ferroptosis (iron-dependent lipid peroxidation) and cuproptosis (copper binding to mitochondrial lipoylated proteins) are regulated cell death modes."
+        },
+        {
+          "icon": "dna",
+          "es": "Ambas formas de muerte celular interactúan en el PDAC a través de múltiples vías metabólicas y de respuesta al estrés.",
+          "en": "Both cell death forms interact in PDAC via multiple metabolic and stress-response pathways."
+        },
+        {
+          "icon": "target",
+          "es": "Factores del microambiente tumoral (KRAS, CAFs, hipoxia) regulan estos programas de muerte, impactando la resistencia a fármacos y células madre.",
+          "en": "Tumor microenvironmental factors (KRAS, CAFs, hypoxia) regulate these death programs, impacting drug resistance and cancer stem cells."
+        }
+      ],
+      "bottomLineEs": "La interacción entre ferroptosis y cuproptosis, modulada por KRAS y el microambiente, ofrece una base teórica para nuevas terapias sinérgicas en cáncer de páncreas.",
+      "bottomLineEn": "The interaction between ferroptosis and cuproptosis, modulated by KRAS and the tumor microenvironment, provides a theoretical basis for novel synergistic therapies in pancreatic cancer.",
+      "relevance": "Emergente",
+      "pmid": "42857319",
+      "url": "https://doi.org/10.3892/ol.2026.15883",
+      "source": "Oncol Lett",
+      "date": "2026-Nov",
+      "topicId": "kras"
+    }
+  ]
+}
