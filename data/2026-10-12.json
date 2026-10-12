@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T14:45:32.439Z",
+  "count": 5,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Nanosomas de oxígeno dirigidos a ácido siálico alivian hipoxia y activan macrófagos en PDAC",
+      "headlineEn": "Sialic Acid-Targeting Oxygen Nanosomes Alleviate Hypoxia, Activate Macrophages in PDAC",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "Alivian la hipoxia y promueven la activación de macrófagos en el microambiente tumoral.",
+          "en": "Alleviate hypoxia and promote macrophage activation in the tumor microenvironment."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Demostraron entrega efectiva de oxígeno y reducción de fluorescencia asociada a hipoxia.",
+          "en": "Demonstrated effective oxygen delivery and reduced hypoxia-associated fluorescence."
+        },
+        {
+          "icon": "dna",
+          "es": "Aumentaron la secreción de TNF-α en co-cultivos de células de cáncer y macrófagos.",
+          "en": "Increased TNF-α secretion in pancreatic cancer cell-macrophage co-cultures."
+        }
+      ],
+      "bottomLineEs": "Los nanosomas Lectin-ONs representan una plataforma prometedora para modular la hipoxia y la inmunosupresión en el cáncer de páncreas, requiriendo validación in vivo.",
+      "bottomLineEn": "Lectin-ONs represent a promising platform to modulate hypoxia and immunosuppression in pancreatic cancer, requiring in vivo validation.",
+      "relevance": "Preclínico",
+      "pmid": "42861168",
+      "url": "https://doi.org/10.2147/IJN.S630472",
+      "source": "Int J Nanomedicine",
+      "date": "2026",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Diferenciación de Carcinoma de Células Acinares y Neoplasia Pseudopapilar Sólida mediante TC",
+      "headlineEn": "Differentiating Acinar Cell Carcinoma from Solid Pseudopapillary Neoplasm via CT",
+      "studyType": "Retrospectivo",
+      "trialName": null,
+      "n": "68",
+      "primaryMetricLabelEs": "Precisión diagnóstica (AUC)",
+      "primaryMetricLabelEn": "Diagnostic Accuracy (AUC)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo de 68 pacientes (51 neoplasias pseudopapilares sólidas, 17 carcinomas de células acinares).",
+          "en": "Retrospective study of 68 patients (51 solid pseudopapillary neoplasms, 17 pancreatic acinar cell carcinomas)."
+        },
+        {
+          "icon": "dna",
+          "es": "Los pacientes con carcinoma de células acinares fueron significativamente mayores y más frecuentemente hombres.",
+          "en": "Patients with PACC were significantly older and more likely to be male."
+        },
+        {
+          "icon": "target",
+          "es": "El ratio de realce tumor-páncreas en fase parenquimatosa y la dilatación del conducto pancreático fueron predictores independientes de PACC.",
+          "en": "Tumor-to-pancreas enhancement ratio in PPP and pancreatic duct dilation were independent predictors of PACC."
+        },
+        {
+          "icon": "target",
+          "es": "El signo de 'nube flotante' se asoció con neoplasia pseudopapilar sólida. El modelo combinado alcanzó un AUC de 0.865.",
+          "en": "The 'floating cloud' sign was associated with SPN. The combined model achieved an AUC of 0.865."
+        }
+      ],
+      "bottomLineEs": "Una evaluación combinada de características de TC con contraste puede mejorar la diferenciación preoperatoria entre carcinoma de células acinares y neoplasia pseudopapilar sólida.",
+      "bottomLineEn": "A combined assessment of contrast-enhanced CT features may improve preoperative differentiation between pancreatic acinar cell carcinoma and solid pseudopapillary neoplasm.",
+      "relevance": "Práctica clínica",
+      "pmid": "42861071",
+      "url": "https://doi.org/10.21037/qims-2026-1280",
+      "source": "Quant Imaging Med Surg",
+      "date": "2026-Oct-1",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Sistemas de Liberación de Fármacos (DDS) para HCC: Superando Barreras y Estrategias Futuras",
+      "headlineEn": "Drug Delivery Systems (DDS) for HCC: Overcoming Barriers and Future Strategies",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Los DDS abordan la heterogeneidad del HCC y las barreras fisiopatológicas (vasculatura, hipoxia, pH bajo, TME inmunosupresor).",
+          "en": "DDS address HCC heterogeneity and pathophysiological barriers (aberrant vasculature, hypoxia, low pH, immunosuppressive TME)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La traslación clínica de la mayoría de los DDS es un reto debido a la heterogeneidad tumoral, resistencia a múltiples fármacos y seguridad a largo plazo.",
+          "en": "Clinical translation of most DDS is challenging due to tumor heterogeneity, multidrug resistance, and long-term safety."
+        },
+        {
+          "icon": "target",
+          "es": "Estrategias futuras incluyen atacar CSCs, integrar inmunoterapia, sistemas biomiméticos y plataformas teranósticas.",
+          "en": "Future strategies include targeting CSCs, integrating immunotherapy, biomimetic systems, and theranostic platforms."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El éxito de los DDS requiere un enfoque de 'ingeniería de sistemas' para el control preciso de la distribución del fármaco y la interacción inmune.",
+          "en": "DDS success requires a 'systems engineering' approach for precise drug distribution control and immune interaction."
+        }
+      ],
+      "bottomLineEs": "Esta revisión destaca el potencial de los sistemas de liberación de fármacos para superar las barreras del HCC, enfatizando la necesidad de un enfoque integral y modelos más relevantes para la traslación clínica.",
+      "bottomLineEn": "This review highlights the potential of drug delivery systems to overcome HCC barriers, emphasizing the need for a systems engineering approach and more clinically relevant models for translation.",
+      "relevance": "Emergente",
+      "pmid": "42861321",
+      "url": "https://doi.org/10.2147/DDDT.S630797",
+      "source": "Drug Des Devel Ther",
+      "date": "2026",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Activador de Sirt6 muestra actividad antitumoral en tumores neuroendocrinos hipofisarios (PitNET)",
+      "headlineEn": "Sirt6 Activator Shows Antitumor Activity in Pituitary Neuroendocrine Tumors (PitNETs)",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "El activador de Sirt6, MDL-800, suprimió el crecimiento celular in vitro e in vivo.",
+          "en": "The Sirt6 activator, MDL-800, suppressed cell growth in vitro and in vivo."
+        },
+        {
+          "icon": "dna",
+          "es": "MDL-800 indujo autofagia letal, ejerciendo un efecto antitumoral.",
+          "en": "MDL-800 led to lethal autophagy, exerting an antitumor effect."
+        },
+        {
+          "icon": "users",
+          "es": "MDL-800 demostró efecto antitumoral en células primarias de PitNET humanas.",
+          "en": "MDL-800 showed antitumor effect in human primary PitNET cells."
+        }
+      ],
+      "bottomLineEs": "La activación de Sirt6 mediante su activador selectivo MDL-800 es una terapia prometedora para los PitNETs, con evidencia preclínica sólida.",
+      "bottomLineEn": "Activation of Sirt6 by its selective activator MDL-800 is a promising therapy for PitNETs, with strong preclinical evidence.",
+      "relevance": "Preclínico",
+      "pmid": "42842149",
+      "url": "https://doi.org/10.1007/s12020-026-04780-8",
+      "source": "Endocrine",
+      "date": "2026-Oct-7",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Avances en el bloqueo de la señalización RAS mutada: una actualización 2026",
+      "headlineEn": "Advances in Blockade of Mutant RAS Oncogenic Signaling: A 2026 Update",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Una quinta parte de todos los cánceres presentan mutaciones RAS; el 75% de ellas son KRAS.",
+          "en": "One-fifth of all cancers harbor RAS mutations; 75% of them involve KRAS."
+        },
+        {
+          "icon": "target",
+          "es": "Las mutaciones KRAS son frecuentes en cáncer de páncreas, pulmón y colorrectal (G12D/V/C/R, G13D, Q61R/K/L).",
+          "en": "KRAS mutations are common in pancreatic, lung, and colorectal cancers (G12D/V/C/R, G13D, Q61R/K/L)."
+        },
+        {
+          "icon": "pill",
+          "es": "Sotorasib y Adagrasib (inhibidores directos KRAS G12C) aprobados para CPNM mutado KRAS en 2L.",
+          "en": "Sotorasib and Adagrasib (direct KRAS G12C inhibitors) FDA-approved for 2L KRAS-mutant NSCLC."
+        },
+        {
+          "icon": "pill",
+          "es": "Daraxonrasib (inhibidor indirecto RAS vía ciclofilina A) aprobado para cáncer de páncreas mutado RAS en 2L.",
+          "en": "Daraxonrasib (indirect RAS inhibitor via cyclophilin A) FDA-approved for 2L RAS-mutant pancreatic cancer."
+        }
+      ],
+      "bottomLineEs": "La comprensión de la biología de RAS ha llevado al desarrollo de inhibidores directos (KRAS G12C) e indirectos (pan-RAS) que ya están aprobados para el tratamiento de cánceres con mutaciones RAS.",
+      "bottomLineEn": "Understanding RAS biology has led to the development of direct (KRAS G12C) and indirect (pan-RAS) inhibitors, now approved for treating RAS-mutant cancers.",
+      "relevance": "Práctica clínica",
+      "pmid": "42860233",
+      "url": "https://doi.org/10.1016/j.phrs.2026.109669",
+      "source": "Pharmacol Res",
+      "date": "2026-Oct-11",
+      "topicId": "kras"
+    }
+  ]
+}
