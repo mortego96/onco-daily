@@ -1,56 +1,13 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T13:47:57.164Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T11:25:36.109Z",
   "count": 3,
   "cards": [
     {
-      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Hospitalización no programada: Oportunidad clave para integrar cuidados paliativos en PDAC",
-      "headlineEn": "Unscheduled Hospitalization: Key Opportunity for Palliative Care Integration in PDAC",
-      "studyType": "Estudio de cohorte retrospectivo",
-      "trialName": null,
-      "n": "125 pacientes",
-      "primaryMetricLabelEs": "Supervivencia Global (SG) desde la hospitalización",
-      "primaryMetricLabelEn": "Overall Survival (OS) from hospitalization",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "El 84% de los pacientes con PDAC experimentaron una primera hospitalización no programada.",
-          "en": "84% of PDAC patients experienced a first unscheduled hospitalization."
-        },
-        {
-          "icon": "clock",
-          "es": "La SG mediana desde la hospitalización fue de 3.8 meses (IC95% 2.1-7.1).",
-          "en": "Median OS from hospitalization was 3.8 months (95% CI 2.1-7.1)."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Solo el 10% recibió evaluación de cuidados paliativos especializados antes de la hospitalización.",
-          "en": "Only 10% received specialist palliative care assessment before hospitalization."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "ECOG 2-4, enfermedad metastásica y metástasis hepáticas se asociaron con menor SG.",
-          "en": "ECOG 2-4, metastatic disease, and liver metastases were associated with shorter OS."
-        }
-      ],
-      "bottomLineEs": "La primera hospitalización no programada en pacientes con adenocarcinoma de páncreas es un evento frecuente asociado a una supervivencia limitada y alta mortalidad intrahospitalaria, representando una oportunidad crucial para la integración de cuidados paliativos especializados.",
-      "bottomLineEn": "The first unscheduled hospitalization in pancreatic adenocarcinoma patients is a frequent event associated with limited survival and high in-hospital mortality, representing a crucial opportunity for specialist palliative care integration.",
-      "relevance": "Práctica clínica",
-      "pmid": "42863588",
-      "url": "https://doi.org/10.1016/j.jpainsymman.2026.10.009",
-      "source": "J Pain Symptom Manage",
-      "date": "2026-Oct-12",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Avances en terapia sistémica para cáncer de vía biliar: del estándar a la medicina de precisión",
-      "headlineEn": "Advances in Systemic Therapy for Biliary Tract Cancer: From Standard to Precision Medicine",
-      "studyType": "Revisión de la literatura",
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Neurotransmisores Revitalizan Células T Agotadas y CAR T para Inmunoterapia Novedosa",
+      "headlineEn": "Neurotransmitters Revitalize Exhausted and CAR T Cells for Novel Immunotherapy",
+      "studyType": "Revisión",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -60,76 +17,119 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "clock",
-          "es": "La terapia sistémica para BTC ha evolucionado sustancialmente en las últimas dos décadas.",
-          "en": "Systemic therapy for BTC has evolved substantially over the past two decades."
-        },
-        {
-          "icon": "pill",
-          "es": "Gemcitabina más cisplatino es el régimen estándar global de primera línea.",
-          "en": "Gemcitabine plus cisplatin is the global standard first-line regimen."
-        },
-        {
           "icon": "dna",
-          "es": "Terapias dirigidas para fusiones FGFR2, mutaciones IDH1, amplificación HER2 e inestabilidad microsatelital alta (MSI-H).",
-          "en": "Targeted therapies for FGFR2 fusions, IDH1 mutations, HER2 amplification, and microsatellite instability-high (MSI-H)."
+          "es": "Neurotransmisores (Dopamina, Glutamato, GnRH-II, NPY) activan directamente las células T vía receptores.",
+          "en": "Neurotransmitters (Dopamine, Glutamate, GnRH-II, NPY) directly activate T cells via receptors."
         },
         {
-          "icon": "alert-triangle",
-          "es": "A pesar de los avances, el pronóstico sigue siendo desfavorable para muchos pacientes con BTC.",
-          "en": "Despite these advances, prognosis remains poor for many patients with BTC."
+          "icon": "shield-check",
+          "es": "Disminuyen inhibidores de puntos de control (PD-1, LAG-3, Tim-3) y aumentan funciones efectoras de células T.",
+          "en": "Decrease immune checkpoint inhibitors (PD-1, LAG-3, Tim-3) and enhance T cell effector functions."
+        },
+        {
+          "icon": "users",
+          "es": "Efectos observados en células T sanas, agotadas (incluyendo HCC) y CAR T modificadas genéticamente.",
+          "en": "Effects observed in healthy, exhausted (including HCC) and genetically engineered CAR T cells."
+        },
+        {
+          "icon": "target",
+          "es": "Propuesta de inmunoterapia adoptiva personalizada 'Brain-iT' para células T agotadas o CAR T.",
+          "en": "Proposed personalized adoptive immunotherapy 'Brain-iT' for exhausted or CAR T cells."
         }
       ],
-      "bottomLineEs": "La terapia sistémica para BTC ha progresado desde la quimioterapia estándar hasta la medicina de precisión basada en biomarcadores. La optimización de secuencias y el perfilado molecular son clave para mejorar los resultados.",
-      "bottomLineEn": "Systemic therapy for BTC has progressed from standard chemotherapy to biomarker-driven precision medicine. Optimizing treatment sequencing and comprehensive molecular profiling are key to improving outcomes.",
-      "relevance": "Práctica clínica",
-      "pmid": "42864016",
-      "url": "https://doi.org/10.2183/pjab.102.022",
-      "source": "Proc Jpn Acad Ser B Phys Biol Sci",
+      "bottomLineEs": "Este estudio de revisión destaca el potencial de neurotransmisores específicos para activar y potenciar células T, incluyendo las agotadas en pacientes con HCC y las CAR T, abriendo una vía para la inmunoterapia adoptiva personalizada Brain-iT.",
+      "bottomLineEn": "This review highlights the potential of specific neurotransmitters to activate and empower T cells, including exhausted T cells in HCC patients and CAR T cells, paving the way for the personalized Brain-iT adoptive immunotherapy.",
+      "relevance": "Emergente",
+      "pmid": "42870622",
+      "url": "https://doi.org/10.1615/CritRevOncog.2026064153",
+      "source": "Crit Rev Oncog",
       "date": "2026",
-      "topicId": "biliary"
+      "topicId": "hcc"
     },
     {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "HRS-4642 + adebrelimab: alta respuesta y buena tolerancia en KRAS G12D pancreático",
-      "headlineEn": "HRS-4642 + adebrelimab: high response and good tolerability in KRAS G12D pancreatic cancer",
-      "studyType": "Fase temprana",
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Quimioterapia perioperatoria en GEP-NEC G3 resecados: ¿Cura a largo plazo o solo retrasa la recurrencia?",
+      "headlineEn": "Perioperative Chemotherapy in Resected G3 GEP-NEC: Long-term Cure vs. Delayed Recurrence?",
+      "studyType": "Observacional",
       "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": "Tasa de respuesta objetiva",
-      "primaryMetricLabelEn": "Objective Response Rate",
+      "n": "162 pacientes",
+      "primaryMetricLabelEs": "Supervivencia libre de eventos (EFS)",
+      "primaryMetricLabelEn": "Event-free survival (EFS)",
       "arms": [],
-      "hr": null,
+      "hr": "0.61 (IC95% 0.40–0.96)",
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "Pacientes con cáncer de páncreas metastásico previamente tratado",
-          "en": "Patients with previously treated metastatic pancreatic cancer"
+          "es": "Población: 162 pacientes con carcinomas neuroendocrinos gastroenteropancreáticos (GEP-NEC) grado 3 resecados (estadio I-III).",
+          "en": "Population: 162 patients with resected stage I-III grade 3 gastroenteropancreatic neuroendocrine carcinomas (GEP-NEC)."
         },
         {
-          "icon": "dna",
-          "es": "Combinación de inhibidor KRAS G12D (HRS-4642) y PD-L1 (adebrelimab)",
-          "en": "Combination of KRAS G12D inhibitor (HRS-4642) and PD-L1 inhibitor (adebrelimab)"
+          "icon": "pill",
+          "es": "Intervención: 46% de los pacientes recibieron quimioterapia perioperatoria.",
+          "en": "Intervention: 46% of patients received perioperative chemotherapy."
         },
         {
           "icon": "shield-check",
-          "es": "Buena tolerancia, sin toxicidad gastrointestinal común de otros inhibidores KRAS orales",
-          "en": "Good tolerability, sparing common GI toxicity of oral KRAS inhibitors"
+          "es": "La quimioterapia se asoció con menor carga clonogénica (ratio 0.67) y mayor probabilidad de curación a largo plazo en EFS.",
+          "en": "Chemotherapy associated with lower clonogenic burden (ratio 0.67) and higher probability of long-term cure in EFS."
+        },
+        {
+          "icon": "dna",
+          "es": "El modelo de curación bayesiano separa la curación de la cinética de recaída, aportando información adicional.",
+          "en": "Bayesian cure model separates cure from relapse kinetics, adding additional information."
+        }
+      ],
+      "bottomLineEs": "En GEP-NEC G3 resecados, la quimioterapia perioperatoria se asocia con una mayor probabilidad de curación a largo plazo y no solo con un retraso en la recurrencia, según modelos de curación. Estos hallazgos son observacionales.",
+      "bottomLineEn": "In resected G3 GEP-NEC, perioperative chemotherapy is associated with a higher probability of long-term cure rather than merely delayed recurrence, according to cure models. These findings are observational.",
+      "relevance": "Emergente",
+      "pmid": "42869860",
+      "url": "https://doi.org/10.1016/j.ejca.2026.117773",
+      "source": "Eur J Cancer",
+      "date": "2026-Oct-8",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Mutaciones driver predicen pronóstico tras resección de adenocarcinoma ductal de páncreas",
+      "headlineEn": "Driver Mutations Predict Prognosis After Resection for Pancreatic Ductal Adenocarcinoma",
+      "studyType": "Estudio de cohorte retrospectivo",
+      "trialName": null,
+      "n": "188",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": "1.65 (IC95% 1.02–2.66) para TP53 y SG",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "188 pacientes adultos con adenocarcinoma ductal de páncreas resecado con intención curativa.",
+          "en": "188 adult patients with curative-intent resected pancreatic ductal adenocarcinoma."
+        },
+        {
+          "icon": "dna",
+          "es": "Mutaciones más prevalentes: KRAS (84.6%), TP53 (61.7%), CDKN2A (33.0%).",
+          "en": "Most prevalent mutations: KRAS (84.6%), TP53 (61.7%), CDKN2A (33.0%)."
         },
         {
           "icon": "target",
-          "es": "Tasa de respuesta del 43% a la dosis recomendada",
-          "en": "43% response rate at the recommended dose"
+          "es": "La mutación de TP53 se asoció con menor SG (HR 1.65) y CDKN2A con menor tiempo hasta la recurrencia (HR 1.69).",
+          "en": "TP53 mutation was associated with shorter OS (HR 1.65) and CDKN2A with shorter time-to-recurrence (HR 1.69)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "KRAS mutado se asoció con peor respuesta patológica (OR 4.45) en comparación con KRAS wild type.",
+          "en": "Mutated KRAS was associated with poorer pathological response (OR 4.45) compared to wild type KRAS."
         }
       ],
-      "bottomLineEs": "La combinación intravenosa de HRS-4642 y adebrelimab muestra una prometedora tasa de respuesta del 43% y buena tolerancia en cáncer de páncreas KRAS G12D avanzado, evitando la toxicidad gastrointestinal de los inhibidores orales.",
-      "bottomLineEn": "The intravenous combination of HRS-4642 and adebrelimab shows a promising 43% response rate and good tolerability in advanced KRAS G12D pancreatic cancer, sparing GI toxicity of oral inhibitors.",
+      "bottomLineEs": "Las mutaciones de TP53 y CDKN2A son factores pronósticos independientes tras la resección de PDAC, apoyando el uso de NGS preoperatorio para estratificación de riesgo. Se necesita validación prospectiva.",
+      "bottomLineEn": "TP53 and CDKN2A mutations are independent prognostic factors post-PDAC resection, supporting upfront NGS for perioperative risk stratification. Prospective validation is needed.",
       "relevance": "Emergente",
-      "pmid": "42863460",
-      "url": "https://doi.org/10.1016/j.ccell.2026.09.009",
-      "source": "Cancer Cell",
-      "date": "2026-Oct-12",
+      "pmid": "42870132",
+      "url": "https://doi.org/10.1007/s12094-026-04564-6",
+      "source": "Clin Transl Oncol",
+      "date": "2026-Oct-13",
       "topicId": "kras"
     }
   ]
