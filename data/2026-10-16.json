@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T10:58:26.033Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "NLR elevado y creciente se asocia a progresión de IPMN de rama lateral",
+      "headlineEn": "Elevated and rising NLR associated with branch-duct IPMN progression",
+      "studyType": "Retrospectivo, multicéntrico",
+      "trialName": null,
+      "n": "285 pacientes",
+      "primaryMetricLabelEs": "Odds de progresión de enfermedad",
+      "primaryMetricLabelEn": "Odds of disease progression",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "285 pacientes con IPMN de rama lateral en vigilancia (mediana 4.8 años)",
+          "en": "285 patients with BD-IPMN under surveillance (mean 4.8 years)"
+        },
+        {
+          "icon": "dna",
+          "es": "NLR significativamente elevado en pacientes con WFs, HRS, resección o displasia de alto grado",
+          "en": "NLR significantly elevated in patients with WFs, HRS, resection, or high-grade dysplasia"
+        },
+        {
+          "icon": "target",
+          "es": "NLR > 2.36 (mediana) duplicó las odds de progresión (OR 2.02; IC95% 1.02-3.98)",
+          "en": "NLR > 2.36 (median) doubled odds of progression (OR 2.02; 95% CI 1.02-3.98)"
+        },
+        {
+          "icon": "clock",
+          "es": "El aumento longitudinal del NLR precedió el desarrollo de WFs, HRS y resección",
+          "en": "Longitudinal NLR increase preceded development of WFs, HRS, and resection"
+        }
+      ],
+      "bottomLineEs": "El NLR elevado y en aumento se asocia a la progresión de IPMN de rama lateral. Podría ser un biomarcador complementario, pero su rendimiento modesto requiere validación prospectiva.",
+      "bottomLineEn": "Elevated and increasing NLR is associated with BD-IPMN progression. It may be a complementary biomarker, but its modest performance warrants prospective validation.",
+      "relevance": "Emergente",
+      "pmid": "42882217",
+      "url": "https://doi.org/10.3390/jcm15197758",
+      "source": "J Clin Med",
+      "date": "2026-Oct-8",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "CTH impulsa progresión de HCC; PPG + CAR-T GPC3 muestra mayor eficacia antitumoral",
+      "headlineEn": "CTH drives HCC progression; PPG + GPC3 CAR-T shows enhanced antitumor efficacy",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La enzima CTH (productora de H2S) promueve la migración, invasión y progresión del HCC in vitro e in vivo.",
+          "en": "CTH (H2S-producing enzyme) promotes HCC migration, invasion, and progression in vitro and in vivo."
+        },
+        {
+          "icon": "dna",
+          "es": "CTH-HS sulfhidrata Rab7a y modula proteínas relacionadas con la autofagia en células tumorales hepáticas.",
+          "en": "CTH-HS sulfhydrates Rab7a and modulates autophagy-related proteins in liver tumor cells."
+        },
+        {
+          "icon": "pill",
+          "es": "La combinación de PPG (inhibidor de CTH) y células CAR-T GPC3 mostró mayor eficacia antitumoral que las terapias solas en xenoinjertos.",
+          "en": "Combination of PPG (CTH inhibitor) and GPC3 CAR-T cells showed better antitumor efficacy than monotherapies in xenografts."
+        }
+      ],
+      "bottomLineEs": "La inhibición de CTH con PPG, en combinación con células CAR-T dirigidas a GPC3, representa una estrategia prometedora para el tratamiento del HCC, justificando futuras investigaciones.",
+      "bottomLineEn": "CTH inhibition with PPG, combined with GPC3 CAR-T cells, represents a promising strategy for HCC treatment, warranting further investigation.",
+      "relevance": "Preclínico",
+      "pmid": "42885431",
+      "url": "https://doi.org/10.1155/jimr/3351382",
+      "source": "J Immunol Res",
+      "date": "2026",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Carcinoides Pulmonares: Diagnóstico, Manejo Actual y Necesidad de Ensayos Específicos",
+      "headlineEn": "Pulmonary Carcinoids: Current Diagnosis, Management, and Need for Dedicated Trials",
+      "studyType": "Revisión Conceptual",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Neoplasias neuroendocrinas pulmonares raras con comportamiento clínico diverso.",
+          "en": "Rare lung neuroendocrine neoplasms with diverse clinical behavior."
+        },
+        {
+          "icon": "dna",
+          "es": "Heterogeneidad molecular y subgrupos agresivos identificados por estudios ómicos.",
+          "en": "Molecular heterogeneity and aggressive subgroups identified by omic studies."
+        },
+        {
+          "icon": "pill",
+          "es": "Manejo incluye cirugía y terapias sistémicas (análogos de somatostatina, terapia dirigida, PRRT, quimioterapia).",
+          "en": "Management includes surgery and systemic therapies (somatostatin analogs, targeted therapy, PRRT, chemotherapy)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Urgente necesidad de ensayos prospectivos dedicados a tumores torácicos para validar paradigmas de manejo.",
+          "en": "Urgent need for prospective thoracic-dedicated trials to validate management paradigms."
+        }
+      ],
+      "bottomLineEs": "Los carcinoides pulmonares son complejos y heterogéneos. El manejo actual se basa en datos extrapolados, destacando la necesidad crítica de ensayos específicos para optimizar la terapia y mejorar resultados.",
+      "bottomLineEn": "Pulmonary carcinoids are complex and heterogeneous. Current management relies on extrapolated data, highlighting the critical need for dedicated trials to optimize therapy and improve outcomes.",
+      "relevance": "Emergente",
+      "pmid": "42884110",
+      "url": "https://doi.org/10.3390/ijms27198868",
+      "source": "Int J Mol Sci",
+      "date": "2026-Oct-5",
+      "topicId": "net"
+    }
+  ]
+}
