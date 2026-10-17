@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T10:19:44.354Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Cobimetinib + Vemurafenib muestra actividad en BTC con mutación BRAF V600E",
+      "headlineEn": "Cobimetinib + Vemurafenib shows activity in BRAF V600E-mutant BTC",
+      "studyType": "Fase II basket trial",
+      "trialName": "TAPUR Study",
+      "n": "15",
+      "primaryMetricLabelEs": "Tasa de control de la enfermedad (DC)",
+      "primaryMetricLabelEn": "Disease Control Rate (DC)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "15 pacientes evaluables con Cáncer de Vía Biliar (BTC) avanzado con mutación V600E",
+          "en": "15 evaluable patients with advanced V600E-mutant Biliary Tract Cancer (BTC)"
+        },
+        {
+          "icon": "dna",
+          "es": "Terapia dirigida dual: inhibidores de BRAF (Vemurafenib) y MEK (Cobimetinib)",
+          "en": "Dual targeted therapy: BRAF (Vemurafenib) and MEK (Cobimetinib) inhibitors"
+        },
+        {
+          "icon": "target",
+          "es": "Tasa de control de la enfermedad (DC) del 67% y tasa de respuesta objetiva (OR) del 53%",
+          "en": "Disease Control (DC) rate of 67% and Objective Response (OR) rate of 53%"
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "53% de los pacientes (ambas cohortes) experimentaron eventos adversos G3-4 o graves",
+          "en": "53% of patients (both cohorts) experienced G3-4 or serious adverse events"
+        }
+      ],
+      "bottomLineEs": "La combinación de Cobimetinib y Vemurafenib demostró una señal de actividad antitumoral en pacientes con BTC avanzado con mutación BRAF V600E.",
+      "bottomLineEn": "The combination of Cobimetinib and Vemurafenib showed a signal of antitumor activity in patients with advanced BRAF V600E-mutant BTC.",
+      "relevance": "Emergente",
+      "pmid": "42886887",
+      "url": "https://doi.org/10.1200/PO-26-00703",
+      "source": "JCO Precis Oncol",
+      "date": "2026-Oct",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "TACE + TKI + PD-1 en HCC avanzado: Eficacia prometedora y seguridad aceptable",
+      "headlineEn": "TACE + TKI + PD-1 in advanced HCC: Promising efficacy and acceptable safety",
+      "studyType": "Retrospective observational study",
+      "trialName": null,
+      "n": "45",
+      "primaryMetricLabelEs": "Mediana de Supervivencia Libre de Progresión (SLP)",
+      "primaryMetricLabelEn": "Median Progression-Free Survival (PFS)",
+      "arms": [],
+      "hr": null,
+      "pfs": "12.4 meses (IC95% 9.8-15.0)",
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo en 45 pacientes con HCC avanzado no resecable.",
+          "en": "Retrospective study in 45 patients with unresectable advanced HCC."
+        },
+        {
+          "icon": "clock",
+          "es": "La mediana de Supervivencia Global (SG) fue de 24.2 meses (IC95% 20.1-28.3).",
+          "en": "Median Overall Survival (OS) was 24.2 months (95% CI 20.1-28.3)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Seguridad aceptable sin eventos adversos grado 5.",
+          "en": "Acceptable safety with no grade 5 adverse events."
+        },
+        {
+          "icon": "target",
+          "es": "Estadio BCLC, línea de tratamiento y estado ganglionar influyen en el pronóstico.",
+          "en": "BCLC staging, treatment line, and node status affect prognosis."
+        }
+      ],
+      "bottomLineEs": "La combinación de TACE con TKI e inhibidores de PD-1 muestra eficacia prometedora y seguridad aceptable en HCC avanzado. Se necesitan ensayos prospectivos más grandes para confirmación.",
+      "bottomLineEn": "TACE combined with TKI and PD-1 inhibitors shows promising efficacy and acceptable safety in advanced HCC. Larger prospective trials are needed for confirmation.",
+      "relevance": "Emergente",
+      "pmid": "42888556",
+      "url": "https://doi.org/10.1097/MD.0000000000050965",
+      "source": "Medicine (Baltimore)",
+      "date": "2026-Oct-16",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Tendencias y utilidad de la imagen funcional preoperatoria en NETs GEP",
+      "headlineEn": "Trends and Utility of Preoperative Functional Imaging in GEPNETs",
+      "studyType": "Estudio retrospectivo de centro único",
+      "trialName": null,
+      "n": "600 pacientes (392 SBNET, 208 PNET)",
+      "primaryMetricLabelEs": "Frecuencia de uso de imagen funcional y localización de metástasis",
+      "primaryMetricLabelEn": "Frequency of functional imaging use and location of metastases",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "clock",
+          "es": "Aumento significativo (2.5% anual) del uso de imagen funcional en SBNETs en 24 años, sin cambios en PNETs.",
+          "en": "Significant increase (2.5% yearly) in functional imaging use in SBNETs over 24 years, no change in PNETs."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Alta frecuencia de enfermedad metastásica al diagnóstico: 82.3% en SBNETs y 54.9% en PNETs.",
+          "en": "High frequency of metastatic disease at presentation: 82.3% in SBNETs and 54.9% in PNETs."
+        },
+        {
+          "icon": "target",
+          "es": "SSTR PET identificó más frecuentemente metástasis óseas y ganglionares retroperitoneales que Octreoscan.",
+          "en": "SSTR PET more frequently identified bone and retroperitoneal nodal metastases than Octreoscan."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La imagen funcional basada en SSTR es muy útil para identificar enfermedad a distancia y planificación quirúrgica.",
+          "en": "SSTR-based functional imaging is highly useful for identifying distant disease and surgical planning."
+        }
+      ],
+      "bottomLineEs": "La imagen funcional preoperatoria, especialmente SSTR PET, es crucial para la estadificación y planificación en NETs GEP, con un aumento notable en su uso para SBNETs.",
+      "bottomLineEn": "Preoperative functional imaging, particularly SSTR PET, is crucial for staging and planning in GEPNETs, with a notable increase in its use for SBNETs.",
+      "relevance": "Práctica clínica",
+      "pmid": "42886322",
+      "url": "https://doi.org/10.1245/s10434-026-20735-9",
+      "source": "Ann Surg Oncol",
+      "date": "2026-Oct-16",
+      "topicId": "net"
+    }
+  ]
+}
