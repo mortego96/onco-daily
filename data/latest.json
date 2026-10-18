@@ -1,135 +1,178 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T10:19:44.354Z",
-  "count": 3,
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T10:35:34.908Z",
+  "count": 4,
   "cards": [
     {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Cobimetinib + Vemurafenib muestra actividad en BTC con mutación BRAF V600E",
-      "headlineEn": "Cobimetinib + Vemurafenib shows activity in BRAF V600E-mutant BTC",
-      "studyType": "Fase II basket trial",
-      "trialName": "TAPUR Study",
-      "n": "15",
-      "primaryMetricLabelEs": "Tasa de control de la enfermedad (DC)",
-      "primaryMetricLabelEn": "Disease Control Rate (DC)",
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Nanoplataforma dirigida a EGFR con agonista STING mejora la inmunoterapia en PDAC preclínico",
+      "headlineEn": "EGFR-targeted nanoplatform with STING agonist enhances immunotherapy in preclinical PDAC",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Inhibición del crecimiento tumoral y supervivencia",
+      "primaryMetricLabelEn": "Tumor growth inhibition and survival",
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "15 pacientes evaluables con Cáncer de Vía Biliar (BTC) avanzado con mutación V600E",
-          "en": "15 evaluable patients with advanced V600E-mutant Biliary Tract Cancer (BTC)"
-        },
-        {
           "icon": "dna",
-          "es": "Terapia dirigida dual: inhibidores de BRAF (Vemurafenib) y MEK (Cobimetinib)",
-          "en": "Dual targeted therapy: BRAF (Vemurafenib) and MEK (Cobimetinib) inhibitors"
+          "es": "Nanoplataforma EM@MOF/diABZI (MOF recubierto de membrana celular con anticuerpo anti-EGFR y agonista STING diABZI).",
+          "en": "EM@MOF/diABZI nanoplatform (cell-membrane-coated MOF with EGFR-antibody and STING agonist diABZI)."
         },
         {
           "icon": "target",
-          "es": "Tasa de control de la enfermedad (DC) del 67% y tasa de respuesta objetiva (OR) del 53%",
-          "en": "Disease Control (DC) rate of 67% and Objective Response (OR) rate of 53%"
+          "es": "Dirigida a EGFR, sobreexpresado en PDAC, para mejorar la acumulación tumoral y la captación celular.",
+          "en": "Targets EGFR, overexpressed in PDAC, to enhance tumor accumulation and cellular uptake."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Activa la vía STING, aumentando IFN-β, CXCL10, TNF-α, IL-6, IFN-γ y la infiltración de linfocitos T CD4/CD8.",
+          "en": "Activates STING pathway, increasing IFN-β, CXCL10, TNF-α, IL-6, IFN-γ, and CD4/CD8 T-cell infiltration."
         },
         {
           "icon": "alert-triangle",
-          "es": "53% de los pacientes (ambas cohortes) experimentaron eventos adversos G3-4 o graves",
-          "en": "53% of patients (both cohorts) experienced G3-4 or serious adverse events"
+          "es": "Mayor inhibición del crecimiento tumoral y supervivencia en modelo murino de PDAC sin toxicidad sistémica.",
+          "en": "Greater tumor growth inhibition and improved survival in murine PDAC model with no systemic toxicity."
         }
       ],
-      "bottomLineEs": "La combinación de Cobimetinib y Vemurafenib demostró una señal de actividad antitumoral en pacientes con BTC avanzado con mutación BRAF V600E.",
-      "bottomLineEn": "The combination of Cobimetinib and Vemurafenib showed a signal of antitumor activity in patients with advanced BRAF V600E-mutant BTC.",
-      "relevance": "Emergente",
-      "pmid": "42886887",
-      "url": "https://doi.org/10.1200/PO-26-00703",
-      "source": "JCO Precis Oncol",
-      "date": "2026-Oct",
+      "bottomLineEs": "Esta nanoplataforma representa una estrategia prometedora para potenciar la inmunoterapia en cáncer de páncreas al mejorar la entrega dirigida de agonistas STING.",
+      "bottomLineEn": "This nanoplatform offers a promising strategy to enhance pancreatic cancer immunotherapy by improving targeted delivery of STING agonists.",
+      "relevance": "Preclínico",
+      "pmid": "42892943",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100678",
+      "source": "Int J Pharm X",
+      "date": "2026-Dec",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Complicaciones locales, principal causa de muerte en cáncer de vía biliar irresecable tras radioterapia.",
+      "headlineEn": "Local Complications Major Cause of Death in Unresectable Bile Duct Cancer Post-Radiotherapy.",
+      "studyType": "Retrospectivo",
+      "trialName": null,
+      "n": "74",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": null,
+      "pfs": "11.5 meses",
+      "facts": [
+        {
+          "icon": "users",
+          "es": "74 pacientes con cáncer de vía biliar extrahepática irresecable tratados con radioterapia definitiva.",
+          "en": "74 patients with unresectable extrahepatic bile duct cancer treated with definitive radiotherapy."
+        },
+        {
+          "icon": "clock",
+          "es": "Mediana de SG: 18.3 meses; Mediana de SLP: 11.5 meses. Control local a 1 año: 86.3%.",
+          "en": "Median OS: 18.3 months; Median PFS: 11.5 months. 1-year local control: 86.3%."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Complicaciones locales (colangitis, fallo hepático, sangrado) causaron al menos el 40% de las muertes.",
+          "en": "Local complications (cholangitis, liver failure, bleeding) accounted for at least 40% of deaths."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Toxicidad aguda G≥3: 0%; toxicidad tardía G≥3: 8.1%.",
+          "en": "Grade ≥3 acute toxicity: 0%; Grade ≥3 late toxicity: 8.1%."
+        }
+      ],
+      "bottomLineEs": "La radioterapia definitiva ofrece buen control local y toxicidad aceptable en el cáncer de vía biliar extrahepática irresecable. Aunque la metástasis a distancia es el patrón de fallo predominante, las complicaciones locales contribuyen significativamente a la mortalidad, lo que subraya la necesidad de optimizar el tratamiento local junto con las terapias sistémicas emergentes.",
+      "bottomLineEn": "Definitive radiotherapy provides favorable local control with acceptable toxicity in unresectable extrahepatic bile duct cancer. While distant metastasis is the predominant failure pattern, local complications significantly contribute to mortality, supporting continued efforts to optimize local treatment alongside emerging systemic therapies.",
+      "relevance": "Práctica clínica",
+      "pmid": "42891886",
+      "url": "https://doi.org/10.1007/s12094-026-04581-5",
+      "source": "Clin Transl Oncol",
+      "date": "2026-Oct-17",
       "topicId": "biliary"
     },
     {
       "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "TACE + TKI + PD-1 en HCC avanzado: Eficacia prometedora y seguridad aceptable",
-      "headlineEn": "TACE + TKI + PD-1 in advanced HCC: Promising efficacy and acceptable safety",
-      "studyType": "Retrospective observational study",
+      "headlineEs": "Metabolismo de aminoácidos hepático impacta la inmunoterapia en HCC",
+      "headlineEn": "Liver-specific amino acid metabolism impacts HCC immunotherapy efficacy",
+      "studyType": "Estudio traslacional",
       "trialName": null,
-      "n": "45",
-      "primaryMetricLabelEs": "Mediana de Supervivencia Libre de Progresión (SLP)",
-      "primaryMetricLabelEn": "Median Progression-Free Survival (PFS)",
-      "arms": [],
-      "hr": null,
-      "pfs": "12.4 meses (IC95% 9.8-15.0)",
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Estudio retrospectivo en 45 pacientes con HCC avanzado no resecable.",
-          "en": "Retrospective study in 45 patients with unresectable advanced HCC."
-        },
-        {
-          "icon": "clock",
-          "es": "La mediana de Supervivencia Global (SG) fue de 24.2 meses (IC95% 20.1-28.3).",
-          "en": "Median Overall Survival (OS) was 24.2 months (95% CI 20.1-28.3)."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Seguridad aceptable sin eventos adversos grado 5.",
-          "en": "Acceptable safety with no grade 5 adverse events."
-        },
-        {
-          "icon": "target",
-          "es": "Estadio BCLC, línea de tratamiento y estado ganglionar influyen en el pronóstico.",
-          "en": "BCLC staging, treatment line, and node status affect prognosis."
-        }
-      ],
-      "bottomLineEs": "La combinación de TACE con TKI e inhibidores de PD-1 muestra eficacia prometedora y seguridad aceptable en HCC avanzado. Se necesitan ensayos prospectivos más grandes para confirmación.",
-      "bottomLineEn": "TACE combined with TKI and PD-1 inhibitors shows promising efficacy and acceptable safety in advanced HCC. Larger prospective trials are needed for confirmation.",
-      "relevance": "Emergente",
-      "pmid": "42888556",
-      "url": "https://doi.org/10.1097/MD.0000000000050965",
-      "source": "Medicine (Baltimore)",
-      "date": "2026-Oct-16",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Tendencias y utilidad de la imagen funcional preoperatoria en NETs GEP",
-      "headlineEn": "Trends and Utility of Preoperative Functional Imaging in GEPNETs",
-      "studyType": "Estudio retrospectivo de centro único",
-      "trialName": null,
-      "n": "600 pacientes (392 SBNET, 208 PNET)",
-      "primaryMetricLabelEs": "Frecuencia de uso de imagen funcional y localización de metástasis",
-      "primaryMetricLabelEn": "Frequency of functional imaging use and location of metastases",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "clock",
-          "es": "Aumento significativo (2.5% anual) del uso de imagen funcional en SBNETs en 24 años, sin cambios en PNETs.",
-          "en": "Significant increase (2.5% yearly) in functional imaging use in SBNETs over 24 years, no change in PNETs."
+          "icon": "target",
+          "es": "Alta expresión de PD-1 en linfocitos T CD8+ infiltrantes se correlaciona con respuesta a Atez/Bev en HCC.",
+          "en": "High PD-1 expression in CD8+ TILs correlates with Atez/Bev response in HCC."
+        },
+        {
+          "icon": "dna",
+          "es": "La vía metabólica de aminoácidos de cadena ramificada (BCAA) está enriquecida en tumores con alta expresión de PD-1 en TILs.",
+          "en": "Branched-chain amino acid (BCAA) metabolic pathway enriched in tumors with high PD-1 expression in TILs."
+        },
+        {
+          "icon": "dna",
+          "es": "Los BCAA son importantes para la activación y diferenciación de linfocitos T CD8+.",
+          "en": "BCAAs are crucial for CD8+ T-cell activation and differentiation."
         },
         {
           "icon": "alert-triangle",
-          "es": "Alta frecuencia de enfermedad metastásica al diagnóstico: 82.3% en SBNETs y 54.9% en PNETs.",
-          "en": "High frequency of metastatic disease at presentation: 82.3% in SBNETs and 54.9% in PNETs."
+          "es": "Alta expresión de BCAT1 (enzima clave BCAA) se asocia con peor pronóstico en HCC, no en otros cánceres.",
+          "en": "High BCAT1 expression (key BCAA enzyme) linked to poor HCC prognosis, specifically in liver."
+        }
+      ],
+      "bottomLineEs": "El metabolismo hepático específico de BCAA es crucial para la inmunidad antitumoral en HCC, destacando la necesidad de evaluar el microambiente tumoral en su contexto metabólico orgánico.",
+      "bottomLineEn": "Liver-specific BCAA metabolism is crucial for antitumor immunity in HCC, emphasizing the need to assess the tumor microenvironment within its organ-specific metabolic context.",
+      "relevance": "Emergente",
+      "pmid": "42892653",
+      "url": "https://doi.org/10.1038/s41388-026-04023-0",
+      "source": "Oncogene",
+      "date": "2026-Oct-17",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "PD-L1 en Carcinoma de Células de Merkel: Inmunobiología y Relevancia Clínica",
+      "headlineEn": "PD-L1 in Merkel Cell Carcinoma: Immunobiology and Clinical Relevance",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "MCC es un carcinoma neuroendocrino cutáneo agresivo, con inmunogenicidad por MCPyV o mutaciones UV.",
+          "en": "MCC is an aggressive cutaneous neuroendocrine carcinoma, with immunogenicity from MCPyV or UV mutations."
         },
         {
           "icon": "target",
-          "es": "SSTR PET identificó más frecuentemente metástasis óseas y ganglionares retroperitoneales que Octreoscan.",
-          "en": "SSTR PET more frequently identified bone and retroperitoneal nodal metastases than Octreoscan."
+          "es": "La expresión de PD-L1 se concentra en interfaces tumor-inmune, asociada a resistencia inmune adaptativa.",
+          "en": "PD-L1 expression is concentrated at tumor-immune interfaces, associated with adaptive immune resistance."
         },
         {
-          "icon": "shield-check",
-          "es": "La imagen funcional basada en SSTR es muy útil para identificar enfermedad a distancia y planificación quirúrgica.",
-          "en": "SSTR-based functional imaging is highly useful for identifying distant disease and surgical planning."
+          "icon": "pill",
+          "es": "El bloqueo de puntos de control inmunes logra respuestas duraderas, independientemente del PD-L1 basal.",
+          "en": "Immune checkpoint blockade achieves durable responses, regardless of baseline PD-L1."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "PD-L1 por sí solo no es un criterio validado para la selección de tratamiento en MCC.",
+          "en": "PD-L1 alone is not a validated criterion for treatment selection in MCC."
         }
       ],
-      "bottomLineEs": "La imagen funcional preoperatoria, especialmente SSTR PET, es crucial para la estadificación y planificación en NETs GEP, con un aumento notable en su uso para SBNETs.",
-      "bottomLineEn": "Preoperative functional imaging, particularly SSTR PET, is crucial for staging and planning in GEPNETs, with a notable increase in its use for SBNETs.",
+      "bottomLineEs": "La interpretación de PD-L1 en MCC requiere un contexto biológico y patológico completo, incluyendo heterogeneidad espacial, para mejorar la comprensión de la respuesta inmune.",
+      "bottomLineEn": "Interpreting PD-L1 in MCC requires a complete biological and pathological context, including spatial heterogeneity, to improve understanding of immune responsiveness.",
       "relevance": "Práctica clínica",
-      "pmid": "42886322",
-      "url": "https://doi.org/10.1245/s10434-026-20735-9",
-      "source": "Ann Surg Oncol",
-      "date": "2026-Oct-16",
+      "pmid": "42883708",
+      "url": "https://doi.org/10.3390/ijms27198460",
+      "source": "Int J Mol Sci",
+      "date": "2026-Sep-23",
       "topicId": "net"
     }
   ]
