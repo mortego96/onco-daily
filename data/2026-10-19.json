@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T12:30:18.639Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Exosomas endoteliales y KLF4 impulsan metástasis hepática en PDAC",
+      "headlineEn": "Endothelial Exosomes & KLF4 Drive Liver Metastasis in PDAC",
+      "studyType": "Estudio Preclínico/Mecanístico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El factor de transcripción KLF4 aumenta la accesibilidad de la cromatina y el remodelado de superenhancers.",
+          "en": "Pioneer TF KLF4 increases chromatin accessibility and superenhancer remodeling."
+        },
+        {
+          "icon": "target",
+          "es": "Esto eleva la transcripción de MCL1 y RASGRP3, promoviendo proliferación, motilidad y metástasis.",
+          "en": "This upregulates MCL1 and RASGRP3 transcription, promoting proliferation, motility, and metastasis."
+        },
+        {
+          "icon": "users",
+          "es": "Exosomas con RN7SL2 de células endoteliales promueven la expresión de KLF4 en células tumorales.",
+          "en": "RN7SL2-containing exosomes from endothelial cells promote KLF4 expression in tumor cells."
+        },
+        {
+          "icon": "clock",
+          "es": "La sobreexpresión de RIG-I, STAT1, KLF4 y RASGRP3 se correlaciona con menor supervivencia en PDAC.",
+          "en": "Overexpression of RIG-I, STAT1, KLF4, and RASGRP3 correlates with shorter survival in PDAC."
+        }
+      ],
+      "bottomLineEs": "La identificación del eje exoRN7SL2-STAT1-KLF4-SEs-RASGRP3 revela un mecanismo clave de colonización metastásica hepática y posibles dianas terapéuticas.",
+      "bottomLineEn": "Identification of the exoRN7SL2-STAT1-KLF4-SEs-RASGRP3 axis elucidates a key mechanism of liver metastatic colonization and potential therapeutic targets.",
+      "relevance": "Preclínico",
+      "pmid": "42894010",
+      "url": "https://doi.org/10.1038/s41392-026-02876-1",
+      "source": "Signal Transduct Target Ther",
+      "date": "2026-Oct-19",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Complicaciones y rescate de bombas de infusión arterial hepática (HAIP): Experiencia institucional",
+      "headlineEn": "HAIP Technical Complications and Salvage: An Institutional Experience",
+      "studyType": "Análisis retrospectivo",
+      "trialName": null,
+      "n": "2935",
+      "primaryMetricLabelEs": "Tasa de complicaciones técnicas y de rescate",
+      "primaryMetricLabelEn": "Technical Complication and Salvage Rates",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "El 26% de los pacientes (759/2935) experimentaron una complicación relacionada con la HAIP.",
+          "en": "26% of patients (759/2935) experienced an HAIP-related complication."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El 53% de las complicaciones (404/759) fueron rescatadas con éxito.",
+          "en": "53% of complications (404/759) were successfully salvaged."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Complicaciones no rescatables (0%): desalojo de catéter (n=47), erosión intestinal (n=25), trombosis arterial (n=19).",
+          "en": "Unsalvageable complications (0%): catheter dislodgement (n=47), bowel erosion (n=25), arterial thrombosis (n=19)."
+        }
+      ],
+      "bottomLineEs": "Las complicaciones de la HAIP ocurren en un cuarto de los pacientes, pero la mayoría son rescatables con manejo multidisciplinar, excepto algunas graves como el desalojo del catéter o la trombosis arterial.",
+      "bottomLineEn": "HAIP complications occur in a quarter of patients, but most are salvageable with multidisciplinary management, except for severe ones like catheter dislodgement or arterial thrombosis.",
+      "relevance": "Práctica clínica",
+      "pmid": "42894309",
+      "url": "https://doi.org/10.1097/SLA.0000000000007238",
+      "source": "Ann Surg",
+      "date": "2026-Oct-19",
+      "topicId": "biliary"
+    }
+  ]
+}
