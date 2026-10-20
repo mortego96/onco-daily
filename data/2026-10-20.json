@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T11:06:32.973Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Histologías raras de cáncer de próstata: características, diagnóstico y desafíos terapéuticos",
+      "headlineEn": "Rare Prostate Cancer Histologies: Characteristics, Diagnosis, and Therapeutic Challenges",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Las histologías raras representan <5% de todos los cánceres de próstata.",
+          "en": "Rare histologies account for <5% of all prostate cancers."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Comportamiento agresivo, patrones metastásicos atípicos y baja respuesta a terapias convencionales.",
+          "en": "Aggressive behavior, atypical metastatic patterns, and reduced response to conventional therapies."
+        },
+        {
+          "icon": "dna",
+          "es": "RM multiparamétrica, IHQ y perfilado genómico son clave para el diagnóstico preciso.",
+          "en": "Multiparametric MRI, IHC, and genomic profiling are crucial for accurate diagnosis."
+        },
+        {
+          "icon": "pill",
+          "es": "Alteraciones genómicas específicas (p. ej., deficiencias de reparación de ADN, pérdida de RB1/TP53) ofrecen oportunidades terapéuticas.",
+          "en": "Specific genomic alterations (e.g., DNA repair deficiencies, RB1/TP53 loss) offer therapeutic opportunities."
+        }
+      ],
+      "bottomLineEs": "Las histologías raras de cáncer de próstata son agresivas y plantean desafíos diagnósticos y terapéuticos. Se necesitan mejores herramientas de diagnóstico, perfilado molecular y ensayos clínicos dedicados para mejorar los resultados.",
+      "bottomLineEn": "Rare prostate cancer histologies are aggressive and pose diagnostic and therapeutic challenges. Improved diagnostic tools, molecular profiling, and dedicated clinical trials are essential to improve outcomes.",
+      "relevance": "Emergente",
+      "pmid": "42897296",
+      "url": "https://doi.org/10.1038/s41585-026-01194-z",
+      "source": "Nat Rev Urol",
+      "date": "2026-Oct-19",
+      "topicId": "net"
+    }
+  ]
+}
