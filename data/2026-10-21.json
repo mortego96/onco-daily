@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T11:22:46.640Z",
+  "count": 4,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "p53 Mutante Impulsa Resistencia a Ferroptosis en PDAC por Plasticidad Metabólica",
+      "headlineEn": "Mutant p53 Drives Ferroptosis Resistance in PDAC via Metabolic Plasticity",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El p53 mutante en PDAC confiere resistencia a la ferroptosis.",
+          "en": "Mutant p53 in PDAC confers ferroptosis resistance."
+        },
+        {
+          "icon": "target",
+          "es": "La resistencia se debe a plasticidad metabólica (cambio glucolítico, genes antioxidantes, PI3K-AKT).",
+          "en": "Resistance is mediated by metabolic plasticity (glycolytic shift, antioxidant genes, PI3K-AKT)."
+        },
+        {
+          "icon": "pill",
+          "es": "La reactivación farmacológica de p53 wild-type revierte esta resistencia.",
+          "en": "Pharmacological reactivation of wild-type p53 overcomes this resistance."
+        },
+        {
+          "icon": "users",
+          "es": "Hallazgos validados in vitro y en modelos murinos ortotópicos.",
+          "en": "Findings validated in vitro and in orthotopic murine models."
+        }
+      ],
+      "bottomLineEs": "La combinación de reactivación de p53 wild-type con inductores de ferroptosis es una estrategia prometedora para superar la resistencia en PDAC con p53 mutante.",
+      "bottomLineEn": "Combining wild-type p53 reactivation with ferroptosis inducers is a promising strategy to overcome resistance in mutant p53 PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "42902383",
+      "url": "https://doi.org/10.1186/s12943-026-02746-y",
+      "source": "Mol Cancer",
+      "date": "2026-Jul-23",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "IPMNs de rama lateral multifocales no aumentan el riesgo de malignidad",
+      "headlineEn": "Multifocal Side-Branch IPMNs Do Not Increase Malignant Risk",
+      "studyType": "Estudio de cohorte observacional",
+      "trialName": null,
+      "n": "1,000",
+      "primaryMetricLabelEs": "Patología de alto riesgo (displasia de alto grado o carcinoma invasivo)",
+      "primaryMetricLabelEn": "High-risk pathology (high-grade dysplasia or invasive carcinoma)",
+      "arms": [
+        {
+          "name": "Multifocal SB-IPMNs",
+          "value": "3.2%",
+          "months": null,
+          "highlight": false
+        },
+        {
+          "name": "Solitary SB-IPMNs",
+          "value": "4.8%",
+          "months": null,
+          "highlight": false
+        }
+      ],
+      "hr": "31.3 (IC95% 16.3–62.1)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "El 37% de los pacientes (370/1000) presentaron enfermedad multifocal.",
+          "en": "37% of patients (370/1000) presented with multifocal disease."
+        },
+        {
+          "icon": "clock",
+          "es": "La mediana de seguimiento fue de 6.6 años.",
+          "en": "Median follow-up was 6.6 years."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Las tasas de progresión clínicamente relevante fueron similares (9.7% multifocal vs 9.4% solitario, p=0.849).",
+          "en": "Rates of clinically relevant progression were similar (9.7% multifocal vs 9.4% solitary, p=0.849)."
+        },
+        {
+          "icon": "dna",
+          "es": "Los hallazgos sugieren un proceso de susceptibilidad en todo el páncreas (defecto de campo) en lugar de un fenómeno focal.",
+          "en": "Findings support a pancreas-wide susceptibility process (field defect) rather than a focal phenomenon."
+        }
+      ],
+      "bottomLineEs": "La multiplicidad de IPMNs de rama lateral no confiere un mayor riesgo maligno a nivel del paciente. Cada quiste debe evaluarse de forma independiente según sus propias características de riesgo.",
+      "bottomLineEn": "Multiplicity of SB-IPMNs does not confer increased malignant risk at the patient level. Each cyst should be evaluated independently according to its own risk features.",
+      "relevance": "Práctica clínica",
+      "pmid": "42897050",
+      "url": "https://doi.org/10.1016/j.pan.2026.10.011",
+      "source": "Pancreatology",
+      "date": "2026-Oct-14",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Inhibición de CDC7 supera resistencia a gemcitabina en colangiocarcinoma induciendo senescencia",
+      "headlineEn": "CDC7 Inhibition Overcomes Gemcitabine Resistance in Cholangiocarcinoma by Inducing Senescence",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La desregulación de CDC7 es una característica del colangiocarcinoma (CCA) asociada a quimiorresistencia y mal pronóstico.",
+          "en": "CDC7 dysregulation is a hallmark of cholangiocarcinoma (CCA) associated with chemoresistance and poor prognosis."
+        },
+        {
+          "icon": "pill",
+          "es": "El inhibidor de CDC7, XL413, re-sensibiliza tumores de CCA resistentes a gemcitabina en múltiples modelos preclínicos.",
+          "en": "CDC7 inhibitor XL413 re-sensitizes gemcitabine-resistant CCA tumors across multiple preclinical models."
+        },
+        {
+          "icon": "target",
+          "es": "La terapia combinada (XL413 + gemcitabina) induce sinérgicamente senescencia celular a través de una cascada ROS-daño en el ADN.",
+          "en": "Combination therapy (XL413 + gemcitabine) synergistically induces cellular senescence via a ROS-DNA damage cascade."
+        }
+      ],
+      "bottomLineEs": "Estos hallazgos preclínicos proporcionan evidencia robusta para la combinación de gemcitabina e inhibidores de CDC7 como una estrategia terapéutica viable para mejorar el manejo del colangiocarcinoma.",
+      "bottomLineEn": "These preclinical findings provide robust evidence supporting the combination of gemcitabine and CDC7 inhibitors as a viable therapeutic strategy to enhance cholangiocarcinoma management.",
+      "relevance": "Preclínico",
+      "pmid": "42901431",
+      "url": "https://doi.org/10.1016/j.canlet.2026.218902",
+      "source": "Cancer Lett",
+      "date": "2026-Oct-20",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Impacto de TIPS en HCC avanzado tratado con Atezolizumab + Bevacizumab",
+      "headlineEn": "Impact of TIPS in advanced HCC treated with Atezolizumab + Bevacizumab",
+      "studyType": "Estudio de cohorte prospectivo no intervencional",
+      "trialName": "NISTIPS TRITICC-4",
+      "n": "350",
+      "primaryMetricLabelEs": "Tiempo hasta el deterioro de la función hepática (TTDL)",
+      "primaryMetricLabelEn": "Time to deterioration of liver function (TTDL)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "350 pacientes con cirrosis y HCC irresecable/metastásico",
+          "en": "350 patients with cirrhosis and unresectable/metastatic HCC"
+        },
+        {
+          "icon": "pill",
+          "es": "Evalúa TIPS en pacientes con atezolizumab + bevacizumab de primera línea",
+          "en": "Evaluates TIPS in patients on first-line atezolizumab + bevacizumab"
+        },
+        {
+          "icon": "shield-check",
+          "es": "El objetivo primario es el tiempo hasta el deterioro de la función hepática",
+          "en": "Primary endpoint is time to deterioration of liver function"
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Bevacizumab aumenta el riesgo de hemorragia en hipertensión portal",
+          "en": "Bevacizumab increases bleeding risk in portal hypertension"
+        }
+      ],
+      "bottomLineEs": "Este estudio generará evidencia en vida real sobre el papel de TIPS en HCC avanzado tratado con atezolizumab + bevacizumab, apoyando estrategias de manejo individualizadas.",
+      "bottomLineEn": "This study will provide real-world evidence on the role of TIPS in advanced HCC treated with atezolizumab + bevacizumab, supporting individualized management strategies.",
+      "relevance": "Emergente",
+      "pmid": "42902603",
+      "url": "https://doi.org/10.1080/14796694.2026.2748246",
+      "source": "Future Oncol",
+      "date": "2026-Oct-20",
+      "topicId": "hcc"
+    }
+  ]
+}
