@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T11:22:12.255Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Eje SRSF1-DLAT impulsa resistencia a terapia en PDAC asociado a diabetes",
+      "headlineEn": "SRSF1-DLAT Axis Drives Therapy Resistance in Diabetes-Associated PDAC",
+      "studyType": "Estudio Preclínico/Translacional",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Pacientes con adenocarcinoma ductal de páncreas (PDAC) y diabetes mellitus concurrente frecuentemente exhiben peores resultados.",
+          "en": "Patients with pancreatic ductal adenocarcinoma (PDAC) and concurrent diabetes mellitus frequently exhibit poor outcomes."
+        },
+        {
+          "icon": "dna",
+          "es": "La acumulación de lactato en el microambiente tumoral diabético induce lactilación y estabilización de SRSF1, promoviendo la retención del Exón 5 de DLAT.",
+          "en": "Lactate accumulation in the diabetic tumor microenvironment induces K48-lactylation and stabilization of SRSF1, promoting DLAT Exon 5 retention."
+        },
+        {
+          "icon": "target",
+          "es": "El eje SRSF1-DLAT resultante impulsa la hiperfusión mitocondrial, confiriendo quimiorresistencia e inmunoevasión.",
+          "en": "The resulting SRSF1-DLAT axis drives mitochondrial hyperfusion, conferring chemoresistance and immune evasion."
+        },
+        {
+          "icon": "pill",
+          "es": "La intervención farmacológica con Berberina suprimió eficazmente el eje SRSF1-DLAT, resensibilizando tumores de PDAC asociados a diabetes in vivo.",
+          "en": "Pharmacological intervention with Berberine effectively suppressed this SRSF1-DLAT axis, re-sensitizing diabetes-associated PDAC tumors in vivo."
+        }
+      ],
+      "bottomLineEs": "El eje SRSF1-DLAT-fusión mitocondrial es un impulsor clave de la resistencia terapéutica en el PDAC asociado a diabetes. Dirigirse a esta interacción metabólico-inmune ofrece una estrategia prometedora.",
+      "bottomLineEn": "The SRSF1-DLAT-mitochondrial fusion axis drives therapeutic resistance in diabetes-associated PDAC. Targeting this metabolic-immune crosstalk offers a promising strategy.",
+      "relevance": "Preclínico",
+      "pmid": "42901085",
+      "url": "https://doi.org/10.1016/j.drup.2026.101489",
+      "source": "Drug Resist Updat",
+      "date": "2026-Oct-16",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Avances y futuro de los conjugados anticuerpo-fármaco (ADCs) en cáncer de vía biliar",
+      "headlineEn": "Advances and Future of Antibody-Drug Conjugates (ADCs) in Biliary Tract Cancer",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "shield-check",
+          "es": "Trastuzumab deruxtecan (T-DXd) obtuvo aprobación FDA agnóstica para tumores sólidos HER2-positivos, incluyendo BTC (ORR 22-36.4%).",
+          "en": "Trastuzumab deruxtecan (T-DXd) received FDA tumor-agnostic approval for HER2-positive solid tumors, including BTC (ORR 22-36.4%)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Zanidatamab logró aprobación regulatoria específica para BTC con una ORR del 41.3% (HERIZON-BTC-01).",
+          "en": "Zanidatamab achieved BTC-specific regulatory approval with 41.3% ORR (HERIZON-BTC-01)."
+        },
+        {
+          "icon": "target",
+          "es": "Nuevos ADCs dirigidos a Claudin18.2 (BL-M05D1, ORR 42.5%) y EGFRxHER3 (BL-B01D1, ORR 28.6%) muestran actividad prometedora.",
+          "en": "Novel ADCs targeting Claudin18.2 (BL-M05D1, ORR 42.5%) and EGFRxHER3 (BL-B01D1, ORR 28.6%) show promising activity."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Persisten desafíos como la falta de ensayos fase III aleatorizados y la necesidad de optimizar la selección de pacientes por biomarcadores.",
+          "en": "Challenges remain, including the absence of randomized phase III trials and the need to optimize biomarker-guided patient selection."
+        }
+      ],
+      "bottomLineEs": "Los ADCs representan una modalidad terapéutica prometedora para el cáncer de vía biliar, con aprobaciones recientes y múltiples dianas emergentes, aunque se requiere más investigación para superar la heterogeneidad tumoral y optimizar su uso.",
+      "bottomLineEn": "ADCs represent a promising therapeutic modality for biliary tract cancer, with recent approvals and multiple emerging targets, though further research is needed to overcome tumor heterogeneity and optimize their use.",
+      "relevance": "Emergente",
+      "pmid": "42900315",
+      "url": "https://doi.org/10.1007/s11912-026-01844-w",
+      "source": "Curr Oncol Rep",
+      "date": "2026-Oct-20",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Nanomicelas de doble objetivo con sorafenib y artesunato inducen ferroptosis sinérgica en HCC",
+      "headlineEn": "Dual-Targeting Nanomicelles Co-Loading Sorafenib and Artesunate Induce Synergistic Ferroptosis in HCC",
+      "studyType": "Estudio preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Tasa de inhibición tumoral in vivo",
+      "primaryMetricLabelEn": "In vivo tumor inhibition rate",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Nanomicelas (S&A@TPD/HG PMs) co-administran sorafenib y artesunato para terapia basada en ferroptosis.",
+          "en": "Nanomicelles (S&A@TPD/HG PMs) co-deliver sorafenib and artesunate for ferroptosis-based therapy."
+        },
+        {
+          "icon": "target",
+          "es": "Doble objetivo activo a receptores CD44 y GA, con anclaje mitocondrial para focalización subcelular escalonada.",
+          "en": "Active dual targeting to CD44 and GA receptors, with mitochondrial anchoring for stepwise subcellular targeting."
+        },
+        {
+          "icon": "dna",
+          "es": "Inducen ferroptosis al agotar glutatión (GSH) y regular a la baja la GPX4, elevando ROS y peroxidación lipídica.",
+          "en": "Induce ferroptosis by depleting GSH and downregulating GPX4, elevating ROS and lipid peroxidation."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Lograron una tasa de inhibición tumoral del 74.23% in vivo en ratones con mínima toxicidad sistémica.",
+          "en": "Achieved a 74.23% in vivo tumor inhibition rate in mice with minimal systemic toxicity."
+        }
+      ],
+      "bottomLineEs": "La estrategia de nanomicelas con doble objetivo y co-administración de sorafenib y artesunato es prometedora para combatir el HCC mediante ferroptosis sinérgica.",
+      "bottomLineEn": "The dual-targeting nanomicelle strategy co-delivering sorafenib and artesunate is promising for combating HCC via synergistic ferroptosis.",
+      "relevance": "Preclínico",
+      "pmid": "42902458",
+      "url": "https://doi.org/10.1002/adhm.71875",
+      "source": "Adv Healthc Mater",
+      "date": "2026-Oct-20",
+      "topicId": "hcc"
+    }
+  ]
+}
