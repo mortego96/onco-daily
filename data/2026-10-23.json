@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T11:13:07.081Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Atenuación vertebral L1 por TC: factor pronóstico en HCC tratados con ICIs",
+      "headlineEn": "CT-derived L1 vertebral attenuation: a prognostic factor in ICI-treated HCC",
+      "studyType": "Retrospectivo",
+      "trialName": null,
+      "n": "357",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": "1.73 (IC95% 1.15–2.60)",
+      "pfs": "1.47 (IC95% 1.04–2.08)",
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo en 357 pacientes con HCC tratados con inhibidores de puntos de control inmune (ICIs).",
+          "en": "Retrospective study in 357 HCC patients treated with immune checkpoint inhibitors (ICIs)."
+        },
+        {
+          "icon": "dna",
+          "es": "La atenuación vertebral L1 se midió en unidades Hounsfield (HU) en TC sin contraste.",
+          "en": "L1 vertebral attenuation measured in Hounsfield units (HU) on non-contrast CT scans."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Puntuación de corte óptima: ≤100 HU (baja atenuación) vs. >100 HU (alta atenuación).",
+          "en": "Optimal cutoff: ≤100 HU (low attenuation group) vs. >100 HU (high attenuation group)."
+        },
+        {
+          "icon": "clock",
+          "es": "El grupo de baja atenuación L1 tuvo menor SG y SLP tras ajuste por PSM.",
+          "en": "L1 low attenuation group had shorter OS and PFS after PSM."
+        }
+      ],
+      "bottomLineEs": "La atenuación vertebral L1 derivada de la TC puede estratificar el riesgo de supervivencia en pacientes con HCC que reciben tratamiento con ICIs.",
+      "bottomLineEn": "CT-derived L1 attenuation can stratify survival risk for HCC patients undergoing ICI treatment.",
+      "relevance": "Emergente",
+      "pmid": "42908779",
+      "url": "https://doi.org/10.3389/fonc.2026.1971063",
+      "source": "Front Oncol",
+      "date": "2026",
+      "topicId": "hcc"
+    }
+  ]
+}
