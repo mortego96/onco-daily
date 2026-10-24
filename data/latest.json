@@ -1,50 +1,174 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T11:13:07.081Z",
-  "count": 1,
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T10:31:22.057Z",
+  "count": 4,
   "cards": [
     {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Atenuación vertebral L1 por TC: factor pronóstico en HCC tratados con ICIs",
-      "headlineEn": "CT-derived L1 vertebral attenuation: a prognostic factor in ICI-treated HCC",
-      "studyType": "Retrospectivo",
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Firma génica de CAFs para pronóstico y respuesta a inmunoterapia en PDAC",
+      "headlineEn": "CAF-related gene signature for prognosis and immunotherapy response in PDAC",
+      "studyType": "Estudio de biomarcadores",
       "trialName": null,
-      "n": "357",
-      "primaryMetricLabelEs": "Supervivencia Global (SG)",
-      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
-      "hr": "1.73 (IC95% 1.15–2.60)",
-      "pfs": "1.47 (IC95% 1.04–2.08)",
+      "hr": null,
+      "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "Estudio retrospectivo en 357 pacientes con HCC tratados con inhibidores de puntos de control inmune (ICIs).",
-          "en": "Retrospective study in 357 HCC patients treated with immune checkpoint inhibitors (ICIs)."
+          "icon": "dna",
+          "es": "Se construyó una firma génica de nueve genes relacionada con fibroblastos asociados a cáncer (CAFs).",
+          "en": "A nine-gene CAF-related signature was constructed."
+        },
+        {
+          "icon": "target",
+          "es": "La firma se correlacionó con el pronóstico, el paisaje genómico e inmune, y la respuesta a inmunoterapia en PDAC.",
+          "en": "The signature correlated with prognosis, genomic/immune landscape, and immunotherapy response in PDAC."
         },
         {
           "icon": "dna",
-          "es": "La atenuación vertebral L1 se midió en unidades Hounsfield (HU) en TC sin contraste.",
-          "en": "L1 vertebral attenuation measured in Hounsfield units (HU) on non-contrast CT scans."
+          "es": "GJB2 tuvo el coeficiente más alto en la firma génica relacionada con CAFs.",
+          "en": "GJB2 had the highest coefficient in the CAF-related gene signature."
         },
         {
-          "icon": "alert-triangle",
-          "es": "Puntuación de corte óptima: ≤100 HU (baja atenuación) vs. >100 HU (alta atenuación).",
-          "en": "Optimal cutoff: ≤100 HU (low attenuation group) vs. >100 HU (high attenuation group)."
+          "icon": "shield-check",
+          "es": "La supresión de GJB2 en CAFs redujo el fenotipo maligno de células PDAC (PANC1, MIAPaCa2) in vitro.",
+          "en": "GJB2 knockdown in CAFs suppressed the malignant phenotype of PDAC cells (PANC1, MIAPaCa2) in vitro."
+        }
+      ],
+      "bottomLineEs": "Esta firma génica relacionada con CAFs es útil para la predicción del pronóstico y la terapia de precisión en pacientes con adenocarcinoma de páncreas.",
+      "bottomLineEn": "This CAF-related gene signature is useful for prognosis prediction and precision therapy in pancreatic ductal adenocarcinoma patients.",
+      "relevance": "Emergente",
+      "pmid": "42920552",
+      "url": "https://doi.org/10.3389/fphar.2026.1873756",
+      "source": "Front Pharmacol",
+      "date": "2026",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Excelente pronóstico tras resección de neoplasias pseudopapilares sólidas de páncreas",
+      "headlineEn": "Excellent outcomes after resection of pancreatic solid pseudopapillary neoplasms",
+      "studyType": "Estudio retrospectivo",
+      "trialName": null,
+      "n": "74 pacientes",
+      "primaryMetricLabelEs": "Supervivencia libre de recurrencia",
+      "primaryMetricLabelEn": "Recurrence-free survival",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "shield-check",
+          "es": "Resección R0 lograda en 95.9% de los pacientes.",
+          "en": "Margin-negative resection achieved in 95.9% of patients."
         },
         {
           "icon": "clock",
-          "es": "El grupo de baja atenuación L1 tuvo menor SG y SLP tras ajuste por PSM.",
-          "en": "L1 low attenuation group had shorter OS and PFS after PSM."
+          "es": "Mediana de seguimiento de 5.8 años; 6.8% de recurrencia; 0% mortalidad específica por enfermedad.",
+          "en": "Median follow-up 5.8 years; 6.8% recurrence; 0% disease-specific mortality."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Factores asociados a recurrencia: afectación vascular, márgenes positivos, afectación de órganos adyacentes.",
+          "en": "Recurrence risk factors: major vascular involvement, positive margins, adjacent organ involvement."
         }
       ],
-      "bottomLineEs": "La atenuación vertebral L1 derivada de la TC puede estratificar el riesgo de supervivencia en pacientes con HCC que reciben tratamiento con ICIs.",
-      "bottomLineEn": "CT-derived L1 attenuation can stratify survival risk for HCC patients undergoing ICI treatment.",
+      "bottomLineEs": "La resección quirúrgica de las neoplasias pseudopapilares sólidas (SPN) ofrece un control duradero de la enfermedad y una excelente supervivencia a largo plazo, con una baja tasa de recurrencia.",
+      "bottomLineEn": "Surgical resection of solid pseudopapillary neoplasms (SPN) provides durable disease control and excellent long-term survival, with a low recurrence rate.",
+      "relevance": "Práctica clínica",
+      "pmid": "42919784",
+      "url": "https://doi.org/10.1016/j.hpb.2026.09.009",
+      "source": "HPB (Oxford)",
+      "date": "2026-Sep-30",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Inteligencia Artificial en Hepatitis: Avances en Diagnóstico, Tratamiento y Pronóstico",
+      "headlineEn": "Artificial Intelligence in Hepatitis: Advances in Diagnosis, Treatment, and Prognosis",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "La IA se aplica en hepatitis para diagnóstico, optimización de tratamiento y predicción de pronóstico.",
+          "en": "AI applied in hepatitis for diagnosis, treatment optimization, and prognosis prediction."
+        },
+        {
+          "icon": "dna",
+          "es": "En diagnóstico, la IA mejora la detección, clasificación y estadificación de la enfermedad hepática.",
+          "en": "In diagnosis, AI enhances detection, classification, and staging of liver disease."
+        },
+        {
+          "icon": "pill",
+          "es": "En terapia, la IA apoya el descubrimiento de fármacos, la optimización de regímenes y la predicción de respuesta.",
+          "en": "In therapy, AI supports drug discovery, regimen optimization, and response prediction."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Limitaciones clave: heterogeneidad de datos, generalizabilidad y traslación clínica. Se requiere evaluación prospectiva.",
+          "en": "Key limitations: data heterogeneity, generalizability, and clinical translation. Prospective evaluation needed."
+        }
+      ],
+      "bottomLineEs": "La Inteligencia Artificial muestra un potencial prometedor para abordar necesidades no cubiertas en el manejo de la hepatitis, mejorando el diagnóstico, la optimización del tratamiento y la predicción del pronóstico, aunque persisten desafíos para su implementación clínica.",
+      "bottomLineEn": "Artificial Intelligence shows promising potential to address unmet needs in hepatitis management, improving diagnosis, treatment optimization, and prognostic prediction, though challenges for clinical implementation persist.",
       "relevance": "Emergente",
-      "pmid": "42908779",
-      "url": "https://doi.org/10.3389/fonc.2026.1971063",
-      "source": "Front Oncol",
-      "date": "2026",
+      "pmid": "42920253",
+      "url": "https://doi.org/10.1177/03000605261500644",
+      "source": "J Int Med Res",
+      "date": "2026-Oct",
       "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Ampulectomía Transduodenal Robótica (RATA) para NET Ampular: Video Quirúrgico",
+      "headlineEn": "Robotic-Assisted Transduodenal Ampullectomy (RATA) for Ampullary NET: Surgical Video",
+      "studyType": "Surgical Video / Case Report",
+      "trialName": null,
+      "n": "1",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Paciente masculino de 71 años con NET ampular de 14 mm y Ki-67 4%.",
+          "en": "71-year-old male with 14 mm ampullary NET and Ki-67 4%."
+        },
+        {
+          "icon": "dna",
+          "es": "PET-CT con 68Ga-DOTATATE mostró alta avidez por receptores de somatostatina (SUVmax 66.8).",
+          "en": "68Ga-DOTATATE PET-CT showed high somatostatin-receptor avidity (SUVmax 66.8)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Procedimiento RATA completado sin complicaciones intraoperatorias; alta al día 7.",
+          "en": "RATA procedure completed without intraoperative complications; discharged on day 7."
+        },
+        {
+          "icon": "clock",
+          "es": "Paciente libre de enfermedad a los 7 meses post-cirugía, tras reingreso breve por microembolismo pulmonar.",
+          "en": "Patient remains disease-free 7 months post-surgery, after brief readmission for pulmonary microembolism."
+        }
+      ],
+      "bottomLineEs": "La RATA es una alternativa segura, factible y preservadora de páncreas a la pancreaticoduodenectomía para NET ampulares bien diferenciados en pacientes seleccionados.",
+      "bottomLineEn": "RATA is a safe, feasible, and pancreas-preserving alternative to pancreaticoduodenectomy for well-differentiated ampullary NETs in selected patients.",
+      "relevance": "Emergente",
+      "pmid": "42914771",
+      "url": "https://doi.org/10.1016/j.suronc.2026.102585",
+      "source": "Surg Oncol",
+      "date": "2026-Oct-12",
+      "topicId": "net"
     }
   ]
 }
