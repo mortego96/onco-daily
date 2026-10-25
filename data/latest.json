@@ -1,139 +1,15 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T10:31:22.057Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T10:58:17.880Z",
   "count": 4,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Firma génica de CAFs para pronóstico y respuesta a inmunoterapia en PDAC",
-      "headlineEn": "CAF-related gene signature for prognosis and immunotherapy response in PDAC",
-      "studyType": "Estudio de biomarcadores",
+      "headlineEs": "La ascendencia influye en el paisaje molecular y patrones mutacionales del PDAC.",
+      "headlineEn": "Ancestry influences PDAC molecular landscape and mutational patterns.",
+      "studyType": "Análisis genómico retrospectivo",
       "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Se construyó una firma génica de nueve genes relacionada con fibroblastos asociados a cáncer (CAFs).",
-          "en": "A nine-gene CAF-related signature was constructed."
-        },
-        {
-          "icon": "target",
-          "es": "La firma se correlacionó con el pronóstico, el paisaje genómico e inmune, y la respuesta a inmunoterapia en PDAC.",
-          "en": "The signature correlated with prognosis, genomic/immune landscape, and immunotherapy response in PDAC."
-        },
-        {
-          "icon": "dna",
-          "es": "GJB2 tuvo el coeficiente más alto en la firma génica relacionada con CAFs.",
-          "en": "GJB2 had the highest coefficient in the CAF-related gene signature."
-        },
-        {
-          "icon": "shield-check",
-          "es": "La supresión de GJB2 en CAFs redujo el fenotipo maligno de células PDAC (PANC1, MIAPaCa2) in vitro.",
-          "en": "GJB2 knockdown in CAFs suppressed the malignant phenotype of PDAC cells (PANC1, MIAPaCa2) in vitro."
-        }
-      ],
-      "bottomLineEs": "Esta firma génica relacionada con CAFs es útil para la predicción del pronóstico y la terapia de precisión en pacientes con adenocarcinoma de páncreas.",
-      "bottomLineEn": "This CAF-related gene signature is useful for prognosis prediction and precision therapy in pancreatic ductal adenocarcinoma patients.",
-      "relevance": "Emergente",
-      "pmid": "42920552",
-      "url": "https://doi.org/10.3389/fphar.2026.1873756",
-      "source": "Front Pharmacol",
-      "date": "2026",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Excelente pronóstico tras resección de neoplasias pseudopapilares sólidas de páncreas",
-      "headlineEn": "Excellent outcomes after resection of pancreatic solid pseudopapillary neoplasms",
-      "studyType": "Estudio retrospectivo",
-      "trialName": null,
-      "n": "74 pacientes",
-      "primaryMetricLabelEs": "Supervivencia libre de recurrencia",
-      "primaryMetricLabelEn": "Recurrence-free survival",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "shield-check",
-          "es": "Resección R0 lograda en 95.9% de los pacientes.",
-          "en": "Margin-negative resection achieved in 95.9% of patients."
-        },
-        {
-          "icon": "clock",
-          "es": "Mediana de seguimiento de 5.8 años; 6.8% de recurrencia; 0% mortalidad específica por enfermedad.",
-          "en": "Median follow-up 5.8 years; 6.8% recurrence; 0% disease-specific mortality."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Factores asociados a recurrencia: afectación vascular, márgenes positivos, afectación de órganos adyacentes.",
-          "en": "Recurrence risk factors: major vascular involvement, positive margins, adjacent organ involvement."
-        }
-      ],
-      "bottomLineEs": "La resección quirúrgica de las neoplasias pseudopapilares sólidas (SPN) ofrece un control duradero de la enfermedad y una excelente supervivencia a largo plazo, con una baja tasa de recurrencia.",
-      "bottomLineEn": "Surgical resection of solid pseudopapillary neoplasms (SPN) provides durable disease control and excellent long-term survival, with a low recurrence rate.",
-      "relevance": "Práctica clínica",
-      "pmid": "42919784",
-      "url": "https://doi.org/10.1016/j.hpb.2026.09.009",
-      "source": "HPB (Oxford)",
-      "date": "2026-Sep-30",
-      "topicId": "panc_other"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Inteligencia Artificial en Hepatitis: Avances en Diagnóstico, Tratamiento y Pronóstico",
-      "headlineEn": "Artificial Intelligence in Hepatitis: Advances in Diagnosis, Treatment, and Prognosis",
-      "studyType": "Revisión narrativa",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "target",
-          "es": "La IA se aplica en hepatitis para diagnóstico, optimización de tratamiento y predicción de pronóstico.",
-          "en": "AI applied in hepatitis for diagnosis, treatment optimization, and prognosis prediction."
-        },
-        {
-          "icon": "dna",
-          "es": "En diagnóstico, la IA mejora la detección, clasificación y estadificación de la enfermedad hepática.",
-          "en": "In diagnosis, AI enhances detection, classification, and staging of liver disease."
-        },
-        {
-          "icon": "pill",
-          "es": "En terapia, la IA apoya el descubrimiento de fármacos, la optimización de regímenes y la predicción de respuesta.",
-          "en": "In therapy, AI supports drug discovery, regimen optimization, and response prediction."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Limitaciones clave: heterogeneidad de datos, generalizabilidad y traslación clínica. Se requiere evaluación prospectiva.",
-          "en": "Key limitations: data heterogeneity, generalizability, and clinical translation. Prospective evaluation needed."
-        }
-      ],
-      "bottomLineEs": "La Inteligencia Artificial muestra un potencial prometedor para abordar necesidades no cubiertas en el manejo de la hepatitis, mejorando el diagnóstico, la optimización del tratamiento y la predicción del pronóstico, aunque persisten desafíos para su implementación clínica.",
-      "bottomLineEn": "Artificial Intelligence shows promising potential to address unmet needs in hepatitis management, improving diagnosis, treatment optimization, and prognostic prediction, though challenges for clinical implementation persist.",
-      "relevance": "Emergente",
-      "pmid": "42920253",
-      "url": "https://doi.org/10.1177/03000605261500644",
-      "source": "J Int Med Res",
-      "date": "2026-Oct",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Ampulectomía Transduodenal Robótica (RATA) para NET Ampular: Video Quirúrgico",
-      "headlineEn": "Robotic-Assisted Transduodenal Ampullectomy (RATA) for Ampullary NET: Surgical Video",
-      "studyType": "Surgical Video / Case Report",
-      "trialName": null,
-      "n": "1",
+      "n": "7.527 tumores",
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
@@ -142,32 +18,156 @@
       "facts": [
         {
           "icon": "users",
-          "es": "Paciente masculino de 71 años con NET ampular de 14 mm y Ki-67 4%.",
-          "en": "71-year-old male with 14 mm ampullary NET and Ki-67 4%."
+          "es": "Análisis de 7.527 tumores de PDAC de diversas ascendencias.",
+          "en": "Analysis of 7,527 PDAC tumors from diverse ancestries."
         },
         {
           "icon": "dna",
-          "es": "PET-CT con 68Ga-DOTATATE mostró alta avidez por receptores de somatostatina (SUVmax 66.8).",
-          "en": "68Ga-DOTATATE PET-CT showed high somatostatin-receptor avidity (SUVmax 66.8)."
+          "es": "Carga de SNV más alta en PDAC africano, más baja en asiático vs. europeo.",
+          "en": "Higher SNV burden in African PDAC, lower in Asian vs. European."
+        },
+        {
+          "icon": "dna",
+          "es": "Mutaciones driver en GNAS más frecuentes en ascendencia asiática, menos en africana.",
+          "en": "GNAS driver mutations more frequent in Asian, less in African ancestry."
+        },
+        {
+          "icon": "target",
+          "es": "No se hallaron asociaciones de sexo o ascendencia con KRAS, pero variantes individuales mostraron tendencias.",
+          "en": "No sex/ancestry associations with KRAS, but individual variants showed trends."
+        }
+      ],
+      "bottomLineEs": "Este estudio revela que la ascendencia es un factor clave en la heterogeneidad genómica del adenocarcinoma de páncreas, afectando patrones de mutación globales y específicos de genes. Subraya la necesidad de perfiles moleculares diversos para desarrollar diagnósticos y terapias personalizadas.",
+      "bottomLineEn": "This study reveals ancestry as a key factor in PDAC genomic heterogeneity, influencing global and gene-specific mutation patterns. It highlights the need for diverse molecular profiling to develop tailored diagnostics and targeted therapies.",
+      "relevance": "Emergente",
+      "pmid": "42926530",
+      "url": "https://doi.org/10.64898/2026.10.06.757201",
+      "source": "bioRxiv",
+      "date": "2026-Oct-8",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Pancreatoscopia intraoperatoria facilita preservación pancreática en DPR por NMPID en ancianos.",
+      "headlineEn": "Intraoperative Pancreatoscopy Aids Pancreatic Preservation in RPD for MD-IPMN in Elderly.",
+      "studyType": "Serie de casos",
+      "trialName": null,
+      "n": "2 pacientes",
+      "primaryMetricLabelEs": "Preservación pancreática",
+      "primaryMetricLabelEn": "Pancreatic preservation",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "Pancreatoscopia intraoperatoria (Spyglass) durante duodenopancreatectomía robótica (DPR).",
+          "en": "Intraoperative pancreatoscopy (Spyglass) during robotic pancreatoduodenectomy (RPD)."
         },
         {
           "icon": "shield-check",
-          "es": "Procedimiento RATA completado sin complicaciones intraoperatorias; alta al día 7.",
-          "en": "RATA procedure completed without intraoperative complications; discharged on day 7."
+          "es": "Permitió preservar el páncreas remanente en ambos casos, sin lesiones sospechosas ni displasia de alto grado en el margen.",
+          "en": "Enabled preservation of remnant pancreas in both cases, with no suspicious lesions or high-grade dysplasia at the margin."
         },
         {
-          "icon": "clock",
-          "es": "Paciente libre de enfermedad a los 7 meses post-cirugía, tras reingreso breve por microembolismo pulmonar.",
-          "en": "Patient remains disease-free 7 months post-surgery, after brief readmission for pulmonary microembolism."
+          "icon": "dna",
+          "es": "Complementa la imagen preoperatoria y facilita la biopsia dirigida para evaluar el conducto pancreático remanente.",
+          "en": "Complements preoperative imaging and facilitates targeted biopsy to evaluate the remnant pancreatic duct."
         }
       ],
-      "bottomLineEs": "La RATA es una alternativa segura, factible y preservadora de páncreas a la pancreaticoduodenectomía para NET ampulares bien diferenciados en pacientes seleccionados.",
-      "bottomLineEn": "RATA is a safe, feasible, and pancreas-preserving alternative to pancreaticoduodenectomy for well-differentiated ampullary NETs in selected patients.",
+      "bottomLineEs": "La pancreatoscopia intraoperatoria es factible y segura durante la DPR, apoyando la preservación del páncreas remanente en pacientes ancianos con NMPID.",
+      "bottomLineEn": "Intraoperative pancreatoscopy is feasible and safe during RPD, supporting remnant pancreas preservation in elderly MD-IPMN patients.",
       "relevance": "Emergente",
-      "pmid": "42914771",
-      "url": "https://doi.org/10.1016/j.suronc.2026.102585",
-      "source": "Surg Oncol",
-      "date": "2026-Oct-12",
+      "pmid": "42918950",
+      "url": "https://doi.org/10.1245/s10434-026-20684-3",
+      "source": "Ann Surg Oncol",
+      "date": "2026-Oct-22",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Metabolismo energético en esferoides de HCC: Implicaciones para terapias anti-Warburg",
+      "headlineEn": "Energy Metabolism in HCC Spheroids: Implications for Anti-Warburg Therapies",
+      "studyType": "Estudio Preclínico In Vitro",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Nivel de ATP y dependencia metabólica",
+      "primaryMetricLabelEn": "ATP Level and Metabolic Dependence",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Células de hepatocarcinoma humano (HepG2) cultivadas en 2D y esferoides 3D.",
+          "en": "Human hepatocellular carcinoma (HepG2) cells cultured in 2D and 3D spheroids."
+        },
+        {
+          "icon": "pill",
+          "es": "Evaluación de dependencia metabólica con inhibidores de glucólisis, ciclo TCA, ATP mitocondrial y metformina.",
+          "en": "Assessment of metabolic dependence using inhibitors of glycolysis, TCA cycle, mitochondrial ATP, and metformin."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La metformina redujo los niveles de ATP en monocapas 2D, pero no en esferoides 3D.",
+          "en": "Metformin reduced ATP levels in 2D monolayers, but not in 3D spheroids."
+        },
+        {
+          "icon": "target",
+          "es": "Las células HepG2 en esferoides 3D mantuvieron la dependencia de glucosa para la producción de ATP.",
+          "en": "HepG2 cells in 3D spheroids remained glucose-dependent for ATP production."
+        }
+      ],
+      "bottomLineEs": "Los esferoides 3D muestran respuestas metabólicas diferentes a las monocapas 2D, lo que requiere una interpretación cuidadosa al probar fármacos anti-Warburg.",
+      "bottomLineEn": "3D spheroids exhibit different metabolic responses compared to 2D monolayers, requiring careful interpretation when testing anti-Warburg drugs.",
+      "relevance": "Preclínico",
+      "pmid": "42926122",
+      "url": "https://doi.org/10.1016/j.ymeth.2026.10.009",
+      "source": "Methods",
+      "date": "2026-Oct-24",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Retos en la interpretación de PET con receptores de somatostatina en NET",
+      "headlineEn": "Challenges in SSTR PET Interpretation for Neuroendocrine Tumors",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Factores fisiológicos, técnicos, inflamatorios o lesiones no-NET pueden generar falsos positivos en SSTR PET.",
+          "en": "Physiological, technical, inflammatory factors, or non-NET lesions can cause false positives in SSTR PET."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Tamaño pequeño, efecto de volumen parcial o baja expresión receptora pueden causar falsos negativos o subestimación de la enfermedad.",
+          "en": "Small size, partial-volume effect, or low receptor expression can lead to false negatives or disease underestimation."
+        },
+        {
+          "icon": "pill",
+          "es": "El tratamiento con análogos de somatostatina puede modificar la biodistribución y el contraste lesión-fondo.",
+          "en": "Somatostatin analogue treatment can modify biodistribution and lesion-to-background contrast."
+        },
+        {
+          "icon": "dna",
+          "es": "La heterogeneidad interlesional en la expresión del receptor es crucial para la selección de PRRT.",
+          "en": "Inter-lesional receptor expression heterogeneity is crucial for PRRT selection."
+        }
+      ],
+      "bottomLineEs": "La interpretación precisa del SSTR PET requiere integrar información molecular, anatómica y clínica, más allá de la intensidad de captación aislada.",
+      "bottomLineEn": "Accurate SSTR PET interpretation requires integrating molecular, anatomical, and clinical information, beyond isolated uptake intensity.",
+      "relevance": "Práctica clínica",
+      "pmid": "42926166",
+      "url": "https://doi.org/10.1053/j.semnuclmed.2026.10.002",
+      "source": "Semin Nucl Med",
+      "date": "2026-Oct-24",
       "topicId": "net"
     }
   ]
