@@ -1,173 +1,92 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T10:58:17.880Z",
-  "count": 4,
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T12:28:49.192Z",
+  "count": 2,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "La ascendencia influye en el paisaje molecular y patrones mutacionales del PDAC.",
-      "headlineEn": "Ancestry influences PDAC molecular landscape and mutational patterns.",
-      "studyType": "Análisis genómico retrospectivo",
+      "headlineEs": "Inhibición de NCLX y CaDelivery potencia electroporación e inmunidad antitumoral en PDAC.",
+      "headlineEn": "NCLX Inhibition + CaDelivery Potentiates Electroporation and Antitumor Immunity in PDAC.",
+      "studyType": "Preclínico",
       "trialName": null,
-      "n": "7.527 tumores",
+      "n": null,
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Estrategia adyuvante: CaDelivery intratumoral e inhibición de NCLX (CGP37157) mediada por nanopartículas.",
+          "en": "Adjuvant strategy: Intratumoral CaDelivery and nanoparticle-mediated NCLX inhibition (CGP37157)."
+        },
+        {
+          "icon": "target",
+          "es": "Mejora la citotoxicidad en líneas celulares/organoides de PDAC y el control local/supervivencia en modelos sinérgicos.",
+          "en": "Enhances cytotoxicity in PDAC cell lines/organoids and improves local control/survival in syngeneic models."
+        },
+        {
+          "icon": "dna",
+          "es": "Mecanismo: sobrecarga de Ca mitocondrial, piroptosis dependiente de GSDMD y mejora de la inmunidad adaptativa.",
+          "en": "Mechanism: Sustained mitochondrial Ca overload, GSDMD-dependent pyroptosis, and enhanced adaptive immunity."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La eficacia reducida en huéspedes con deficiencia de células T subraya la importancia de la inmunidad adaptativa.",
+          "en": "Reduced efficacy in T cell-deficient hosts highlights the importance of adaptive immunity."
+        }
+      ],
+      "bottomLineEs": "La inhibición de NCLX potencia los efectos inmunogénicos de la electroporación, ofreciendo una estrategia prometedora para eliminar la enfermedad residual en PDAC.",
+      "bottomLineEn": "NCLX inhibition potentiates the immunogenic effects of electroporation, offering a promising strategy to eliminate residual disease in PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "42928513",
+      "url": "https://doi.org/10.1002/advs.78288",
+      "source": "Adv Sci (Weinh)",
+      "date": "2026-Oct-25",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Trasplante hepático para metástasis hepáticas de tumores neuroendocrinos: Revisión sistemática",
+      "headlineEn": "Liver Transplantation for Neuroendocrine Liver Metastases: A Systematic Review",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": "1005 pacientes",
+      "primaryMetricLabelEs": "Supervivencia global (SG) y Supervivencia libre de enfermedad (SLE)",
+      "primaryMetricLabelEn": "Overall Survival (OS) and Disease-Free Survival (DFS)",
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "Análisis de 7.527 tumores de PDAC de diversas ascendencias.",
-          "en": "Analysis of 7,527 PDAC tumors from diverse ancestries."
-        },
-        {
-          "icon": "dna",
-          "es": "Carga de SNV más alta en PDAC africano, más baja en asiático vs. europeo.",
-          "en": "Higher SNV burden in African PDAC, lower in Asian vs. European."
-        },
-        {
-          "icon": "dna",
-          "es": "Mutaciones driver en GNAS más frecuentes en ascendencia asiática, menos en africana.",
-          "en": "GNAS driver mutations more frequent in Asian, less in African ancestry."
+          "es": "Datos de 1005 pacientes con LM-NET, edad media 47.9 años, mayoría hombres.",
+          "en": "Data from 1005 patients with LM-NET, mean age 47.9 years, mostly male."
         },
         {
           "icon": "target",
-          "es": "No se hallaron asociaciones de sexo o ascendencia con KRAS, pero variantes individuales mostraron tendencias.",
-          "en": "No sex/ancestry associations with KRAS, but individual variants showed trends."
+          "es": "Localizaciones más frecuentes del tumor primario: páncreas e intestino delgado.",
+          "en": "Most frequent primary tumor locations: pancreas and small intestine."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia libre de enfermedad (SLE) mediana: 25.3 meses (rango 14-31).",
+          "en": "Median Disease-Free Survival (DFS): 25.3 months (range 14-31)."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia global (SG) mediana: 38.5 meses (rango 32.5-57.1).",
+          "en": "Median Overall Survival (OS): 38.5 months (range 32.5-57.1)."
         }
       ],
-      "bottomLineEs": "Este estudio revela que la ascendencia es un factor clave en la heterogeneidad genómica del adenocarcinoma de páncreas, afectando patrones de mutación globales y específicos de genes. Subraya la necesidad de perfiles moleculares diversos para desarrollar diagnósticos y terapias personalizadas.",
-      "bottomLineEn": "This study reveals ancestry as a key factor in PDAC genomic heterogeneity, influencing global and gene-specific mutation patterns. It highlights the need for diverse molecular profiling to develop tailored diagnostics and targeted therapies.",
+      "bottomLineEs": "El trasplante hepático parece proporcionar un beneficio de supervivencia en pacientes seleccionados con LM-NET difusas sin enfermedad extrahepática.",
+      "bottomLineEn": "Liver transplantation appears to provide a survival benefit in selected patients with diffuse LM-NET without extrahepatic disease.",
       "relevance": "Emergente",
-      "pmid": "42926530",
-      "url": "https://doi.org/10.64898/2026.10.06.757201",
-      "source": "bioRxiv",
-      "date": "2026-Oct-8",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Pancreatoscopia intraoperatoria facilita preservación pancreática en DPR por NMPID en ancianos.",
-      "headlineEn": "Intraoperative Pancreatoscopy Aids Pancreatic Preservation in RPD for MD-IPMN in Elderly.",
-      "studyType": "Serie de casos",
-      "trialName": null,
-      "n": "2 pacientes",
-      "primaryMetricLabelEs": "Preservación pancreática",
-      "primaryMetricLabelEn": "Pancreatic preservation",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "target",
-          "es": "Pancreatoscopia intraoperatoria (Spyglass) durante duodenopancreatectomía robótica (DPR).",
-          "en": "Intraoperative pancreatoscopy (Spyglass) during robotic pancreatoduodenectomy (RPD)."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Permitió preservar el páncreas remanente en ambos casos, sin lesiones sospechosas ni displasia de alto grado en el margen.",
-          "en": "Enabled preservation of remnant pancreas in both cases, with no suspicious lesions or high-grade dysplasia at the margin."
-        },
-        {
-          "icon": "dna",
-          "es": "Complementa la imagen preoperatoria y facilita la biopsia dirigida para evaluar el conducto pancreático remanente.",
-          "en": "Complements preoperative imaging and facilitates targeted biopsy to evaluate the remnant pancreatic duct."
-        }
-      ],
-      "bottomLineEs": "La pancreatoscopia intraoperatoria es factible y segura durante la DPR, apoyando la preservación del páncreas remanente en pacientes ancianos con NMPID.",
-      "bottomLineEn": "Intraoperative pancreatoscopy is feasible and safe during RPD, supporting remnant pancreas preservation in elderly MD-IPMN patients.",
-      "relevance": "Emergente",
-      "pmid": "42918950",
-      "url": "https://doi.org/10.1245/s10434-026-20684-3",
-      "source": "Ann Surg Oncol",
-      "date": "2026-Oct-22",
-      "topicId": "panc_other"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Metabolismo energético en esferoides de HCC: Implicaciones para terapias anti-Warburg",
-      "headlineEn": "Energy Metabolism in HCC Spheroids: Implications for Anti-Warburg Therapies",
-      "studyType": "Estudio Preclínico In Vitro",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": "Nivel de ATP y dependencia metabólica",
-      "primaryMetricLabelEn": "ATP Level and Metabolic Dependence",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Células de hepatocarcinoma humano (HepG2) cultivadas en 2D y esferoides 3D.",
-          "en": "Human hepatocellular carcinoma (HepG2) cells cultured in 2D and 3D spheroids."
-        },
-        {
-          "icon": "pill",
-          "es": "Evaluación de dependencia metabólica con inhibidores de glucólisis, ciclo TCA, ATP mitocondrial y metformina.",
-          "en": "Assessment of metabolic dependence using inhibitors of glycolysis, TCA cycle, mitochondrial ATP, and metformin."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La metformina redujo los niveles de ATP en monocapas 2D, pero no en esferoides 3D.",
-          "en": "Metformin reduced ATP levels in 2D monolayers, but not in 3D spheroids."
-        },
-        {
-          "icon": "target",
-          "es": "Las células HepG2 en esferoides 3D mantuvieron la dependencia de glucosa para la producción de ATP.",
-          "en": "HepG2 cells in 3D spheroids remained glucose-dependent for ATP production."
-        }
-      ],
-      "bottomLineEs": "Los esferoides 3D muestran respuestas metabólicas diferentes a las monocapas 2D, lo que requiere una interpretación cuidadosa al probar fármacos anti-Warburg.",
-      "bottomLineEn": "3D spheroids exhibit different metabolic responses compared to 2D monolayers, requiring careful interpretation when testing anti-Warburg drugs.",
-      "relevance": "Preclínico",
-      "pmid": "42926122",
-      "url": "https://doi.org/10.1016/j.ymeth.2026.10.009",
-      "source": "Methods",
-      "date": "2026-Oct-24",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Retos en la interpretación de PET con receptores de somatostatina en NET",
-      "headlineEn": "Challenges in SSTR PET Interpretation for Neuroendocrine Tumors",
-      "studyType": "Revisión",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "alert-triangle",
-          "es": "Factores fisiológicos, técnicos, inflamatorios o lesiones no-NET pueden generar falsos positivos en SSTR PET.",
-          "en": "Physiological, technical, inflammatory factors, or non-NET lesions can cause false positives in SSTR PET."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Tamaño pequeño, efecto de volumen parcial o baja expresión receptora pueden causar falsos negativos o subestimación de la enfermedad.",
-          "en": "Small size, partial-volume effect, or low receptor expression can lead to false negatives or disease underestimation."
-        },
-        {
-          "icon": "pill",
-          "es": "El tratamiento con análogos de somatostatina puede modificar la biodistribución y el contraste lesión-fondo.",
-          "en": "Somatostatin analogue treatment can modify biodistribution and lesion-to-background contrast."
-        },
-        {
-          "icon": "dna",
-          "es": "La heterogeneidad interlesional en la expresión del receptor es crucial para la selección de PRRT.",
-          "en": "Inter-lesional receptor expression heterogeneity is crucial for PRRT selection."
-        }
-      ],
-      "bottomLineEs": "La interpretación precisa del SSTR PET requiere integrar información molecular, anatómica y clínica, más allá de la intensidad de captación aislada.",
-      "bottomLineEn": "Accurate SSTR PET interpretation requires integrating molecular, anatomical, and clinical information, beyond isolated uptake intensity.",
-      "relevance": "Práctica clínica",
-      "pmid": "42926166",
-      "url": "https://doi.org/10.1053/j.semnuclmed.2026.10.002",
-      "source": "Semin Nucl Med",
-      "date": "2026-Oct-24",
+      "pmid": "42913616",
+      "url": "https://doi.org/10.24875/CIRU.24000631",
+      "source": "Cir Cir",
+      "date": "2026",
       "topicId": "net"
     }
   ]

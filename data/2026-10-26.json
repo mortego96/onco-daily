@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T12:28:49.192Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Inhibición de NCLX y CaDelivery potencia electroporación e inmunidad antitumoral en PDAC.",
+      "headlineEn": "NCLX Inhibition + CaDelivery Potentiates Electroporation and Antitumor Immunity in PDAC.",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Estrategia adyuvante: CaDelivery intratumoral e inhibición de NCLX (CGP37157) mediada por nanopartículas.",
+          "en": "Adjuvant strategy: Intratumoral CaDelivery and nanoparticle-mediated NCLX inhibition (CGP37157)."
+        },
+        {
+          "icon": "target",
+          "es": "Mejora la citotoxicidad en líneas celulares/organoides de PDAC y el control local/supervivencia en modelos sinérgicos.",
+          "en": "Enhances cytotoxicity in PDAC cell lines/organoids and improves local control/survival in syngeneic models."
+        },
+        {
+          "icon": "dna",
+          "es": "Mecanismo: sobrecarga de Ca mitocondrial, piroptosis dependiente de GSDMD y mejora de la inmunidad adaptativa.",
+          "en": "Mechanism: Sustained mitochondrial Ca overload, GSDMD-dependent pyroptosis, and enhanced adaptive immunity."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La eficacia reducida en huéspedes con deficiencia de células T subraya la importancia de la inmunidad adaptativa.",
+          "en": "Reduced efficacy in T cell-deficient hosts highlights the importance of adaptive immunity."
+        }
+      ],
+      "bottomLineEs": "La inhibición de NCLX potencia los efectos inmunogénicos de la electroporación, ofreciendo una estrategia prometedora para eliminar la enfermedad residual en PDAC.",
+      "bottomLineEn": "NCLX inhibition potentiates the immunogenic effects of electroporation, offering a promising strategy to eliminate residual disease in PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "42928513",
+      "url": "https://doi.org/10.1002/advs.78288",
+      "source": "Adv Sci (Weinh)",
+      "date": "2026-Oct-25",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Trasplante hepático para metástasis hepáticas de tumores neuroendocrinos: Revisión sistemática",
+      "headlineEn": "Liver Transplantation for Neuroendocrine Liver Metastases: A Systematic Review",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": "1005 pacientes",
+      "primaryMetricLabelEs": "Supervivencia global (SG) y Supervivencia libre de enfermedad (SLE)",
+      "primaryMetricLabelEn": "Overall Survival (OS) and Disease-Free Survival (DFS)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Datos de 1005 pacientes con LM-NET, edad media 47.9 años, mayoría hombres.",
+          "en": "Data from 1005 patients with LM-NET, mean age 47.9 years, mostly male."
+        },
+        {
+          "icon": "target",
+          "es": "Localizaciones más frecuentes del tumor primario: páncreas e intestino delgado.",
+          "en": "Most frequent primary tumor locations: pancreas and small intestine."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia libre de enfermedad (SLE) mediana: 25.3 meses (rango 14-31).",
+          "en": "Median Disease-Free Survival (DFS): 25.3 months (range 14-31)."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia global (SG) mediana: 38.5 meses (rango 32.5-57.1).",
+          "en": "Median Overall Survival (OS): 38.5 months (range 32.5-57.1)."
+        }
+      ],
+      "bottomLineEs": "El trasplante hepático parece proporcionar un beneficio de supervivencia en pacientes seleccionados con LM-NET difusas sin enfermedad extrahepática.",
+      "bottomLineEn": "Liver transplantation appears to provide a survival benefit in selected patients with diffuse LM-NET without extrahepatic disease.",
+      "relevance": "Emergente",
+      "pmid": "42913616",
+      "url": "https://doi.org/10.24875/CIRU.24000631",
+      "source": "Cir Cir",
+      "date": "2026",
+      "topicId": "net"
+    }
+  ]
+}
