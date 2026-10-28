@@ -1,185 +1,56 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T11:47:34.742Z",
-  "count": 5,
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T12:21:23.360Z",
+  "count": 2,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Nanopartículas proteolipídicas exosoma-inspiradas para terapia RNAi-quimio extrahepática en PDAC.",
-      "headlineEn": "Exosome-inspired proteolipid nanoparticles for extrahepatic RNAi-chemo therapy in PDAC.",
-      "studyType": "Preclínico",
+      "headlineEs": "Carcinoma de Células Acinares Pancreáticas: Heterogeneidad Clínica y Alteraciones Genómicas Accionables",
+      "headlineEn": "Pancreatic Acinar Cell Carcinoma: Clinical Heterogeneity and Actionable Genomic Alterations",
+      "studyType": "Retrospectivo",
       "trialName": null,
-      "n": null,
+      "n": "7 pacientes",
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Em-pLNPs son nanopartículas proteolipídicas inspiradas en exosomas con CD63, CD81 y CD47.",
-          "en": "Em-pLNPs are exosome-inspired proteolipid nanoparticles embedding CD63, CD81, and CD47."
-        },
-        {
-          "icon": "pill",
-          "es": "Co-encapsulan siKRAS, siIL-6 y gemcitabina para terapia combinada en modelos de PDAC.",
-          "en": "Co-encapsulate siKRAS, siIL-6, and gemcitabine for combinatorial therapy in PDAC models."
-        },
-        {
-          "icon": "target",
-          "es": "Demuestran acumulación tumoral extrahepática preferencial y penetración estromal profunda.",
-          "en": "Exhibit preferential extrahepatic tumor accumulation and deep stromal penetration."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Logran regresión tumoral sinérgica y mitigan la quimiorresistencia en modelos ortotópicos de PDAC.",
-          "en": "Achieve robust, synergistic tumor regression and mitigate chemoresistance in orthotopic PDAC models."
-        }
-      ],
-      "bottomLineEs": "Em-pLNPs representan una plataforma prometedora para la terapia génica extrahepática segura en tumores sólidos refractarios como el PDAC, superando limitaciones de los LNPs actuales.",
-      "bottomLineEn": "Em-pLNPs define a promising platform for safe extrahepatic gene therapy in refractory solid tumors like PDAC, overcoming current LNP limitations.",
-      "relevance": "Preclínico",
-      "pmid": "42935085",
-      "url": "https://doi.org/10.1002/adhm.71909",
-      "source": "Adv Healthc Mater",
-      "date": "2026-Oct-26",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Actualización en TC y RM para estratificación de riesgo en Neoplasias Quísticas Mucinosas Pancreáticas (NQM)",
-      "headlineEn": "CT and MRI Update for Risk Stratification in Pancreatic Mucinous Cystic Neoplasms (MCNs)",
-      "studyType": "Revisión",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Las NQM representan aproximadamente el 10% de las neoplasias quísticas pancreáticas.",
-          "en": "MCNs account for approximately 10% of pancreatic cystic neoplasms."
-        },
-        {
-          "icon": "shield-check",
-          "es": "La resección quirúrgica es el tratamiento de elección debido al riesgo de displasia de alto grado o carcinoma invasivo.",
-          "en": "Surgical resection is the treatment of choice due to risk of high-grade dysplasia or invasive carcinoma."
-        },
-        {
-          "icon": "target",
-          "es": "Características de imagen de alto riesgo: tamaño tumoral grande, nódulos murales y dilatación del conducto pancreático principal.",
-          "en": "High-risk imaging features: large tumor size, mural nodules, and main pancreatic duct dilatation."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Gran parte de la literatura sobre predicción de malignidad se basa en NQM resecadas, susceptible a sesgos de selección y verificación.",
-          "en": "Most malignancy-prediction literature is based on resected MCNs, vulnerable to selection and verification bias."
-        }
-      ],
-      "bottomLineEs": "Esta revisión actualiza el papel de la TC y RM en la estratificación de riesgo de las NQM, destacando características clave y las limitaciones de la evidencia actual para guiar decisiones quirúrgicas.",
-      "bottomLineEn": "This review updates the role of CT and MRI in MCN risk stratification, highlighting key imaging features and evidence limitations to guide surgical decisions.",
-      "relevance": "Práctica clínica",
-      "pmid": "42933251",
-      "url": "https://doi.org/10.1016/j.ejrad.2026.113326",
-      "source": "Eur J Radiol",
-      "date": "2026-Oct-24",
-      "topicId": "panc_other"
-    },
-    {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Ablación por microondas guiada por RM para malignidades hepáticas: seguridad y eficacia.",
-      "headlineEn": "MR-guided microwave ablation for hepatic malignancies: safety and efficacy.",
-      "studyType": "Retrospectivo, unicentrico",
-      "trialName": null,
-      "n": "16 pacientes",
-      "primaryMetricLabelEs": "Progresión/Recurrencia tumoral local (LTP/LTR)",
-      "primaryMetricLabelEn": "Local Tumor Progression/Recurrence (LTP/LTR)",
-      "arms": [],
-      "hr": null,
-      "pfs": "44 meses (IC95% 10-85 meses)",
       "facts": [
         {
           "icon": "users",
-          "es": "16 pacientes (edad media 60.75 años) con malignidades hepáticas.",
-          "en": "16 patients (mean age 60.75 years) with hepatic malignancies."
+          "es": "7 pacientes (mediana edad 64 años, 57% hombres), 71% con enfermedad metastásica al diagnóstico.",
+          "en": "7 patients (median age 64 years, 57% male), 71% presented with metastatic disease."
         },
         {
-          "icon": "target",
-          "es": "21 lesiones tratadas (17 CCH, 1 colangiocarcinoma, 2 metástasis), tamaño medio 12.2 mm.",
-          "en": "21 lesions treated (17 HCC, 1 cholangiocarcinoma, 2 metastases), mean size 12.2 mm."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Complicaciones leves (fiebre, dolor abdominal, biloma, colecistitis) resueltas.",
-          "en": "Mild complications (fever, abdominal pain, biloma, cholecystitis) resolved."
+          "icon": "dna",
+          "es": "CA 19-9 normal en todos los casos; todos KRAS wild-type. Alteraciones recurrentes: CDKN2A/B y MTAP co-deleción, fusión BRAF, pérdida IKZF1, mutación BAP1.",
+          "en": "CA 19-9 normal in all cases; all KRAS wild-type. Recurrent alterations: CDKN2A/B and MTAP co-deletion, BRAF fusion, IKZF1 loss, BAP1 mutation."
         },
         {
           "icon": "clock",
-          "es": "0% de progresión/recurrencia tumoral local a 36.7 meses de seguimiento.",
-          "en": "0% local tumor progression/recurrence at 36.7 months follow-up."
+          "es": "Resultados heterogéneos, incluyendo supervivencia libre de progresión prolongada (>7 y >16 años) en pacientes seleccionados.",
+          "en": "Heterogeneous outcomes, including prolonged progression-free survival (>7 and >16 years) in select patients."
+        },
+        {
+          "icon": "target",
+          "es": "Las alteraciones genómicas accionables recurrentes apoyan la perfilación molecular rutinaria y ensayos dirigidos.",
+          "en": "Recurrent actionable genomic alterations support routine molecular profiling and biomarker-driven trials."
         }
       ],
-      "bottomLineEs": "La ablación por microondas guiada por RM es segura y efectiva para malignidades hepáticas, sin recurrencia local observada en el seguimiento a largo plazo.",
-      "bottomLineEn": "MR-guided microwave ablation for hepatic malignancies is safe and effective, with no local recurrence observed during long-term follow-up.",
+      "bottomLineEs": "El carcinoma de células acinares pancreáticas muestra una heterogeneidad clínica significativa y alteraciones genómicas accionables que justifican la perfilación molecular rutinaria y un enfoque de oncología de precisión, desafiando la extrapolación de tratamientos del PDAC.",
+      "bottomLineEn": "Pancreatic acinar cell carcinoma demonstrates significant clinical heterogeneity and actionable genomic alterations, supporting routine molecular profiling and a precision oncology framework, challenging extrapolation from PDAC treatments.",
       "relevance": "Emergente",
-      "pmid": "42932317",
-      "url": "https://doi.org/10.1371/journal.pone.0322917",
-      "source": "PLoS One",
+      "pmid": "42947894",
+      "url": "https://doi.org/10.3389/fcell.2026.1913398",
+      "source": "Front Cell Dev Biol",
       "date": "2026",
-      "topicId": "biliary"
+      "topicId": "pdac"
     },
     {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Metástasis gástricas inusuales en NET pancreático recurrente: PET/CT dual y enfoque teranóstico",
-      "headlineEn": "Unusual Gastric Metastases in Recurrent Pancreatic NET: Dual PET/CT and Theranostic Approach",
-      "studyType": "Reporte de caso",
-      "trialName": null,
-      "n": "1",
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "alert-triangle",
-          "es": "Metástasis gástricas inusuales en NET pancreático recurrente post-cirugía.",
-          "en": "Unusual gastric metastases in recurrent pancreatic NET post-surgery."
-        },
-        {
-          "icon": "target",
-          "es": "La PET/CT con doble trazador ([68Ga]Ga-DOTATATE y [18F]F-FDG) fue clave para identificar la recurrencia y decidir la estrategia terapéutica.",
-          "en": "Dual-tracer PET/CT ([68Ga]Ga-DOTATATE and [18F]F-FDG) was key to identify recurrence and decide therapeutic strategy."
-        },
-        {
-          "icon": "pill",
-          "es": "La avidez por [18F]F-FDG de las lesiones indicó quimioterapia sola o combinada con [177Lu]Lu-DOTATATE (PRRT).",
-          "en": "[18F]F-FDG avidity of lesions indicated chemotherapy alone or combined with [177Lu]Lu-DOTATATE (PRRT)."
-        },
-        {
-          "icon": "clock",
-          "es": "Recurrencia de la enfermedad identificada tras un prolongado periodo libre de progresión.",
-          "en": "Disease recurrence identified after a prolonged progression-free period."
-        }
-      ],
-      "bottomLineEs": "La PET/CT con doble trazador es crucial para identificar metástasis inusuales y guiar la estrategia terapéutica en NET pancreático recurrente, especialmente si hay avidez por FDG.",
-      "bottomLineEn": "Dual-tracer PET/CT is crucial for identifying unusual metastases and guiding therapeutic strategy in recurrent pancreatic NET, especially with FDG avidity.",
-      "relevance": "Práctica clínica",
-      "pmid": "42912550",
-      "url": "https://doi.org/10.1097/RLU.0000000000006481",
-      "source": "Clin Nucl Med",
-      "date": "2026-Oct-23",
-      "topicId": "net"
-    },
-    {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "scGlycoAI: Glicanos identifican subtipos celulares y agresividad en cáncer de páncreas",
-      "headlineEn": "scGlycoAI: Glycans Identify Cell Subtypes and Aggressiveness in Pancreatic Cancer",
-      "studyType": "Estudio metodológico",
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Vía cGAS-STING en MASLD: Mecanismos y oportunidades en HCC",
+      "headlineEn": "cGAS-STING Pathway in MASLD: Mechanisms and HCC Opportunities",
+      "studyType": "Revisión sistemática",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -189,34 +60,29 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "dna",
-          "es": "scGlycoAI es un marco de IA que integra datos de secuenciación de glicanos y ARN de célula única (scGR-seq).",
-          "en": "scGlycoAI is an AI framework integrating single-cell glycan and RNA sequencing (scGR-seq) data."
-        },
-        {
           "icon": "target",
-          "es": "En PDAC, logró una precisión del 90.3% en la clasificación de ocho clases usando solo características de glicanos.",
-          "en": "In PDAC, it achieved 90.3% eight-class classification accuracy using glycan features alone."
+          "es": "Su activación crónica impulsa la patología de MASLD, incluyendo HCC, mediante disfunción inmuno-metabólica.",
+          "en": "Chronic activation drives MASLD pathology, including HCC, through immune-metabolic dysfunction."
         },
         {
           "icon": "dna",
-          "es": "La unión de lectina PVL (glicanos sialilados/GlcNAc) es una característica clave de estados agresivos del cáncer.",
-          "en": "PVL lectin binding (sialylated/GlcNAc glycans) is a key feature of aggressive cancer states."
+          "es": "Moléculas de cGAS-STING podrían ser biomarcadores diagnósticos no invasivos para MASLD.",
+          "en": "cGAS-STING molecules may serve as non-invasive diagnostic biomarkers for MASLD."
         },
         {
-          "icon": "clock",
-          "es": "La unión elevada de PVL se asocia con EMT, señalización KRAS, remodelación de la MEC, inflamación y menor supervivencia global en PDAC.",
-          "en": "Elevated PVL binding is associated with EMT, KRAS signaling, ECM remodeling, inflammation, and poorer overall survival in PDAC."
+          "icon": "pill",
+          "es": "Compuestos naturales y nanosistemas dirigidos a esta vía muestran efectos terapéuticos prometedores.",
+          "en": "Natural compounds and nanosystems targeting this pathway show promising therapeutic effects."
         }
       ],
-      "bottomLineEs": "Este marco de IA basado en glicanos permite la clasificación celular precisa y la identificación de biomarcadores asociados a la malignidad, abriendo vías para el descubrimiento de fármacos dirigidos.",
-      "bottomLineEn": "This glycan-based AI framework enables accurate cell classification and identification of malignancy-associated biomarkers, paving the way for targeted drug discovery.",
+      "bottomLineEs": "La vía cGAS-STING es un eje central en la patogénesis de MASLD y HCC, ofreciendo nuevas vías para el diagnóstico y terapias dirigidas.",
+      "bottomLineEn": "The cGAS-STING pathway is a central axis in MASLD and HCC pathogenesis, offering new avenues for diagnosis and targeted therapies.",
       "relevance": "Emergente",
-      "pmid": "42925266",
-      "url": "https://doi.org/10.1093/glycob/cwag100",
-      "source": "Glycobiology",
-      "date": "2026-Oct-24",
-      "topicId": "kras"
+      "pmid": "42947939",
+      "url": "https://doi.org/10.3389/fphar.2026.1909062",
+      "source": "Front Pharmacol",
+      "date": "2026",
+      "topicId": "hcc"
     }
   ]
 }
