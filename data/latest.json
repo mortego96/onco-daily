@@ -1,56 +1,13 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T12:21:23.360Z",
-  "count": 2,
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T12:29:43.962Z",
+  "count": 1,
   "cards": [
     {
-      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Carcinoma de Células Acinares Pancreáticas: Heterogeneidad Clínica y Alteraciones Genómicas Accionables",
-      "headlineEn": "Pancreatic Acinar Cell Carcinoma: Clinical Heterogeneity and Actionable Genomic Alterations",
-      "studyType": "Retrospectivo",
-      "trialName": null,
-      "n": "7 pacientes",
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "7 pacientes (mediana edad 64 años, 57% hombres), 71% con enfermedad metastásica al diagnóstico.",
-          "en": "7 patients (median age 64 years, 57% male), 71% presented with metastatic disease."
-        },
-        {
-          "icon": "dna",
-          "es": "CA 19-9 normal en todos los casos; todos KRAS wild-type. Alteraciones recurrentes: CDKN2A/B y MTAP co-deleción, fusión BRAF, pérdida IKZF1, mutación BAP1.",
-          "en": "CA 19-9 normal in all cases; all KRAS wild-type. Recurrent alterations: CDKN2A/B and MTAP co-deletion, BRAF fusion, IKZF1 loss, BAP1 mutation."
-        },
-        {
-          "icon": "clock",
-          "es": "Resultados heterogéneos, incluyendo supervivencia libre de progresión prolongada (>7 y >16 años) en pacientes seleccionados.",
-          "en": "Heterogeneous outcomes, including prolonged progression-free survival (>7 and >16 years) in select patients."
-        },
-        {
-          "icon": "target",
-          "es": "Las alteraciones genómicas accionables recurrentes apoyan la perfilación molecular rutinaria y ensayos dirigidos.",
-          "en": "Recurrent actionable genomic alterations support routine molecular profiling and biomarker-driven trials."
-        }
-      ],
-      "bottomLineEs": "El carcinoma de células acinares pancreáticas muestra una heterogeneidad clínica significativa y alteraciones genómicas accionables que justifican la perfilación molecular rutinaria y un enfoque de oncología de precisión, desafiando la extrapolación de tratamientos del PDAC.",
-      "bottomLineEn": "Pancreatic acinar cell carcinoma demonstrates significant clinical heterogeneity and actionable genomic alterations, supporting routine molecular profiling and a precision oncology framework, challenging extrapolation from PDAC treatments.",
-      "relevance": "Emergente",
-      "pmid": "42947894",
-      "url": "https://doi.org/10.3389/fcell.2026.1913398",
-      "source": "Front Cell Dev Biol",
-      "date": "2026",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Vía cGAS-STING en MASLD: Mecanismos y oportunidades en HCC",
-      "headlineEn": "cGAS-STING Pathway in MASLD: Mechanisms and HCC Opportunities",
-      "studyType": "Revisión sistemática",
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Identificación de biomarcadores inmunes y firma pronóstica exploratoria en cáncer de vesícula biliar.",
+      "headlineEn": "Identification of immune biomarkers and exploratory prognostic signature in gallbladder cancer.",
+      "studyType": "Estudio bioinformático",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -60,29 +17,34 @@
       "pfs": null,
       "facts": [
         {
+          "icon": "dna",
+          "es": "Se describe un flujo de trabajo bioinformático para identificar genes de expresión diferencial relacionados con la inmunidad (IRDEGs).",
+          "en": "A bioinformatic workflow was described to identify immune-related differentially expressed genes (IRDEGs)."
+        },
+        {
           "icon": "target",
-          "es": "Su activación crónica impulsa la patología de MASLD, incluyendo HCC, mediante disfunción inmuno-metabólica.",
-          "en": "Chronic activation drives MASLD pathology, including HCC, through immune-metabolic dysfunction."
+          "es": "Los IRDEGs se enriquecieron en vías inflamatorias e inmunorreguladoras (IL6/JAK/STAT3, NF-κB, TLR).",
+          "en": "IRDEGs were enriched in inflammatory and immune-regulatory pathways (IL6/JAK/STAT3, NF-κB, TLR)."
         },
         {
           "icon": "dna",
-          "es": "Moléculas de cGAS-STING podrían ser biomarcadores diagnósticos no invasivos para MASLD.",
-          "en": "cGAS-STING molecules may serve as non-invasive diagnostic biomarkers for MASLD."
+          "es": "CXCL8, IL1B, MMP9, TLR2, S100A8 y S100A9 fueron identificados como genes clave.",
+          "en": "CXCL8, IL1B, MMP9, TLR2, S100A8, and S100A9 were identified as key hub genes."
         },
         {
-          "icon": "pill",
-          "es": "Compuestos naturales y nanosistemas dirigidos a esta vía muestran efectos terapéuticos prometedores.",
-          "en": "Natural compounds and nanosystems targeting this pathway show promising therapeutic effects."
+          "icon": "clock",
+          "es": "Una firma pronóstica exploratoria de cinco genes (CXCL8, S100A9, IL16, MMP9, CD36) estratificó el riesgo de supervivencia.",
+          "en": "An exploratory five-gene prognostic signature (CXCL8, S100A9, IL16, MMP9, CD36) stratified overall survival risk."
         }
       ],
-      "bottomLineEs": "La vía cGAS-STING es un eje central en la patogénesis de MASLD y HCC, ofreciendo nuevas vías para el diagnóstico y terapias dirigidas.",
-      "bottomLineEn": "The cGAS-STING pathway is a central axis in MASLD and HCC pathogenesis, offering new avenues for diagnosis and targeted therapies.",
-      "relevance": "Emergente",
-      "pmid": "42947939",
-      "url": "https://doi.org/10.3389/fphar.2026.1909062",
-      "source": "Front Pharmacol",
-      "date": "2026",
-      "topicId": "hcc"
+      "bottomLineEs": "Este flujo de trabajo proporciona un marco reproducible para identificar biomarcadores inmunes y firmas pronósticas, pero requiere validación clínica independiente antes de su aplicación.",
+      "bottomLineEn": "This workflow provides a reproducible framework for identifying immune biomarkers and prognostic signatures, but requires independent clinical validation before clinical application.",
+      "relevance": "Preclínico",
+      "pmid": "42949205",
+      "url": "https://doi.org/10.3791/72007",
+      "source": "J Vis Exp",
+      "date": "2026-Oct-27",
+      "topicId": "biliary"
     }
   ]
 }
