@@ -1,155 +1,13 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T12:21:50.532Z",
-  "count": 5,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T11:52:40.474Z",
+  "count": 4,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Protocolo: TAZ/PIPC vs ABPC/SBT para prevención de SSI en duodenopancreatectomía",
-      "headlineEn": "Protocol: TAZ/PIPC vs ABPC/SBT for SSI Prevention in Pancreaticoduodenectomy",
-      "studyType": "Ensayo clínico aleatorizado",
-      "trialName": "jRCTs051260063",
-      "n": "320 pacientes",
-      "primaryMetricLabelEs": "Incidencia de infección del sitio quirúrgico (SSI) a 30 días",
-      "primaryMetricLabelEn": "Incidence of surgical site infection (SSI) at 30 days",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "320 pacientes sometidos a duodenopancreatectomía (PD)",
-          "en": "320 patients undergoing pancreaticoduodenectomy (PD)"
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Alta incidencia de infección del sitio quirúrgico (SSI) post-PD (20-40%)",
-          "en": "High incidence of surgical site infection (SSI) post-PD (20-40%)"
-        },
-        {
-          "icon": "pill",
-          "es": "Compara tazobactam/piperacilina (TAZ/PIPC) vs ampicilina/sulbactam (ABPC/SBT) profilácticos",
-          "en": "Compares prophylactic tazobactam/piperacillin (TAZ/PIPC) vs ampicillin/sulbactam (ABPC/SBT)"
-        },
-        {
-          "icon": "target",
-          "es": "Evaluar superioridad de TAZ/PIPC en la prevención de SSI a 30 días",
-          "en": "Evaluate superiority of TAZ/PIPC in preventing 30-day SSI"
-        }
-      ],
-      "bottomLineEs": "Este protocolo de ensayo clínico aleatorizado multicéntrico busca comparar directamente la eficacia de TAZ/PIPC frente a ABPC/SBT en la prevención de infecciones del sitio quirúrgico tras duodenopancreatectomía, con el objetivo de optimizar las estrategias antibióticas perioperatorias.",
-      "bottomLineEn": "This multicenter randomized controlled trial protocol aims to directly compare the efficacy of TAZ/PIPC versus ABPC/SBT in preventing surgical site infections after pancreaticoduodenectomy, with the goal of optimizing perioperative antibiotic strategies.",
-      "relevance": "Emergente",
-      "pmid": "42958223",
-      "url": "https://doi.org/10.1186/s12893-026-04092-8",
-      "source": "BMC Surg",
-      "date": "2026-Aug-1",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Aβ tumoral impulsa la inmunosupresión por macrófagos TREM2+ en colangiocarcinoma.",
-      "headlineEn": "Tumor-derived Aβ drives TREM2+ macrophage immunosuppression in cholangiocarcinoma.",
-      "studyType": "Preclínico",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": "Supervivencia y respuesta a anti-PD-1",
-      "primaryMetricLabelEn": "Survival and anti-PD-1 response",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Macrófagos TREM2+ asociados a tumor (TAMs) están elevados en CCA humano, correlacionando con mal pronóstico y baja infiltración de linfocitos T CD8+.",
-          "en": "TREM2+ tumor-associated macrophages (TAMs) are upregulated in human CCA, correlating with poor prognosis and decreased CD8+ T cell infiltration."
-        },
-        {
-          "icon": "target",
-          "es": "El péptido amiloide-β (Aβ) producido por células de CCA contribuye a la polarización de los TAMs a través de la vía TREM2/PI3K/AKT1.",
-          "en": "Amyloid-β (Aβ) produced by CCA cells contributes to TAM polarization via the TREM2/PI3K/AKT1 signaling pathway."
-        },
-        {
-          "icon": "pill",
-          "es": "La deficiencia de TREM2 o la inhibición de Aβ reprograma los TAMs a un fenotipo pro-inflamatorio, potenciando la actividad de los linfocitos T CD8+.",
-          "en": "TREM2 deficiency or Aβ inhibition reprograms TAMs to a pro-inflammatory phenotype, enhancing CD8+ T cell activity."
-        },
-        {
-          "icon": "shield-check",
-          "es": "La combinación de la deleción de TREM2/inhibición de Aβ con terapia anti-PD-1 mejoró significativamente la eficacia en modelos murinos de CCA.",
-          "en": "Combination of TREM2 deletion/Aβ inhibition with anti-PD-1 therapy significantly enhanced efficacy in mouse models of CCA."
-        }
-      ],
-      "bottomLineEs": "Dirigirse a TREM2 y Aβ, en combinación con inmunoterapia anti-PD-1, es una estrategia prometedora para el colangiocarcinoma.",
-      "bottomLineEn": "Targeting TREM2 and Aβ, in conjunction with anti-PD-1 immunotherapy, holds promise as a novel therapeutic strategy for cholangiocarcinoma.",
-      "relevance": "Preclínico",
-      "pmid": "42956578",
-      "url": "https://doi.org/10.1016/j.intimp.2026.117548",
-      "source": "Int Immunopharmacol",
-      "date": "2026-Oct-29",
-      "topicId": "biliary"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "sPD-1 pretrasplante elevado predice recurrencia tras trasplante hepático en HCC tratados con ICI",
-      "headlineEn": "Elevated pretransplant sPD-1 predicts recurrence after liver transplant in ICI-treated HCC",
-      "studyType": "Estudio de biomarcadores exploratorio",
-      "trialName": null,
-      "n": "105 pacientes con HCC sometidos a trasplante hepático (51 con ICI, 54 sin ICI previo)",
-      "primaryMetricLabelEs": "Supervivencia libre de recurrencia (SLR) a 2 años",
-      "primaryMetricLabelEn": "2-year Recurrence-Free Survival (RFS)",
-      "arms": [
-        {
-          "name": "sPD-1 alto (>2073 pg/mL)",
-          "value": "7.7%",
-          "months": null,
-          "highlight": true
-        },
-        {
-          "name": "sPD-1 bajo (≤2073 pg/mL)",
-          "value": "76.3%",
-          "months": null,
-          "highlight": false
-        }
-      ],
-      "hr": "4.42 (IC95% 1.75–11.17)",
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "105 pacientes con HCC sometidos a trasplante hepático (51 con ICI, 54 sin ICI)",
-          "en": "105 HCC patients undergoing liver transplantation (51 with ICI, 54 without ICI)"
-        },
-        {
-          "icon": "dna",
-          "es": "sPD-1 plasmático pretrasplante evaluado como biomarcador de recurrencia",
-          "en": "Pretransplant plasma sPD-1 evaluated as a recurrence biomarker"
-        },
-        {
-          "icon": "pill",
-          "es": "Estudio enfocado en pacientes con HCC tratados previamente con inhibidores de puntos de control inmune (ICI)",
-          "en": "Study focused on HCC patients previously treated with immune checkpoint inhibitors (ICIs)"
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "sPD-1 elevado se asocia de forma independiente con menor supervivencia libre de recurrencia a 2 años",
-          "en": "Elevated sPD-1 is independently associated with lower 2-year recurrence-free survival"
-        }
-      ],
-      "bottomLineEs": "El sPD-1 pretrasplante es un biomarcador independiente asociado a mayor riesgo de recurrencia post-trasplante en pacientes con HCC tratados con ICI. Requiere validación externa.",
-      "bottomLineEn": "Pretransplant sPD-1 is an independent biomarker associated with increased post-transplant recurrence risk in ICI-treated HCC patients. External validation is required.",
-      "relevance": "Emergente",
-      "pmid": "42959072",
-      "url": "https://doi.org/10.3389/fonc.2026.1944586",
-      "source": "Front Oncol",
-      "date": "2026",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Guía Práctica de Imagen PET/CT de Receptores de Somatostatina (SSTR)",
-      "headlineEn": "Practical Guide to Somatostatin Receptor (SSTR) PET/CT Imaging",
-      "studyType": "Guía de práctica",
+      "headlineEs": "SLC6A14: Nueva diana terapéutica para inmunoterapia metabólica en PDAC",
+      "headlineEn": "SLC6A14: Novel therapeutic target for metabolic immunotherapy in PDAC",
+      "studyType": "Estudio preclínico",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -159,71 +17,170 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "target",
-          "es": "La imagen PET/CT de SSTR es clave para diagnóstico, estadificación y evaluación de terapia con radionúclidos en NET.",
-          "en": "SSTR PET/CT imaging is key for diagnosis, staging, and radionuclide therapy evaluation in NETs."
-        },
-        {
           "icon": "dna",
-          "es": "Es crucial comprender la distribución fisiológica y la expresión no maligna de SSTR para informes precisos.",
-          "en": "Understanding physiologic and non-malignant SSTR expression is crucial for accurate reporting."
+          "es": "SLC6A14 es un biomarcador pronóstico y driver funcional en PDAC, promoviendo el crecimiento tumoral y la inmunosupresión.",
+          "en": "SLC6A14 is a prognostic biomarker and functional driver in PDAC, promoting tumor growth and immunosuppression."
         },
         {
-          "icon": "alert-triangle",
-          "es": "La guía aborda conceptos biológicos importantes y errores comunes para mejorar la precisión del informe.",
-          "en": "The guide covers key biological concepts and common pitfalls to improve reporting accuracy."
+          "icon": "target",
+          "es": "SLC6A14 ejerce efectos inmunosupresores al impedir la captación de aminoácidos en células dendríticas y linfocitos T CD8+.",
+          "en": "SLC6A14 exerts immunosuppressive effects by impairing amino acid uptake in dendritic cells and CD8+ T cells."
+        },
+        {
+          "icon": "pill",
+          "es": "STOCK1N-75990, un inhibidor específico de SLC6A14, induce privación de nutrientes y colapso metabólico en modelos preclínicos.",
+          "en": "STOCK1N-75990, a specific SLC6A14 inhibitor, induces nutrient deprivation and metabolic collapse in preclinical models."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El inhibidor STOCK1N-75990 muestra actividad antitumoral y baja toxicidad, con sinergia con terapia anti-PD1.",
+          "en": "Inhibitor STOCK1N-75990 shows anti-tumor activity and low toxicity, synergizing with anti-PD1 therapy."
         }
       ],
-      "bottomLineEs": "Esta guía práctica es fundamental para optimizar la interpretación y el informe de la imagen PET/CT de SSTR en tumores neuroendocrinos, mejorando la precisión diagnóstica y terapéutica.",
-      "bottomLineEn": "This practical guide is essential for optimizing SSTR PET/CT interpretation and reporting in neuroendocrine tumors, enhancing diagnostic and therapeutic accuracy.",
-      "relevance": "Práctica clínica",
-      "pmid": "42957398",
-      "url": "https://doi.org/10.1016/j.rcl.2026.07.003",
-      "source": "Radiol Clin North Am",
-      "date": "2026-Nov",
-      "topicId": "net"
+      "bottomLineEs": "SLC6A14 es una diana terapéutica multifuncional prometedora y sus inhibidores representan una inmunoterapia metabólica relevante para el PDAC.",
+      "bottomLineEn": "SLC6A14 is a promising multifunctional therapeutic target, and its inhibitors represent a relevant metabolic immunotherapy for PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "42963794",
+      "url": "https://doi.org/10.1186/s40164-026-00818-9",
+      "source": "Exp Hematol Oncol",
+      "date": "2026-Aug-14",
+      "topicId": "pdac"
     },
     {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Bacterias intratumorales y autofagia asociadas a mejor pronóstico en cáncer de páncreas",
-      "headlineEn": "Intratumoral bacteria and autophagy linked to improved prognosis in pancreatic cancer",
-      "studyType": "Estudio traslacional y observacional",
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Criterios ACR para estadificación y seguimiento del cáncer de vía biliar",
+      "headlineEn": "ACR Criteria for Biliary Cancer Staging and Follow-Up",
+      "studyType": "Guía clínica",
       "trialName": null,
-      "n": "163 pacientes con PDAC",
-      "primaryMetricLabelEs": "Supervivencia",
-      "primaryMetricLabelEn": "Survival",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "Análisis en 163 pacientes con PDAC (neoadyuvancia y adyuvancia) y modelos murinos KrasCre.",
-          "en": "Analysis in 163 PDAC patients (neoadjuvant and adjuvant) and KrasCre mouse models."
-        },
-        {
-          "icon": "dna",
-          "es": "Se identificó acumulación bacteriana intratumoral, señalización TLR4 y activación de autofagia.",
-          "en": "Intratumoral bacterial accumulation, TLR4 signaling, and autophagy activation were identified."
+          "icon": "alert-triangle",
+          "es": "Los cánceres de vía biliar (vesícula, colangiocarcinoma intra/extrahepático) son agresivos y a menudo se diagnostican en estadio avanzado.",
+          "en": "Biliary tract cancers (gallbladder, intra/extrahepatic cholangiocarcinoma) are aggressive and often diagnosed at advanced stages."
         },
         {
           "icon": "target",
-          "es": "Mayor colocalización LAMP2-LC3B y densidad de bacterias FISH-positivas se asociaron a mayor supervivencia.",
-          "en": "Higher LAMP2-LC3B colocalization and FISH-positive bacteria density were associated with prolonged survival."
+          "es": "La estadificación precisa es crucial para decidir el tratamiento (resección curativa vs. sistémico/paliativo).",
+          "en": "Accurate staging is critical for treatment decisions (curative resection vs. systemic/palliative)."
+        },
+        {
+          "icon": "scan",
+          "es": "TC con contraste y RM abdominales son clave para evaluación locorregional; TC tórax/abdomen/pelvis y PET-FDG para estadificación a distancia y seguimiento.",
+          "en": "Contrast-enhanced CT and abdominal MRI are mainstays for locoregional assessment; CT chest/abdomen/pelvis and FDG-PET for distant staging and follow-up."
         },
         {
           "icon": "shield-check",
-          "es": "La diversidad microbiana intratumoral en PDAC difiere fundamentalmente de IPMN y pancreatitis crónica.",
-          "en": "Intratumoral microbial diversity in PDAC fundamentally differs from IPMN and chronic pancreatitis."
+          "es": "Los Criterios de Apropiación ACR son guías basadas en evidencia, revisadas anualmente por un panel multidisciplinar.",
+          "en": "ACR Appropriateness Criteria are evidence-based guidelines, annually reviewed by a multidisciplinary expert panel."
         }
       ],
-      "bottomLineEs": "La presencia de bacterias intratumorales y la activación de autofagia se correlacionan con un pronóstico favorable en pacientes con adenocarcinoma ductal de páncreas, sugiriendo un rol pronóstico del microambiente tumoral.",
-      "bottomLineEn": "Intratumoral bacteria and autophagy activation correlate with favorable prognosis in pancreatic ductal adenocarcinoma patients, suggesting a prognostic role for the tumor microenvironment.",
-      "relevance": "Emergente",
-      "pmid": "42957626",
-      "url": "https://doi.org/10.1038/s41419-026-09256-1",
-      "source": "Cell Death Dis",
-      "date": "2026-Oct-27",
+      "bottomLineEs": "Esta guía establece recomendaciones basadas en evidencia para la estadificación y el seguimiento del cáncer de vía biliar, fundamentales para la toma de decisiones terapéuticas.",
+      "bottomLineEn": "This guideline provides evidence-based recommendations for staging and follow-up of biliary tract cancer, crucial for therapeutic decision-making.",
+      "relevance": "Práctica clínica",
+      "pmid": "42955037",
+      "url": "https://doi.org/10.1016/j.jacr.2026.09.017",
+      "source": "J Am Coll Radiol",
+      "date": "2026-Oct-28",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Radioterapia postoperatoria no mejora la supervivencia en carcinoma neuroendocrino de células pequeñas esofágico",
+      "headlineEn": "Postoperative Radiotherapy Shows No Survival Benefit in Esophageal Small-Cell Neuroendocrine Carcinoma",
+      "studyType": "Estudio de cohorte retrospectivo multicéntrico",
+      "trialName": null,
+      "n": "127 pacientes",
+      "primaryMetricLabelEs": "Supervivencia global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": "1.472 (IC95% 0.820–2.641)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El diagnóstico requirió morfología de células pequeñas y positividad para sinaptofisina y CD56.",
+          "en": "Diagnosis required small-cell morphology plus synaptophysin and CD56 positivity."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La radioterapia postoperatoria no se asoció con un beneficio en la supervivencia global en modelos ajustados.",
+          "en": "Postoperative radiotherapy was not associated with an overall survival benefit in adjusted models."
+        },
+        {
+          "icon": "pill",
+          "es": "La quimioterapia adyuvante mostró una dirección protectora, pero sin significación estadística.",
+          "en": "Adjuvant chemotherapy showed a protective direction, but without statistical significance."
+        }
+      ],
+      "bottomLineEs": "Este estudio retrospectivo no encontró beneficio en la supervivencia global con la radioterapia postoperatoria en el carcinoma neuroendocrino de células pequeñas esofágico, ni evidencia para su uso rutinario o selección de pacientes.",
+      "bottomLineEn": "This retrospective study found no overall survival benefit from postoperative radiotherapy in esophageal small-cell neuroendocrine carcinoma, nor evidence for its routine use or patient selection.",
+      "relevance": "Práctica clínica",
+      "pmid": "42955799",
+      "url": "https://doi.org/10.1093/dote/doag121",
+      "source": "Dis Esophagus",
+      "date": "2026-Sep-2",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Daraxonrasib duplica la SG en Cáncer de Páncreas metastásico KRAS mutado en 2L",
+      "headlineEn": "Daraxonrasib Doubles OS in Second-Line Metastatic KRAS-Mutated Pancreatic Cancer",
+      "studyType": "Ensayo clínico Fase III",
+      "trialName": "RASolute 302",
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Daraxonrasib",
+          "value": "13.2 meses",
+          "months": 13.2,
+          "highlight": true
+        },
+        {
+          "name": "Quimioterapia estándar",
+          "value": "6.7 meses",
+          "months": 6.7,
+          "highlight": false
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las mutaciones KRAS impulsan la tumorigénesis en >90% de los casos de adenocarcinoma ductal pancreático (PDAC).",
+          "en": "KRAS mutations drive tumorigenesis in >90% of pancreatic ductal adenocarcinoma (PDAC) cases."
+        },
+        {
+          "icon": "pill",
+          "es": "Daraxonrasib es un inhibidor pan-RAS(ON), marcando una revolución en el tratamiento de KRAS.",
+          "en": "Daraxonrasib is a pan-RAS(ON) inhibitor, marking a revolution in KRAS therapeutics."
+        },
+        {
+          "icon": "target",
+          "es": "Daraxonrasib redefine el manejo de segunda línea en PDAC metastásico previamente tratado.",
+          "en": "Daraxonrasib redefines second-line management for previously treated metastatic PDAC."
+        },
+        {
+          "icon": "users",
+          "es": "Regímenes de primera línea con daraxonrasib más quimioterapia muestran una ORR del 58% en datos de fase temprana.",
+          "en": "First-line daraxonrasib plus chemotherapy regimens show an ORR of 58% in early-phase data."
+        }
+      ],
+      "bottomLineEs": "El inhibidor pan-RAS(ON) daraxonrasib ha demostrado una mejora significativa en la supervivencia global en PDAC metastásico previamente tratado, estableciendo un nuevo estándar en segunda línea. Se esperan más datos de combinaciones en primera línea.",
+      "bottomLineEn": "The pan-RAS(ON) inhibitor daraxonrasib has shown significant overall survival improvement in previously treated metastatic PDAC, setting a new second-line standard. Further data from first-line combinations are anticipated.",
+      "relevance": "Práctica clínica",
+      "pmid": "42963543",
+      "url": "https://doi.org/10.1186/s13045-026-01863-x",
+      "source": "J Hematol Oncol",
+      "date": "2026-Oct-30",
       "topicId": "kras"
     }
   ]

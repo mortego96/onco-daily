@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T11:52:40.474Z",
+  "count": 4,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "SLC6A14: Nueva diana terapéutica para inmunoterapia metabólica en PDAC",
+      "headlineEn": "SLC6A14: Novel therapeutic target for metabolic immunotherapy in PDAC",
+      "studyType": "Estudio preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "SLC6A14 es un biomarcador pronóstico y driver funcional en PDAC, promoviendo el crecimiento tumoral y la inmunosupresión.",
+          "en": "SLC6A14 is a prognostic biomarker and functional driver in PDAC, promoting tumor growth and immunosuppression."
+        },
+        {
+          "icon": "target",
+          "es": "SLC6A14 ejerce efectos inmunosupresores al impedir la captación de aminoácidos en células dendríticas y linfocitos T CD8+.",
+          "en": "SLC6A14 exerts immunosuppressive effects by impairing amino acid uptake in dendritic cells and CD8+ T cells."
+        },
+        {
+          "icon": "pill",
+          "es": "STOCK1N-75990, un inhibidor específico de SLC6A14, induce privación de nutrientes y colapso metabólico en modelos preclínicos.",
+          "en": "STOCK1N-75990, a specific SLC6A14 inhibitor, induces nutrient deprivation and metabolic collapse in preclinical models."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El inhibidor STOCK1N-75990 muestra actividad antitumoral y baja toxicidad, con sinergia con terapia anti-PD1.",
+          "en": "Inhibitor STOCK1N-75990 shows anti-tumor activity and low toxicity, synergizing with anti-PD1 therapy."
+        }
+      ],
+      "bottomLineEs": "SLC6A14 es una diana terapéutica multifuncional prometedora y sus inhibidores representan una inmunoterapia metabólica relevante para el PDAC.",
+      "bottomLineEn": "SLC6A14 is a promising multifunctional therapeutic target, and its inhibitors represent a relevant metabolic immunotherapy for PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "42963794",
+      "url": "https://doi.org/10.1186/s40164-026-00818-9",
+      "source": "Exp Hematol Oncol",
+      "date": "2026-Aug-14",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Criterios ACR para estadificación y seguimiento del cáncer de vía biliar",
+      "headlineEn": "ACR Criteria for Biliary Cancer Staging and Follow-Up",
+      "studyType": "Guía clínica",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Los cánceres de vía biliar (vesícula, colangiocarcinoma intra/extrahepático) son agresivos y a menudo se diagnostican en estadio avanzado.",
+          "en": "Biliary tract cancers (gallbladder, intra/extrahepatic cholangiocarcinoma) are aggressive and often diagnosed at advanced stages."
+        },
+        {
+          "icon": "target",
+          "es": "La estadificación precisa es crucial para decidir el tratamiento (resección curativa vs. sistémico/paliativo).",
+          "en": "Accurate staging is critical for treatment decisions (curative resection vs. systemic/palliative)."
+        },
+        {
+          "icon": "scan",
+          "es": "TC con contraste y RM abdominales son clave para evaluación locorregional; TC tórax/abdomen/pelvis y PET-FDG para estadificación a distancia y seguimiento.",
+          "en": "Contrast-enhanced CT and abdominal MRI are mainstays for locoregional assessment; CT chest/abdomen/pelvis and FDG-PET for distant staging and follow-up."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Los Criterios de Apropiación ACR son guías basadas en evidencia, revisadas anualmente por un panel multidisciplinar.",
+          "en": "ACR Appropriateness Criteria are evidence-based guidelines, annually reviewed by a multidisciplinary expert panel."
+        }
+      ],
+      "bottomLineEs": "Esta guía establece recomendaciones basadas en evidencia para la estadificación y el seguimiento del cáncer de vía biliar, fundamentales para la toma de decisiones terapéuticas.",
+      "bottomLineEn": "This guideline provides evidence-based recommendations for staging and follow-up of biliary tract cancer, crucial for therapeutic decision-making.",
+      "relevance": "Práctica clínica",
+      "pmid": "42955037",
+      "url": "https://doi.org/10.1016/j.jacr.2026.09.017",
+      "source": "J Am Coll Radiol",
+      "date": "2026-Oct-28",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Radioterapia postoperatoria no mejora la supervivencia en carcinoma neuroendocrino de células pequeñas esofágico",
+      "headlineEn": "Postoperative Radiotherapy Shows No Survival Benefit in Esophageal Small-Cell Neuroendocrine Carcinoma",
+      "studyType": "Estudio de cohorte retrospectivo multicéntrico",
+      "trialName": null,
+      "n": "127 pacientes",
+      "primaryMetricLabelEs": "Supervivencia global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": "1.472 (IC95% 0.820–2.641)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El diagnóstico requirió morfología de células pequeñas y positividad para sinaptofisina y CD56.",
+          "en": "Diagnosis required small-cell morphology plus synaptophysin and CD56 positivity."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La radioterapia postoperatoria no se asoció con un beneficio en la supervivencia global en modelos ajustados.",
+          "en": "Postoperative radiotherapy was not associated with an overall survival benefit in adjusted models."
+        },
+        {
+          "icon": "pill",
+          "es": "La quimioterapia adyuvante mostró una dirección protectora, pero sin significación estadística.",
+          "en": "Adjuvant chemotherapy showed a protective direction, but without statistical significance."
+        }
+      ],
+      "bottomLineEs": "Este estudio retrospectivo no encontró beneficio en la supervivencia global con la radioterapia postoperatoria en el carcinoma neuroendocrino de células pequeñas esofágico, ni evidencia para su uso rutinario o selección de pacientes.",
+      "bottomLineEn": "This retrospective study found no overall survival benefit from postoperative radiotherapy in esophageal small-cell neuroendocrine carcinoma, nor evidence for its routine use or patient selection.",
+      "relevance": "Práctica clínica",
+      "pmid": "42955799",
+      "url": "https://doi.org/10.1093/dote/doag121",
+      "source": "Dis Esophagus",
+      "date": "2026-Sep-2",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Daraxonrasib duplica la SG en Cáncer de Páncreas metastásico KRAS mutado en 2L",
+      "headlineEn": "Daraxonrasib Doubles OS in Second-Line Metastatic KRAS-Mutated Pancreatic Cancer",
+      "studyType": "Ensayo clínico Fase III",
+      "trialName": "RASolute 302",
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Daraxonrasib",
+          "value": "13.2 meses",
+          "months": 13.2,
+          "highlight": true
+        },
+        {
+          "name": "Quimioterapia estándar",
+          "value": "6.7 meses",
+          "months": 6.7,
+          "highlight": false
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las mutaciones KRAS impulsan la tumorigénesis en >90% de los casos de adenocarcinoma ductal pancreático (PDAC).",
+          "en": "KRAS mutations drive tumorigenesis in >90% of pancreatic ductal adenocarcinoma (PDAC) cases."
+        },
+        {
+          "icon": "pill",
+          "es": "Daraxonrasib es un inhibidor pan-RAS(ON), marcando una revolución en el tratamiento de KRAS.",
+          "en": "Daraxonrasib is a pan-RAS(ON) inhibitor, marking a revolution in KRAS therapeutics."
+        },
+        {
+          "icon": "target",
+          "es": "Daraxonrasib redefine el manejo de segunda línea en PDAC metastásico previamente tratado.",
+          "en": "Daraxonrasib redefines second-line management for previously treated metastatic PDAC."
+        },
+        {
+          "icon": "users",
+          "es": "Regímenes de primera línea con daraxonrasib más quimioterapia muestran una ORR del 58% en datos de fase temprana.",
+          "en": "First-line daraxonrasib plus chemotherapy regimens show an ORR of 58% in early-phase data."
+        }
+      ],
+      "bottomLineEs": "El inhibidor pan-RAS(ON) daraxonrasib ha demostrado una mejora significativa en la supervivencia global en PDAC metastásico previamente tratado, estableciendo un nuevo estándar en segunda línea. Se esperan más datos de combinaciones en primera línea.",
+      "bottomLineEn": "The pan-RAS(ON) inhibitor daraxonrasib has shown significant overall survival improvement in previously treated metastatic PDAC, setting a new second-line standard. Further data from first-line combinations are anticipated.",
+      "relevance": "Práctica clínica",
+      "pmid": "42963543",
+      "url": "https://doi.org/10.1186/s13045-026-01863-x",
+      "source": "J Hematol Oncol",
+      "date": "2026-Oct-30",
+      "topicId": "kras"
+    }
+  ]
+}
