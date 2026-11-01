@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T12:51:52.874Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "PAK4 impulsa la invasión y metástasis en PDAC mediante la represión de E-cadherina.",
+      "headlineEn": "PAK4 drives invasion and metastasis in PDAC by repressing E-cadherin.",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "La sobreexpresión de PAK4 se asocia con peores resultados de supervivencia en pacientes con PDAC (análisis de datos TCGA).",
+          "en": "PAK4 overexpression associated with inferior survival outcomes in PDAC patients (TCGA data analysis)."
+        },
+        {
+          "icon": "dna",
+          "es": "PAK4 orquesta la represión dual (transcripcional y post-traduccional) de E-cadherina, promoviendo la transición epitelial-mesenquimal (EMT) y la invasividad.",
+          "en": "PAK4 orchestrates dual transcriptional and post-translational repression of E-cadherin, promoting epithelial-to-mesenchymal transition (EMT) and invasiveness."
+        },
+        {
+          "icon": "target",
+          "es": "La inhibición de PAK4 en un modelo murino ortotópico de PDAC redujo la carga tumoral primaria y previno la ascitis maligna.",
+          "en": "PAK4 knockdown in an orthotopic PDAC mouse model reduced primary tumor burden and prevented malignant ascites."
+        },
+        {
+          "icon": "dna",
+          "es": "Se observó una correlación inversa entre la expresión de PAK4 y E-cadherina en muestras de pacientes con cáncer de páncreas.",
+          "en": "An inverse correlation between PAK4 and E-cadherin expression was observed in pancreatic cancer patient specimens."
+        }
+      ],
+      "bottomLineEs": "Estos hallazgos sugieren que PAK4 es un impulsor clave de los fenotipos invasivos y metastásicos en el PDAC, y que la inhibición de PAK4 podría ser una estrategia terapéutica prometedora.",
+      "bottomLineEn": "These findings suggest that PAK4 is a key driver of invasive and metastatic phenotypes in PDAC, and that targeting PAK4 may represent a promising therapeutic strategy.",
+      "relevance": "Preclínico",
+      "pmid": "42966774",
+      "url": "https://doi.org/10.1038/s41417-026-01091-y",
+      "source": "Cancer Gene Ther",
+      "date": "2026-Oct-31",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Proniosomas de melatonina potencian gemcitabina en colangiocarcinoma resistente.",
+      "headlineEn": "Melatonin proniosomes enhance gemcitabine in resistant cholangiocarcinoma.",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Reducción del crecimiento tumoral",
+      "primaryMetricLabelEn": "Tumor growth reduction",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Modelo de xenoinjerto de colangiocarcinoma resistente a gemcitabina.",
+          "en": "Gemcitabine-resistant cholangiocarcinoma xenograft model."
+        },
+        {
+          "icon": "pill",
+          "es": "Proniosomas de melatonina (MPN) mejoraron la permeación ex vivo (15.7x).",
+          "en": "Melatonin proniosomes (MPN) enhanced ex vivo permeation (15.7x)."
+        },
+        {
+          "icon": "dna",
+          "es": "Reducción de Sonic Hedgehog; MMP9 y CDK2 como posibles dianas.",
+          "en": "Reduced Sonic Hedgehog; MMP9 and CDK2 as potential targets."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Sin alteración de ALT o creatinina séricas en ratones.",
+          "en": "No alteration of serum ALT or creatinine in mice."
+        }
+      ],
+      "bottomLineEs": "Los proniosomas de melatonina (MPN) mejoraron la permeación de melatonina ex vivo y se asociaron con una mejor respuesta a gemcitabina en un modelo de xenoinjerto de colangiocarcinoma resistente, apoyando futuros estudios.",
+      "bottomLineEn": "Melatonin proniosomes (MPN) enhanced melatonin permeation ex vivo and were associated with an improved response to gemcitabine in a resistant CCA xenograft model, supporting further studies.",
+      "relevance": "Preclínico",
+      "pmid": "42966345",
+      "url": "https://doi.org/10.1016/j.biopha.2026.120003",
+      "source": "Biomed Pharmacother",
+      "date": "2026-Oct-31",
+      "topicId": "biliary"
+    }
+  ]
+}
