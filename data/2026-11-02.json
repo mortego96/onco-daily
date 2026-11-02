@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T15:02:03.772Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Células Estrelladas Hepáticas: Reguladores Sistémicos en Enfermedad Hepática",
+      "headlineEn": "Hepatic Stellate Cells: Systemic Regulators in Liver Disease",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las HSCs son centros de integración metabólica e inmune, más allá de la fibrosis.",
+          "en": "HSCs are metabolic and immune integration hubs, beyond fibrosis."
+        },
+        {
+          "icon": "target",
+          "es": "Modulan función intestinal, metabolismo miocárdico y remodelación ósea.",
+          "en": "Modulate intestinal function, myocardial metabolism, and bone remodeling."
+        },
+        {
+          "icon": "dna",
+          "es": "Su acción implica reprogramación metabólica y señalización por receptores (TLR4, TGF-β).",
+          "en": "Their action involves metabolic reprogramming and receptor signaling (TLR4, TGF-β)."
+        },
+        {
+          "icon": "pill",
+          "es": "Abren vías para terapias sistémicas y de precisión, más allá de lo antifibrótico.",
+          "en": "Open avenues for systemic, precision therapies beyond antifibrotic approaches."
+        }
+      ],
+      "bottomLineEs": "Este artículo de revisión redefine el papel de las células estrelladas hepáticas (HSCs) de meros efectores fibrogénicos a reguladores centrales del metabolismo y la señalización sistémica en enfermedades hepáticas. Su capacidad para modular órganos distantes y su compleja interacción molecular abren nuevas vías para intervenciones terapéuticas de precisión, más allá de los enfoques antifibróticos tradicionales.",
+      "bottomLineEn": "This review redefines hepatic stellate cells (HSCs) from mere fibrogenic effectors to central regulators of metabolism and systemic signaling in liver diseases. Their capacity to modulate distant organs and complex molecular interactions opens new avenues for precision therapeutic interventions, moving beyond traditional antifibrotic approaches.",
+      "relevance": "Emergente",
+      "pmid": "42969024",
+      "url": "https://doi.org/10.5009/gnl260010",
+      "source": "Gut Liver",
+      "date": "2026-Nov-2",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "MCC MCPyV-negativo en parótida: Diagnóstico molecular guía respuesta completa a Nivolumab.",
+      "headlineEn": "MCPyV-Negative MCC in Parotid: Molecular Diagnosis Guides Complete Response to Nivolumab.",
+      "studyType": "CASE REPORT",
+      "trialName": null,
+      "n": "1",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Varón de 77 años con MCC MCPyV-negativo en parótida, simulando carcinoma de células pequeñas.",
+          "en": "77-year-old male with MCPyV-negative MCC presenting in parotid gland, mimicking small cell carcinoma."
+        },
+        {
+          "icon": "dna",
+          "es": "Análisis de firma mutacional UV crucial para diferenciar MCC MCPyV-negativo de carcinoma de células pequeñas.",
+          "en": "UV mutational signature analysis crucial for differentiating MCPyV-negative MCC from small cell carcinoma."
+        },
+        {
+          "icon": "pill",
+          "es": "Tratamiento con nivolumab (inhibidor de PD-1) durante 3 meses.",
+          "en": "Treatment with nivolumab (PD-1 inhibitor) for 3 months."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Respuesta patológica completa y sin recurrencia a los 2 años.",
+          "en": "Complete pathological response and no recurrence at 2-year follow-up."
+        }
+      ],
+      "bottomLineEs": "Este caso subraya la importancia del perfil molecular y la firma mutacional UV para el diagnóstico preciso y la terapia dirigida en MCC MCPyV-negativo con presentación atípica.",
+      "bottomLineEn": "This case highlights the importance of molecular profiling and UV mutational signature for accurate diagnosis and targeted therapy in atypical MCPyV-negative MCC.",
+      "relevance": "Emergente",
+      "pmid": "42968934",
+      "url": "https://doi.org/10.21873/cdp.10607",
+      "source": "Cancer Diagn Progn",
+      "date": "2026",
+      "topicId": "net"
+    }
+  ]
+}
