@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T15:02:03.772Z",
-  "count": 2,
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T13:49:30.899Z",
+  "count": 5,
   "cards": [
     {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Células Estrelladas Hepáticas: Reguladores Sistémicos en Enfermedad Hepática",
-      "headlineEn": "Hepatic Stellate Cells: Systemic Regulators in Liver Disease",
-      "studyType": "Revisión sistemática",
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "HOST2: lncRNA oncogénico y biomarcador potencial en múltiples cánceres",
+      "headlineEn": "HOST2: Oncogenic lncRNA and Potential Biomarker Across Multiple Cancers",
+      "studyType": "Revisión",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -18,41 +18,84 @@
       "facts": [
         {
           "icon": "dna",
-          "es": "Las HSCs son centros de integración metabólica e inmune, más allá de la fibrosis.",
-          "en": "HSCs are metabolic and immune integration hubs, beyond fibrosis."
+          "es": "HOST2 es un lncRNA oncogénico sobreexpresado en múltiples cánceres, incluyendo el adenocarcinoma de páncreas (PAAD).",
+          "en": "HOST2 is an oncogenic lncRNA aberrantly upregulated in multiple cancers, including pancreatic adenocarcinoma (PAAD)."
         },
         {
           "icon": "target",
-          "es": "Modulan función intestinal, metabolismo miocárdico y remodelación ósea.",
-          "en": "Modulate intestinal function, myocardial metabolism, and bone remodeling."
+          "es": "Promueve fenotipos malignos actuando como ceRNA para la familia let-7 miRNA y regulando dianas oncogénicas.",
+          "en": "Promotes malignant phenotypes by acting as a ceRNA for let-7 miRNA family and regulating oncogenic targets."
+        },
+        {
+          "icon": "clock",
+          "es": "La expresión elevada de HOST2 se asocia con estadio avanzado, metástasis y peor supervivencia global.",
+          "en": "Elevated HOST2 expression is associated with advanced stage, metastasis, and unfavorable overall survival."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La evidencia actual proviene principalmente de estudios preclínicos y cohortes retrospectivas pequeñas.",
+          "en": "Current evidence is predominantly from preclinical studies and small retrospective cohorts."
+        }
+      ],
+      "bottomLineEs": "HOST2 es un lncRNA oncogénico con potencial como biomarcador pronóstico y diana terapéutica en PDAC y otros cánceres, aunque se requiere validación clínica robusta.",
+      "bottomLineEn": "HOST2 is an oncogenic lncRNA with potential as a prognostic biomarker and therapeutic target in PDAC and other cancers, requiring robust clinical validation.",
+      "relevance": "Emergente",
+      "pmid": "42973305",
+      "url": "https://doi.org/10.2174/0115665240523615261007075508",
+      "source": "Curr Mol Med",
+      "date": "2026-Oct-22",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "SIRS-PCL: Sistema diagnóstico para lesiones quísticas pancreáticas",
+      "headlineEn": "SIRS-PCL: Diagnostic system for pancreatic cystic lesions",
+      "studyType": "Estudio de desarrollo y validación de sistema diagnóstico",
+      "trialName": null,
+      "n": "1,102 pacientes",
+      "primaryMetricLabelEs": "Precisión diagnóstica (AUC)",
+      "primaryMetricLabelEn": "Diagnostic Accuracy (AUC)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio multicéntrico retrospectivo con 1.102 pacientes (mediana 56 años, 64.8% mujeres).",
+          "en": "Multicenter retrospective study with 1,102 patients (median age 56, 64.8% female)."
+        },
+        {
+          "icon": "target",
+          "es": "SIRS-PCL integra CT/MRI y modelos de predicción logística para clasificar subtipos y estratificar riesgo.",
+          "en": "SIRS-PCL integrates CT/MRI and logistic prediction models for subtype classification and risk stratification."
         },
         {
           "icon": "dna",
-          "es": "Su acción implica reprogramación metabólica y señalización por receptores (TLR4, TGF-β).",
-          "en": "Their action involves metabolic reprogramming and receptor signaling (TLR4, TGF-β)."
+          "es": "AUC de 0.93 para clasificación de 5 categorías, 0.86 para riesgo de IPMN y 0.97 para riesgo de MCN.",
+          "en": "AUC of 0.93 for 5-category classification, 0.86 for IPMN risk, and 0.97 for MCN risk."
         },
         {
-          "icon": "pill",
-          "es": "Abren vías para terapias sistémicas y de precisión, más allá de lo antifibrótico.",
-          "en": "Open avenues for systemic, precision therapies beyond antifibrotic approaches."
+          "icon": "shield-check",
+          "es": "Redujo cirugías innecesarias (11.5%-23.1%) y sobre-exploraciones (6.7%-33.7%) en comparación con la práctica actual.",
+          "en": "Reduced unnecessary surgeries (11.5%-23.1%) and over-examinations (6.7%-33.7%) compared to current practice."
         }
       ],
-      "bottomLineEs": "Este artículo de revisión redefine el papel de las células estrelladas hepáticas (HSCs) de meros efectores fibrogénicos a reguladores centrales del metabolismo y la señalización sistémica en enfermedades hepáticas. Su capacidad para modular órganos distantes y su compleja interacción molecular abren nuevas vías para intervenciones terapéuticas de precisión, más allá de los enfoques antifibróticos tradicionales.",
-      "bottomLineEn": "This review redefines hepatic stellate cells (HSCs) from mere fibrogenic effectors to central regulators of metabolism and systemic signaling in liver diseases. Their capacity to modulate distant organs and complex molecular interactions opens new avenues for precision therapeutic interventions, moving beyond traditional antifibrotic approaches.",
-      "relevance": "Emergente",
-      "pmid": "42969024",
-      "url": "https://doi.org/10.5009/gnl260010",
-      "source": "Gut Liver",
-      "date": "2026-Nov-2",
-      "topicId": "hcc"
+      "bottomLineEs": "SIRS-PCL es un sistema de apoyo a la decisión preoperatoria basado en patología para la clasificación de subtipos y estratificación de riesgo de lesiones quísticas pancreáticas, mejorando la precisión y reduciendo intervenciones innecesarias.",
+      "bottomLineEn": "SIRS-PCL is a pathology-based preoperative decision-support system for subtype classification and risk stratification of pancreatic cystic lesions, improving accuracy and reducing unnecessary interventions.",
+      "relevance": "Práctica clínica",
+      "pmid": "42972650",
+      "url": "https://doi.org/10.20892/j.issn.2095-3941.2026.0566",
+      "source": "Cancer Biol Med",
+      "date": "2026-Oct-29",
+      "topicId": "panc_other"
     },
     {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "MCC MCPyV-negativo en parótida: Diagnóstico molecular guía respuesta completa a Nivolumab.",
-      "headlineEn": "MCPyV-Negative MCC in Parotid: Molecular Diagnosis Guides Complete Response to Nivolumab.",
-      "studyType": "CASE REPORT",
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Sistemas de estadificación y clasificación del colangiocarcinoma intrahepático: una revisión actualizada",
+      "headlineEn": "Intrahepatic Cholangiocarcinoma Staging and Classification Systems: An Updated Review",
+      "studyType": "Narrative Review",
       "trialName": null,
-      "n": "1",
+      "n": null,
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
@@ -60,34 +103,120 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "Varón de 77 años con MCC MCPyV-negativo en parótida, simulando carcinoma de células pequeñas.",
-          "en": "77-year-old male with MCPyV-negative MCC presenting in parotid gland, mimicking small cell carcinoma."
+          "icon": "shield-check",
+          "es": "El sistema TNM (AJCC 8ª ed.) es el estándar internacional para la estadificación pronóstica del CCH.",
+          "en": "The AJCC 8th-edition TNM system is the international standard for prognostic stratification of ICC."
         },
         {
           "icon": "dna",
-          "es": "Análisis de firma mutacional UV crucial para diferenciar MCC MCPyV-negativo de carcinoma de células pequeñas.",
-          "en": "UV mutational signature analysis crucial for differentiating MCPyV-negative MCC from small cell carcinoma."
+          "es": "El perfil molecular identifica subgrupos (FGFR2, IDH1/2, KRAS, TP53) con implicaciones terapéuticas.",
+          "en": "Molecular profiling identifies subgroups (FGFR2, IDH1/2, KRAS, TP53) with therapeutic implications."
+        },
+        {
+          "icon": "target",
+          "es": "Patrones de crecimiento macroscópicos y tipos de la OMS (ducto grande/pequeño) ofrecen información complementaria.",
+          "en": "Macroscopic growth patterns and WHO types (large/small duct) provide complementary information."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "El colangiocarcinoma intrahepático es agresivo, con incidencia creciente y diagnóstico tardío.",
+          "en": "Intrahepatic cholangiocarcinoma is aggressive, with increasing incidence and late diagnosis."
+        }
+      ],
+      "bottomLineEs": "La evaluación actual del colangiocarcinoma intrahepático debe combinar el estadio TNM con características morfológicas, patológicas y moleculares para una gestión personalizada.",
+      "bottomLineEn": "Contemporary ICC assessment should combine TNM stage with morphological, pathological, and molecular features for personalized management.",
+      "relevance": "Práctica clínica",
+      "pmid": "42972179",
+      "url": "https://doi.org/10.1007/s12029-026-01594-9",
+      "source": "J Gastrointest Cancer",
+      "date": "2026-Nov-3",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "El Viaje del Paciente con Carcinoma Neuroendocrino Extrapulmonar: Desafíos y Necesidades No Cubiertas",
+      "headlineEn": "The Patient Journey in Extrapulmonary Neuroendocrine Carcinoma: Challenges and Unmet Needs",
+      "studyType": "Discusión Clínica",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Los carcinomas neuroendocrinos extrapulmonares (epNEC) son raros, heterogéneos y agresivos, a menudo diagnosticados en fase metastásica.",
+          "en": "Extrapulmonary neuroendocrine carcinomas (epNEC) are rare, heterogeneous, aggressive, and often diagnosed at metastatic stage."
+        },
+        {
+          "icon": "users",
+          "es": "La diversidad de especialidades involucradas genera desafíos en el diagnóstico, derivación e inicio de tratamiento.",
+          "en": "Broad range of specialties involved leads to challenges in diagnosis, referral, and prompt treatment initiation."
         },
         {
           "icon": "pill",
-          "es": "Tratamiento con nivolumab (inhibidor de PD-1) durante 3 meses.",
-          "en": "Treatment with nivolumab (PD-1 inhibitor) for 3 months."
+          "es": "No hay tratamientos específicos aprobados para epNEC; la quimioterapia basada en platino es el estándar de primera línea.",
+          "en": "No specifically approved treatments for epNEC; platinum-based chemotherapy is standard first-line."
         },
         {
-          "icon": "shield-check",
-          "es": "Respuesta patológica completa y sin recurrencia a los 2 años.",
-          "en": "Complete pathological response and no recurrence at 2-year follow-up."
+          "icon": "target",
+          "es": "Existe una necesidad urgente de tratamientos específicos para la enfermedad y de mejorar el acceso a centros especializados y la concienciación.",
+          "en": "Urgent need for disease-specific treatments, improved access to specialist centers, and increased awareness."
         }
       ],
-      "bottomLineEs": "Este caso subraya la importancia del perfil molecular y la firma mutacional UV para el diagnóstico preciso y la terapia dirigida en MCC MCPyV-negativo con presentación atípica.",
-      "bottomLineEn": "This case highlights the importance of molecular profiling and UV mutational signature for accurate diagnosis and targeted therapy in atypical MCPyV-negative MCC.",
-      "relevance": "Emergente",
-      "pmid": "42968934",
-      "url": "https://doi.org/10.21873/cdp.10607",
-      "source": "Cancer Diagn Progn",
-      "date": "2026",
+      "bottomLineEs": "El viaje del paciente con epNEC requiere mayor concienciación entre profesionales, mejor acceso a centros especializados y el desarrollo de nuevas terapias dirigidas para superar los desafíos actuales.",
+      "bottomLineEn": "The epNEC patient journey needs increased healthcare provider awareness, improved access to specialist centers, and development of novel targeted treatments to overcome current challenges.",
+      "relevance": "Práctica clínica",
+      "pmid": "42970233",
+      "url": "https://doi.org/10.1007/s11523-026-01262-9",
+      "source": "Target Oncol",
+      "date": "2026-Nov-2",
       "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Identificadas mutaciones de resistencia secundaria a inhibidores de KRAS",
+      "headlineEn": "Secondary Resistance Mutations to KRAS Inhibitors Identified",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Identificadas mutaciones secundarias (R73P, E63P, D69W, M72K) que confieren resistencia a inhibidores de KRAS.",
+          "en": "Secondary mutations (R73P, E63P, D69W, M72K) identified, conferring resistance to KRAS inhibitors."
+        },
+        {
+          "icon": "target",
+          "es": "La mutación R73P, distante del sitio de unión, altera el sitio alostérico de KRAS, interrumpiendo la interacción con el inhibidor.",
+          "en": "R73P mutation, distant from binding pocket, disrupts KRAS allosteric site, impairing inhibitor interaction."
+        },
+        {
+          "icon": "pill",
+          "es": "El estudio evaluó la resistencia a inhibidores selectivos de KRAS: HRS-4642, MRTX1133 y RMC-9805.",
+          "en": "Study evaluated resistance to selective KRAS inhibitors: HRS-4642, MRTX1133, and RMC-9805."
+        },
+        {
+          "icon": "users",
+          "es": "KRAS es el oncogén más mutado en cáncer de páncreas (>90% de pacientes), con G12D en ~45%.",
+          "en": "KRAS is the most frequently mutated oncogene in pancreatic cancer (>90% of patients), with G12D in ~45%."
+        }
+      ],
+      "bottomLineEs": "Este estudio preclínico revela mecanismos de resistencia a inhibidores de KRAS, crucial para el desarrollo de futuras terapias y estrategias para superar la resistencia.",
+      "bottomLineEn": "This preclinical study unveils mechanisms of resistance to KRAS inhibitors, crucial for future drug development and strategies to overcome resistance.",
+      "relevance": "Preclínico",
+      "pmid": "42971499",
+      "url": "https://doi.org/10.1016/j.canlet.2026.218931",
+      "source": "Cancer Lett",
+      "date": "2026-Nov-2",
+      "topicId": "kras"
     }
   ]
 }
