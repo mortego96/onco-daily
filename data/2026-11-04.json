@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T13:56:51.556Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Perfilado Genómico Integral en Cáncer de Vías Biliares Avanzado: Implementación y Resultados en Vida Real",
+      "headlineEn": "Upfront Comprehensive Genomic Profiling in Advanced BTC: Real-World Implementation and Outcomes",
+      "studyType": "Estudio de implementación en vida real",
+      "trialName": null,
+      "n": "80",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "80 pacientes con Cáncer de Vías Biliares (BTC) localmente irresecable o metastásico se sometieron a perfilado genómico integral (CGP).",
+          "en": "80 patients with locally unresectable or metastatic Biliary Tract Cancer (BTC) underwent Comprehensive Genomic Profiling (CGP)."
+        },
+        {
+          "icon": "clock",
+          "es": "El CGP se realizó antes del tratamiento paliativo de primera línea en el 73.8% de los casos.",
+          "en": "CGP was performed prior to first-line palliative treatment in 73.8% of cases."
+        },
+        {
+          "icon": "dna",
+          "es": "Se identificó al menos una alteración genómica accionable en el 52.5% de los pacientes (IDH1 13.8%, FGFR2 8.8%, ERBB2 5.0%, KRAS G12C 2.5%).",
+          "en": "At least one clinically actionable genomic alteration was identified in 52.5% of patients (IDH1 13.8%, FGFR2 8.8%, ERBB2 5.0%, KRAS G12C 2.5%)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Solo 11 de 42 pacientes con alteraciones accionables recibieron tratamiento dirigido, destacando una brecha en la implementación.",
+          "en": "Only 11 of 42 patients with actionable alterations received targeted treatment, highlighting an implementation gap."
+        }
+      ],
+      "bottomLineEs": "El perfilado genómico integral (CGP) es factible en la práctica clínica para el BTC avanzado, identificando alteraciones accionables en una proporción sustancial de pacientes. Sin embargo, existe una brecha significativa entre la identificación de alteraciones y el acceso oportuno a terapias dirigidas.",
+      "bottomLineEn": "Upfront Comprehensive Genomic Profiling (CGP) is feasible in routine clinical practice for advanced BTC, identifying actionable alterations in a substantial proportion of patients. However, a significant gap exists between alteration identification and timely access to matched therapies.",
+      "relevance": "Práctica clínica",
+      "pmid": "42978272",
+      "url": "https://doi.org/10.1002/cam4.72461",
+      "source": "Cancer Med",
+      "date": "2026-Nov",
+      "topicId": "kras"
+    }
+  ]
+}
