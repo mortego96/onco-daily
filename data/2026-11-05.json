@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T14:14:39.734Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Interacción tumor-sistema nervioso en PDAC: rol en progresión y resistencia",
+      "headlineEn": "Tumor-nervous system crosstalk in PDAC: progression and resistance",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "El PDAC es una de las neoplasias más letales y refractarias, impulsada por un microambiente desmoplásico e inervado.",
+          "en": "PDAC is one of the most lethal and treatment-refractory malignancies, driven by a desmoplastic and innervated microenvironment."
+        },
+        {
+          "icon": "dna",
+          "es": "La invasión perineural se correlaciona con dolor intratable y recurrencia temprana en PDAC.",
+          "en": "Perineural invasion correlates with intractable cancer pain and early recurrence in PDAC."
+        },
+        {
+          "icon": "target",
+          "es": "Componentes neurales (neurotransmisores, factores neurotróficos) orquestan activamente la tumorigénesis, metástasis e inmunoevasión.",
+          "en": "Neural components (neurotransmitters, neurotrophic factors) actively orchestrate tumorigenesis, metastasis, and immune evasion."
+        },
+        {
+          "icon": "pill",
+          "es": "La interacción neuro-estromal impulsa la quimiorresistencia al remodelar el metabolismo energético y las redes de desintoxicación del tumor.",
+          "en": "Neuro-stromal crosstalk drives chemoresistance by remodeling tumor energy metabolism and detoxification networks."
+        }
+      ],
+      "bottomLineEs": "Esta revisión decodifica los mecanismos moleculares de la interacción tumor-sistema nervioso en PDAC, evaluando desafíos y proponiendo una hoja de ruta para la neuro-oncología de precisión.",
+      "bottomLineEn": "This review decodes the molecular mechanisms of tumor-nervous system crosstalk in PDAC, evaluating challenges and proposing a roadmap for precision neuro-oncology.",
+      "relevance": "Emergente",
+      "pmid": "42982411",
+      "url": "https://doi.org/10.1016/j.canlet.2026.218949",
+      "source": "Cancer Lett",
+      "date": "2026-Nov-4",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Cantharidinato sódico suprime el HCC en modelos preclínicos modulando microbiota y metabolitos fecales",
+      "headlineEn": "Sodium Cantharidinate Suppresses HCC in Preclinical Models by Modulating Gut Microbiota and Fecal Metabolites",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Modelo ortotópico de HCC en ratones C57BL/6",
+          "en": "Orthotopic HCC model in C57BL/6 mice"
+        },
+        {
+          "icon": "pill",
+          "es": "El cantharidinato sódico (SC) se administró IV durante 14 días",
+          "en": "Sodium cantharidinate (SC) administered IV for 14 days"
+        },
+        {
+          "icon": "dna",
+          "es": "SC redujo Muribaculaceae y Adlercreutzia; aumentó Bacteroides y Alistipes",
+          "en": "SC reduced Muribaculaceae and Adlercreutzia; increased Bacteroides and Alistipes"
+        },
+        {
+          "icon": "target",
+          "es": "Alteraciones en el metabolismo de lípidos y purinas (leucotrieno B4, LysoPA, xantina)",
+          "en": "Alterations in lipid and purine metabolism (leukotriene B4, LysoPA, xanthine)"
+        }
+      ],
+      "bottomLineEs": "El cantharidinato sódico muestra actividad antitumoral en HCC preclínico, asociado a cambios en la microbiota intestinal y el perfil metabólico fecal, sugiriendo un mecanismo de acción novedoso.",
+      "bottomLineEn": "Sodium cantharidinate demonstrates antitumor activity in preclinical HCC, associated with changes in gut microbiota and fecal metabolic profiles, suggesting a novel mechanism of action.",
+      "relevance": "Preclínico",
+      "pmid": "42981828",
+      "url": "https://doi.org/10.1016/j.jpba.2026.117792",
+      "source": "J Pharm Biomed Anal",
+      "date": "2026-Nov-3",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Macropinocitosis en Cáncer de Páncreas: Reprogramación Metabólica y Nuevas Dianas Terapéuticas",
+      "headlineEn": "Macropinocytosis in PDAC: Metabolic Reprogramming and Therapeutic Targeting",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La macropinocitosis es un mecanismo endolítico no selectivo que permite al PDAC mantener la viabilidad celular y la homeostasis metabólica bajo privación de nutrientes.",
+          "en": "Macropinocytosis is a non-selective endocytic pathway enabling PDAC to sustain cellular viability and metabolic homeostasis under nutrient-deprived conditions."
+        },
+        {
+          "icon": "target",
+          "es": "Vías clave que regulan la macropinocitosis en PDAC incluyen KRAS, PI3K, PTEN, YAP/TAZ, WNT/β-catenina, HIF-1α, NRF2 y PKC.",
+          "en": "Key signaling networks governing macropinocytosis in PDAC include KRAS, PI3K, PTEN, YAP/TAZ, WNT/β-catenin, HIF-1α, NRF2, and PKC."
+        },
+        {
+          "icon": "pill",
+          "es": "Las estrategias terapéuticas exploradas incluyen la activación de la macropinocitosis para mejorar la entrega de fármacos o inducir metosis, y su inhibición para privar de nutrientes a las células tumorales.",
+          "en": "Therapeutic strategies include macropinocytosis activation to enhance drug delivery or induce methuosis, versus inhibition to starve tumor cells of scavenged nutrients."
+        }
+      ],
+      "bottomLineEs": "La macropinocitosis representa una vulnerabilidad terapéutica prometedora en el PDAC, con estrategias de activación e inhibición en evaluación para su tratamiento.",
+      "bottomLineEn": "Macropinocytosis represents a promising therapeutic vulnerability in PDAC, with both activation and inhibition strategies under evaluation for its treatment.",
+      "relevance": "Emergente",
+      "pmid": "42977099",
+      "url": "https://doi.org/10.1016/j.bbcan.2026.189745",
+      "source": "Biochim Biophys Acta Rev Cancer",
+      "date": "2026-Nov-3",
+      "topicId": "kras"
+    }
+  ]
+}
