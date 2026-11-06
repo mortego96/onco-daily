@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T13:54:55.541Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Enucleación vs. Resección Anatómica en Tumores Pancreáticos Malignos Pediátricos y Adultos Jóvenes",
+      "headlineEn": "Enucleation vs. Anatomical Resection for Malignant Pancreatic Tumors in Young Patients",
+      "studyType": "Estudio Retrospectivo de Base de Datos",
+      "trialName": null,
+      "n": "1619 pacientes",
+      "primaryMetricLabelEs": "Riesgo de Mortalidad Global",
+      "primaryMetricLabelEn": "Overall Mortality Risk",
+      "arms": [],
+      "hr": "0.65 (IC95% 0.40–1.06)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Pacientes pediátricos y adultos jóvenes (0-39 años) con tumores pancreáticos malignos.",
+          "en": "Pediatric and young adult patients (0-39 years) with malignant pancreatic tumors."
+        },
+        {
+          "icon": "dna",
+          "es": "Análisis de la base de datos SEER (2004-2022).",
+          "en": "Analysis of SEER Program database (2004-2022)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Adenocarcinomas excluidos; solo subtipos manejados con enucleación o resección.",
+          "en": "Adenocarcinomas excluded; only subtypes managed with enucleation or resection."
+        },
+        {
+          "icon": "target",
+          "es": "Tumores pseudopapilares sólidos asociados a menor riesgo de mortalidad (HR 0.68).",
+          "en": "Solid pseudopapillary tumors associated with lower mortality risk (HR 0.68)."
+        }
+      ],
+      "bottomLineEs": "La enucleación se asocia con supervivencia comparable o mejor que la resección anatómica en malignidades de bajo grado en pacientes jóvenes, siendo una opción a considerar cuando sea oncológicamente apropiado.",
+      "bottomLineEn": "Enucleation is associated with comparable or improved survival relative to anatomical resection in low-grade malignancies in young patients, and may be considered when oncologically appropriate.",
+      "relevance": "Práctica clínica",
+      "pmid": "42987704",
+      "url": "https://doi.org/10.1016/j.jss.2026.10.022",
+      "source": "J Surg Res",
+      "date": "2026-Nov-5",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Respuesta patológica completa a pembrolizumab en carcinoma neuroendocrino duodenal MSI-H asociado a Lynch",
+      "headlineEn": "Pathologic complete response to pembrolizumab in Lynch syndrome-associated MSI-H duodenal neuroendocrine carcinoma",
+      "studyType": "Reporte de caso",
+      "trialName": null,
+      "n": "1",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Carcinoma neuroendocrino duodenal estadio IV con MSI-H, TMB-high y variante patogénica MSH2, asociado a Síndrome de Lynch.",
+          "en": "Stage IV duodenal neuroendocrine carcinoma with MSI-H, TMB-high, and pathogenic MSH2 variant, associated with Lynch Syndrome."
+        },
+        {
+          "icon": "pill",
+          "es": "Tras fracaso a quimioterapia con platino, pembrolizumab indujo una respuesta patológica completa.",
+          "en": "After platinum-based chemotherapy failure, pembrolizumab induced a pathologic complete response."
+        },
+        {
+          "icon": "clock",
+          "es": "El paciente permanece libre de recurrencia a los 3 años tras la pancreatectomía.",
+          "en": "Patient remains recurrence-free at 3 years after pancreatectomy."
+        },
+        {
+          "icon": "target",
+          "es": "El perfilado genómico completo (CGP) fue clave para la selección del tratamiento y el diagnóstico de Lynch.",
+          "en": "Comprehensive genomic profiling (CGP) was key for treatment selection and Lynch diagnosis."
+        }
+      ],
+      "bottomLineEs": "Este caso subraya el valor diagnóstico y terapéutico del perfilado genómico completo en carcinomas neuroendocrinos gastrointestinales raros, especialmente en el contexto de MSI-H y Síndrome de Lynch.",
+      "bottomLineEn": "This case highlights the diagnostic and therapeutic value of comprehensive genomic profiling in rare gastrointestinal neuroendocrine carcinomas, especially in the context of MSI-H and Lynch Syndrome.",
+      "relevance": "Emergente",
+      "pmid": "42983056",
+      "url": "https://doi.org/10.1007/s00428-026-04758-x",
+      "source": "Virchows Arch",
+      "date": "2026-Nov-5",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Origen clonal del colangiocarcinoma perihiliar multifocal: ¿monoclonal o policlonal?",
+      "headlineEn": "Clonal Origin of Multifocal Perihilar Cholangiocarcinoma: Monoclonal vs. Polyclonal",
+      "studyType": "Estudio retrospectivo",
+      "trialName": null,
+      "n": "5 pacientes",
+      "primaryMetricLabelEs": "Origen clonal",
+      "primaryMetricLabelEn": "Clonal Origin",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "5 pacientes con colangiocarcinoma perihiliar (PHC) extenso y nódulos múltiples.",
+          "en": "5 patients with extensive perihilar cholangiocarcinoma (PHC) and multiple nodules."
+        },
+        {
+          "icon": "dna",
+          "es": "Perfilado genómico integral (CGP) multirregional con panel de 216 genes.",
+          "en": "Multi-regional comprehensive genomic profiling (CGP) with a 216-gene panel."
+        },
+        {
+          "icon": "target",
+          "es": "4 de 5 casos mostraron origen monoclonal con mutaciones idénticas (KRAS, TP53, ARID1A).",
+          "en": "4 of 5 cases had a monoclonal origin with identical driver mutations (KRAS, TP53, ARID1A)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "1 caso fue policlonal con perfiles mutacionales distintos (TP53/BRAF vs. KDM6A/SMARCA4).",
+          "en": "1 case was polyclonal with distinct mutation profiles (TP53/BRAF vs. KDM6A/SMARCA4)."
+        }
+      ],
+      "bottomLineEs": "Este estudio exploratorio sugiere dos vías biológicas distintas (monoclonal vs. policlonal) en el colangiocarcinoma perihiliar multifocal, con implicaciones para su diseminación y manejo. Requiere validación en cohortes mayores.",
+      "bottomLineEn": "This exploratory study suggests two distinct biological pathways (monoclonal vs. polyclonal) in multifocal perihilar cholangiocarcinoma, with implications for dissemination and management. Requires validation in larger cohorts.",
+      "relevance": "Emergente",
+      "pmid": "42989447",
+      "url": "https://doi.org/10.1002/jhbp.70201",
+      "source": "J Hepatobiliary Pancreat Sci",
+      "date": "2026-Nov-5",
+      "topicId": "kras"
+    }
+  ]
+}
