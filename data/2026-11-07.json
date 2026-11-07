@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T12:39:43.657Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Relación no lineal entre tiempo de espera y supervivencia en cáncer de vía biliar",
+      "headlineEn": "Non-Linear Association Between Waiting Time and Survival in BTC",
+      "studyType": "Estudio de cohorte multicéntrico nacional",
+      "trialName": null,
+      "n": "303 pacientes",
+      "primaryMetricLabelEs": "Supervivencia global",
+      "primaryMetricLabelEn": "Overall Survival",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio en 303 pacientes con colangiocarcinoma intrahepático, perihiliar y cáncer de vesícula biliar.",
+          "en": "Study in 303 patients with intrahepatic, perihilar cholangiocarcinoma, and gallbladder cancer."
+        },
+        {
+          "icon": "clock",
+          "es": "La mediana del tiempo de espera desde el diagnóstico hasta el tratamiento local fue de 28 días (IQR 21-41 días).",
+          "en": "Median waiting time from diagnosis to local treatment was 28 days (IQR 21-41 days)."
+        },
+        {
+          "icon": "dna",
+          "es": "Se observó una potencial relación no lineal en forma de U entre el tiempo de espera y la supervivencia global.",
+          "en": "A potential U-shaped, non-linear relationship between waiting time and overall survival was observed."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La operabilidad dudosa y la resección de conductos biliares extrahepáticos se asociaron con esperas largas.",
+          "en": "Doubtful operability and resection of extrahepatic bile ducts were associated with long waits."
+        }
+      ],
+      "bottomLineEs": "Aunque se sugiere una relación no lineal entre el tiempo de espera y la supervivencia, los análisis de Kaplan-Meier no mostraron diferencias significativas al dividir por la mediana. Factores como la operabilidad influyen en los tiempos de espera.",
+      "bottomLineEn": "While a non-linear relationship between waiting time and survival is suggested, Kaplan-Meier analyses did not show significant differences based on median split. Factors like operability influence waiting times.",
+      "relevance": "Emergente",
+      "pmid": "42993320",
+      "url": "https://doi.org/10.1007/s00423-026-04170-8",
+      "source": "Langenbecks Arch Surg",
+      "date": "2026-Aug-11",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Microesferas de TACE con Procaína y Doxorrubicina: Analgesia y Potente Efecto Antitumoral",
+      "headlineEn": "Procaine and Doxorubicin Coloaded Microspheres for Painless and Potent TACE",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "PCA reduce el dolor y la inflamación post-embolización; PCA+DOX muestran sinergia antitumoral (CDI 0.62-0.63).",
+          "en": "PCA reduces post-embolization pain/inflammation; PCA+DOX show synergistic antitumor efficacy (CDI 0.62-0.63)."
+        },
+        {
+          "icon": "dna",
+          "es": "Modulan el microambiente inmune (aumento de linfocitos T CD4+/CD8+) y reducen marcadores angiogénicos (VEGF, EGFR, CD31).",
+          "en": "Modulate immune microenvironment (increased CD4+/CD8+ T cells) and downregulate angiogenesis markers (VEGF, EGFR, CD31)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Buena biocompatibilidad y hemocompatibilidad sin toxicidad hepática o renal persistente.",
+          "en": "Favorable biocompatibility and hemocompatibility without persistent hepatic or renal toxicity."
+        }
+      ],
+      "bottomLineEs": "Este sistema de microesferas multifuncionales integra embolización eficiente, antiinflamación, analgesia, quimioterapia sinérgica y modulación del microambiente, ofreciendo una estrategia prometedora para optimizar la TACE en HCC.",
+      "bottomLineEn": "This multifunctional microsphere system integrates efficient embolization, anti-inflammation, analgesia, synergistic chemotherapy, and microenvironment modulation, providing a promising strategy to optimize TACE for HCC.",
+      "relevance": "Preclínico",
+      "pmid": "42994449",
+      "url": "https://doi.org/10.1021/acsami.6c15393",
+      "source": "ACS Appl Mater Interfaces",
+      "date": "2026-Nov-9",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Relación bidireccional entre diabetes y cáncer de páncreas: mecanismos y clínica",
+      "headlineEn": "Bidirectional link between diabetes and pancreatic cancer: mechanisms and clinical insights",
+      "studyType": "Revisión Mecanística y Clínica",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "La diabetes tipo 2 (T2DM) de larga evolución aumenta el riesgo de cáncer de páncreas (PDAC) 1.8-2.2 veces. El 30-74% de los pacientes con PDAC desarrollan diabetes de nueva aparición (NOD).",
+          "en": "Long-standing type 2 diabetes (T2DM) elevates pancreatic cancer (PDAC) risk 1.8-2.2-fold. 30-74% of PDAC patients develop new-onset diabetes (NOD)."
+        },
+        {
+          "icon": "dna",
+          "es": "Seis mecanismos moleculares interrelacionados median esta relación, incluyendo KRAS, inflamación, desmoplasia por células estrelladas y daño de células β mediado por exosomas tumorales.",
+          "en": "Six interrelated molecular mechanisms mediate this relationship, including KRAS, inflammation, stellate cell desmoplasia, and tumor exosome-mediated β-cell damage."
+        },
+        {
+          "icon": "pill",
+          "es": "La diabetes pancreatogénica tipo 3c (T3cDM) es bioquímicamente distinguible por la reducción de polipéptido pancreático e insulina endógena. El 25-40% remite tras resección R0.",
+          "en": "Type 3c pancreatogenic diabetes (T3cDM) is biochemically distinguishable by reduced pancreatic polypeptide and endogenous insulin. 25-40% achieve remission after R0 resection."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Existen desafíos clínicos como la alta tasa de infradiagnóstico de T3cDM (88%) y la necesidad de validar biomarcadores multiómicos y criterios diagnósticos estandarizados.",
+          "en": "Clinical challenges include high T3cDM misdiagnosis rates (88%) and the need for validation of multi-omic biomarkers and standardized diagnostic criteria."
+        }
+      ],
+      "bottomLineEs": "La compleja relación bidireccional entre diabetes y cáncer de páncreas, mediada por múltiples vías moleculares como KRAS y exosomas, subraya la necesidad de un diagnóstico temprano de la diabetes tipo 3c para la detección precoz del PDAC y el desarrollo de terapias dirigidas.",
+      "bottomLineEn": "The complex bidirectional relationship between diabetes and pancreatic cancer, mediated by multiple molecular pathways including KRAS and exosomes, highlights the need for early T3cDM diagnosis for PDAC screening and targeted therapeutic development.",
+      "relevance": "Emergente",
+      "pmid": "42991559",
+      "url": "https://doi.org/10.3389/fendo.2026.1995824",
+      "source": "Front Endocrinol (Lausanne)",
+      "date": "2026",
+      "topicId": "kras"
+    }
+  ]
+}
