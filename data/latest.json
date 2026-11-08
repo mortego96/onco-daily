@@ -1,131 +1,179 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T12:39:43.657Z",
-  "count": 3,
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T12:56:54.107Z",
+  "count": 4,
   "cards": [
     {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Relación no lineal entre tiempo de espera y supervivencia en cáncer de vía biliar",
-      "headlineEn": "Non-Linear Association Between Waiting Time and Survival in BTC",
-      "studyType": "Estudio de cohorte multicéntrico nacional",
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Firma de 6 genes MMR predice pronóstico y respuesta a quimio en PDAC.",
+      "headlineEn": "Six-MMR-gene signature predicts prognosis and chemo response in PDAC.",
+      "studyType": "Estudio de biomarcadores/pronóstico",
       "trialName": null,
-      "n": "303 pacientes",
-      "primaryMetricLabelEs": "Supervivencia global",
-      "primaryMetricLabelEn": "Overall Survival",
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Se desarrolló y validó una firma pronóstica de 6 genes MMR (MLH1, MSH2, MSH6, PMS2, EPCAM, POLD1).",
+          "en": "A prognostic signature of six MMR genes (MLH1, MSH2, MSH6, PMS2, EPCAM, POLD1) was developed and validated."
+        },
+        {
+          "icon": "clock",
+          "es": "La firma estratificó a los pacientes en grupos de alto y bajo riesgo con SG significativamente distintas (P<0.001) y predijo la supervivencia a 5 años con un AUC de 0.857.",
+          "en": "The signature stratified patients into high- and low-risk groups with significantly distinct OS (P<0.001) and predicted 5-year survival with an AUC of 0.857."
+        },
+        {
+          "icon": "target",
+          "es": "El grupo de bajo riesgo exhibió un microambiente tumoral (TME) inmunológicamente activo, con mayor infiltración de células T CD8 y células B naive.",
+          "en": "The low-risk group exhibited an immunologically active tumor microenvironment (TME), with increased CD8T cell and naive B cell infiltration."
+        },
+        {
+          "icon": "pill",
+          "es": "El análisis de sensibilidad a fármacos reveló que el grupo de alto riesgo era más sensible a gemcitabina y paclitaxel.",
+          "en": "Drug sensitivity analysis revealed that the high-risk group was more sensitive to gemcitabine and paclitaxel."
+        }
+      ],
+      "bottomLineEs": "Esta firma de 6 genes MMR es un biomarcador multidimensional potencial para la estratificación de riesgo y la planificación de tratamientos personalizados en el adenocarcinoma de páncreas.",
+      "bottomLineEn": "This six-MMR-gene signature provides a potential multi-dimensional biomarker for risk stratification and personalized treatment planning in pancreatic adenocarcinoma.",
+      "relevance": "Emergente",
+      "pmid": "42997921",
+      "url": "https://doi.org/10.21037/tcr-2026-1-0007",
+      "source": "Transl Cancer Res",
+      "date": "2026-Oct-30",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Duodenopancreatectomía sin anastomosis en páncreas con reemplazo graso extenso",
+      "headlineEn": "Pancreaticoduodenectomy without anastomosis in extensive fatty replaced pancreas",
+      "studyType": "Reporte de caso",
+      "trialName": null,
+      "n": "1",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "Estudio en 303 pacientes con colangiocarcinoma intrahepático, perihiliar y cáncer de vesícula biliar.",
-          "en": "Study in 303 patients with intrahepatic, perihilar cholangiocarcinoma, and gallbladder cancer."
+          "es": "Paciente de 68 años con lesión quística en cabeza de páncreas y reemplazo graso casi completo del cuerpo y cola.",
+          "en": "68-year-old patient with pancreatic head cystic lesion and near-complete fatty replacement of body and tail."
         },
         {
-          "icon": "clock",
-          "es": "La mediana del tiempo de espera desde el diagnóstico hasta el tratamiento local fue de 28 días (IQR 21-41 días).",
-          "en": "Median waiting time from diagnosis to local treatment was 28 days (IQR 21-41 days)."
+          "icon": "target",
+          "es": "Se realizó duodenopancreatectomía sin pancreato-yeyunostomía debido a la ausencia de parénquima viable para anastomosis.",
+          "en": "Pancreaticoduodenectomy performed without pancreaticojejunostomy due to absence of viable parenchyma for anastomosis."
         },
         {
           "icon": "dna",
-          "es": "Se observó una potencial relación no lineal en forma de U entre el tiempo de espera y la supervivencia global.",
-          "en": "A potential U-shaped, non-linear relationship between waiting time and overall survival was observed."
+          "es": "Histopatología confirmó cistoadenoma seroso microquístico con márgenes negativos.",
+          "en": "Histopathology confirmed microcystic serous cystadenoma with negative margins."
         },
         {
-          "icon": "alert-triangle",
-          "es": "La operabilidad dudosa y la resección de conductos biliares extrahepáticos se asociaron con esperas largas.",
-          "en": "Doubtful operability and resection of extrahepatic bile ducts were associated with long waits."
+          "icon": "shield-check",
+          "es": "No se documentó fístula pancreática ni colección postoperatoria; sin recurrencia a los 6 meses.",
+          "en": "No pancreatic fistula or postoperative collection documented; no recurrence at 6 months."
         }
       ],
-      "bottomLineEs": "Aunque se sugiere una relación no lineal entre el tiempo de espera y la supervivencia, los análisis de Kaplan-Meier no mostraron diferencias significativas al dividir por la mediana. Factores como la operabilidad influyen en los tiempos de espera.",
-      "bottomLineEn": "While a non-linear relationship between waiting time and survival is suggested, Kaplan-Meier analyses did not show significant differences based on median split. Factors like operability influence waiting times.",
-      "relevance": "Emergente",
-      "pmid": "42993320",
-      "url": "https://doi.org/10.1007/s00423-026-04170-8",
-      "source": "Langenbecks Arch Surg",
-      "date": "2026-Aug-11",
+      "bottomLineEs": "Esta técnica quirúrgica individualizada es aplicable en casos raros donde el remanente pancreático distal no es viable para anastomosis, como en el reemplazo graso extenso.",
+      "bottomLineEn": "This individualized surgical technique is applicable in rare cases where the distal pancreatic remnant is not viable for anastomosis, such as extensive fatty replacement.",
+      "relevance": "Práctica clínica",
+      "pmid": "42996829",
+      "url": "https://doi.org/10.21037/gs-2026-0407",
+      "source": "Gland Surg",
+      "date": "2026-Oct-30",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Estado inflamatorio multicelular asociado a resistencia en CICC y vulnerabilidad JAK-STAT.",
+      "headlineEn": "Multicellular inflammatory state linked to resistance in ICC and JAK-STAT vulnerability.",
+      "studyType": "Estudio traslacional/Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Análisis de especímenes de CICC post-tratamiento de respondedores y no respondedores a quimio-inmunoterapia neoadyuvante.",
+          "en": "Analysis of post-treatment ICC specimens from responders and non-responders to neoadjuvant chemo-immunotherapy."
+        },
+        {
+          "icon": "dna",
+          "es": "Tumores no respondedores mostraron enriquecimiento de células epiteliales SPINK1+, iCAFs, macrófagos SPP1+ e inflamatorios, y programas de células T CD4+ inmunosupresores.",
+          "en": "Non-response tumors enriched for SPINK1+ epithelial cells, inflammatory CAFs (iCAFs), SPP1+ and inflammatory macrophages, and immunosuppressive CD4+ T-cell programs."
+        },
+        {
+          "icon": "target",
+          "es": "La señalización inflamatoria IL6-JAK-STAT3 emergió como característica recurrente de resistencia y vulnerabilidad terapéutica accionable.",
+          "en": "IL6-JAK-STAT3 inflammatory signaling emerged as a recurrent feature of resistance and an actionable therapeutic vulnerability."
+        },
+        {
+          "icon": "pill",
+          "es": "La combinación de bloqueo de PD-1 e inhibición de JAK1/2 mostró actividad antitumoral mejorada en modelos murinos de CICC.",
+          "en": "Combined PD-1 blockade and JAK1/2 inhibition showed enhanced antitumor activity in ICC mouse models."
+        }
+      ],
+      "bottomLineEs": "Estos hallazgos identifican un estado inflamatorio multicelular coordinado asociado a la no respuesta a la quimio-inmunoterapia neoadyuvante en CICC y nominan la señalización JAK-STAT como una vulnerabilidad terapéutica convergente y accionable, apoyando su evaluación para mejorar la respuesta a la inmunoterapia.",
+      "bottomLineEn": "These findings identify a coordinated, multicellular inflammatory state associated with non-response to neoadjuvant chemo-immunotherapy in ICC and nominate JAK-STAT signaling as a convergent, therapeutically actionable vulnerability, supporting its evaluation to improve immunotherapy responsiveness.",
+      "relevance": "Preclínico",
+      "pmid": "42998577",
+      "url": "https://doi.org/10.1016/j.drup.2026.101488",
+      "source": "Drug Resist Updat",
+      "date": "2026-Nov-1",
       "topicId": "biliary"
     },
     {
       "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Microesferas de TACE con Procaína y Doxorrubicina: Analgesia y Potente Efecto Antitumoral",
-      "headlineEn": "Procaine and Doxorubicin Coloaded Microspheres for Painless and Potent TACE",
-      "studyType": "Preclínico",
+      "headlineEs": "Validación de los Criterios de Ontario para Trasplante Hepático en HCC",
+      "headlineEn": "Validation of Ontario Criteria for Liver Transplant in HCC",
+      "studyType": "Estudio de cohorte retrospectivo de registro",
       "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
+      "n": "29,086",
+      "primaryMetricLabelEs": "Supervivencia Global post-trasplante",
+      "primaryMetricLabelEn": "Post-transplant Overall Survival",
       "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "target",
-          "es": "PCA reduce el dolor y la inflamación post-embolización; PCA+DOX muestran sinergia antitumoral (CDI 0.62-0.63).",
-          "en": "PCA reduces post-embolization pain/inflammation; PCA+DOX show synergistic antitumor efficacy (CDI 0.62-0.63)."
-        },
-        {
-          "icon": "dna",
-          "es": "Modulan el microambiente inmune (aumento de linfocitos T CD4+/CD8+) y reducen marcadores angiogénicos (VEGF, EGFR, CD31).",
-          "en": "Modulate immune microenvironment (increased CD4+/CD8+ T cells) and downregulate angiogenesis markers (VEGF, EGFR, CD31)."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Buena biocompatibilidad y hemocompatibilidad sin toxicidad hepática o renal persistente.",
-          "en": "Favorable biocompatibility and hemocompatibility without persistent hepatic or renal toxicity."
-        }
-      ],
-      "bottomLineEs": "Este sistema de microesferas multifuncionales integra embolización eficiente, antiinflamación, analgesia, quimioterapia sinérgica y modulación del microambiente, ofreciendo una estrategia prometedora para optimizar la TACE en HCC.",
-      "bottomLineEn": "This multifunctional microsphere system integrates efficient embolization, anti-inflammation, analgesia, synergistic chemotherapy, and microenvironment modulation, providing a promising strategy to optimize TACE for HCC.",
-      "relevance": "Preclínico",
-      "pmid": "42994449",
-      "url": "https://doi.org/10.1021/acsami.6c15393",
-      "source": "ACS Appl Mater Interfaces",
-      "date": "2026-Nov-9",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Relación bidireccional entre diabetes y cáncer de páncreas: mecanismos y clínica",
-      "headlineEn": "Bidirectional link between diabetes and pancreatic cancer: mechanisms and clinical insights",
-      "studyType": "Revisión Mecanística y Clínica",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
+      "hr": "1.83 (IC95% 1.60–2.10)",
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "La diabetes tipo 2 (T2DM) de larga evolución aumenta el riesgo de cáncer de páncreas (PDAC) 1.8-2.2 veces. El 30-74% de los pacientes con PDAC desarrollan diabetes de nueva aparición (NOD).",
-          "en": "Long-standing type 2 diabetes (T2DM) elevates pancreatic cancer (PDAC) risk 1.8-2.2-fold. 30-74% of PDAC patients develop new-onset diabetes (NOD)."
+          "es": "29,086 pacientes con HCC en el registro UNOS sometidos a trasplante hepático.",
+          "en": "29,086 HCC patients from UNOS registry underwent liver transplantation."
+        },
+        {
+          "icon": "clock",
+          "es": "Los pacientes dentro de los Criterios de Ontario (OC) alcanzaron una SG a 5 años post-trasplante del 76% (IC95% 75–76).",
+          "en": "Patients within Ontario Criteria (OC) achieved a 5-year post-transplant OS of 76% (95%CI 75–76)."
+        },
+        {
+          "icon": "clock",
+          "es": "La mediana de SG post-trasplante para pacientes dentro de los OC fue de 13.5 años (IC95% 13.2–13.9).",
+          "en": "Median post-transplant OS for patients within OC was 13.5 years (95%CI 13.2–13.9)."
         },
         {
           "icon": "dna",
-          "es": "Seis mecanismos moleculares interrelacionados median esta relación, incluyendo KRAS, inflamación, desmoplasia por células estrelladas y daño de células β mediado por exosomas tumorales.",
-          "en": "Six interrelated molecular mechanisms mediate this relationship, including KRAS, inflammation, stellate cell desmoplasia, and tumor exosome-mediated β-cell damage."
-        },
-        {
-          "icon": "pill",
-          "es": "La diabetes pancreatogénica tipo 3c (T3cDM) es bioquímicamente distinguible por la reducción de polipéptido pancreático e insulina endógena. El 25-40% remite tras resección R0.",
-          "en": "Type 3c pancreatogenic diabetes (T3cDM) is biochemically distinguishable by reduced pancreatic polypeptide and endogenous insulin. 25-40% achieve remission after R0 resection."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Existen desafíos clínicos como la alta tasa de infradiagnóstico de T3cDM (88%) y la necesidad de validar biomarcadores multiómicos y criterios diagnósticos estandarizados.",
-          "en": "Clinical challenges include high T3cDM misdiagnosis rates (88%) and the need for validation of multi-omic biomarkers and standardized diagnostic criteria."
+          "es": "La incorporación de AFP mejora la estratificación del riesgo en pacientes con HCC para trasplante hepático.",
+          "en": "Incorporating AFP improves risk stratification for HCC patients listed for liver transplantation."
         }
       ],
-      "bottomLineEs": "La compleja relación bidireccional entre diabetes y cáncer de páncreas, mediada por múltiples vías moleculares como KRAS y exosomas, subraya la necesidad de un diagnóstico temprano de la diabetes tipo 3c para la detección precoz del PDAC y el desarrollo de terapias dirigidas.",
-      "bottomLineEn": "The complex bidirectional relationship between diabetes and pancreatic cancer, mediated by multiple molecular pathways including KRAS and exosomes, highlights the need for early T3cDM diagnosis for PDAC screening and targeted therapeutic development.",
-      "relevance": "Emergente",
-      "pmid": "42991559",
-      "url": "https://doi.org/10.3389/fendo.2026.1995824",
-      "source": "Front Endocrinol (Lausanne)",
-      "date": "2026",
-      "topicId": "kras"
+      "bottomLineEs": "Los Criterios de Ontario se asocian con excelentes resultados de supervivencia post-trasplante en HCC, y la incorporación de AFP mejora la estratificación del riesgo.",
+      "bottomLineEn": "Ontario Criteria are associated with excellent post-transplant survival outcomes in HCC, and AFP incorporation improves risk stratification.",
+      "relevance": "Práctica clínica",
+      "pmid": "42998952",
+      "url": "https://doi.org/10.1016/j.hpb.2026.10.003",
+      "source": "HPB (Oxford)",
+      "date": "2026-Nov-7",
+      "topicId": "hcc"
     }
   ]
 }
