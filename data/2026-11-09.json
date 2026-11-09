@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T15:32:30.287Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "GABBR1: Biomarcador pronóstico regulado por cuproptosis en cáncer de páncreas, clave en fibroblastos",
+      "headlineEn": "GABBR1: Cuproptosis-regulated prognostic biomarker in pancreatic cancer, critical in fibroblasts",
+      "studyType": "Bioinformático/Translacional",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Identificación y validación de biomarcador pronóstico",
+      "primaryMetricLabelEn": "Identification and validation of prognostic biomarker",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Fibroblastos asociados a cáncer (CAFs) son el principal tipo celular con elevada actividad de cuproptosis.",
+          "en": "Cancer-associated fibroblasts (CAFs) are the principal cell type with elevated cuproptosis activity."
+        },
+        {
+          "icon": "dna",
+          "es": "GABBR1 se identificó como un gen clave cuya expresión disminuye con la progresión del tumor.",
+          "en": "GABBR1 was identified as a key gene whose expression decreased with tumor progression."
+        },
+        {
+          "icon": "dna",
+          "es": "La expresión de GABBR1 se correlaciona negativamente con la progresión del CP y se vincula a genes de cuproptosis.",
+          "en": "GABBR1 expression negatively correlates with PC progression and links to cuproptosis-related genes."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Fibroblastos con niveles más altos de GABBR1 mostraron mayor expresión de genes de puntos de control inmunes y marcadores de activación de células T.",
+          "en": "Fibroblasts with higher GABBR1 levels exhibited increased expression of immune checkpoint genes and T-cell activation markers."
+        }
+      ],
+      "bottomLineEs": "La modulación de GABBR1 podría influir en las vías de cuproptosis, la sensibilidad apoptótica y la respuesta inmune en cáncer de páncreas.",
+      "bottomLineEn": "Modulating GABBR1 could influence cuproptosis pathways, apoptotic sensitivity, and immune responses in pancreatic cancer.",
+      "relevance": "Emergente",
+      "pmid": "42999371",
+      "url": "https://doi.org/10.1016/j.iliver.2026.100276",
+      "source": "ILIVER",
+      "date": "2026-Dec",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Transformación del desarrollo de fármacos oncológicos en China: Hacia una nueva fase de innovación",
+      "headlineEn": "Transformation of Oncology Drug Development in China: Toward a New Phase of Innovation",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "shield-check",
+          "es": "El ecosistema oncológico chino evoluciona hacia una innovación basada en valor clínico tras reformas regulatorias.",
+          "en": "China's oncology ecosystem shifts to clinical value-driven innovation after regulatory reforms."
+        },
+        {
+          "icon": "users",
+          "es": "La alta carga de enfermedad y capacidad de reclutamiento en China impulsan avances en HCC, cáncer de pulmón EGFR+ y otras neoplasias.",
+          "en": "High disease burden and enrollment capacity in China drive advances in HCC, EGFR+ lung cancer, and other malignancies."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Persisten desafíos en la definición de biomarcadores, optimización de la ventana terapéutica y generación de evidencia globalmente interpretable.",
+          "en": "Challenges remain in biomarker definition, therapeutic window optimization, and globally interpretable evidence generation."
+        },
+        {
+          "icon": "dna",
+          "es": "La inteligencia artificial podría optimizar el descubrimiento de dianas, el diseño de fármacos y los ensayos clínicos.",
+          "en": "Artificial intelligence may optimize target discovery, drug design, and clinical trials."
+        }
+      ],
+      "bottomLineEs": "China es una fuente importante de ensayos oncológicos e innovación en modalidades, pero la escala por sí sola no garantiza un impacto global. La generación de evidencia globalmente relevante es clave.",
+      "bottomLineEn": "China is a major source of oncology trials and modality innovation, but scale alone won't ensure global impact. Generating globally relevant evidence is key.",
+      "relevance": "Emergente",
+      "pmid": "42999985",
+      "url": "https://doi.org/10.1158/2159-8290.CD-26-1628",
+      "source": "Cancer Discov",
+      "date": "2026-Nov-8",
+      "topicId": "hcc"
+    }
+  ]
+}

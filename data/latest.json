@@ -1,99 +1,56 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T12:56:54.107Z",
-  "count": 4,
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T15:32:30.287Z",
+  "count": 2,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Firma de 6 genes MMR predice pronóstico y respuesta a quimio en PDAC.",
-      "headlineEn": "Six-MMR-gene signature predicts prognosis and chemo response in PDAC.",
-      "studyType": "Estudio de biomarcadores/pronóstico",
+      "headlineEs": "GABBR1: Biomarcador pronóstico regulado por cuproptosis en cáncer de páncreas, clave en fibroblastos",
+      "headlineEn": "GABBR1: Cuproptosis-regulated prognostic biomarker in pancreatic cancer, critical in fibroblasts",
+      "studyType": "Bioinformático/Translacional",
       "trialName": null,
       "n": null,
-      "primaryMetricLabelEs": "Supervivencia global (SG)",
-      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "primaryMetricLabelEs": "Identificación y validación de biomarcador pronóstico",
+      "primaryMetricLabelEn": "Identification and validation of prognostic biomarker",
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "dna",
-          "es": "Se desarrolló y validó una firma pronóstica de 6 genes MMR (MLH1, MSH2, MSH6, PMS2, EPCAM, POLD1).",
-          "en": "A prognostic signature of six MMR genes (MLH1, MSH2, MSH6, PMS2, EPCAM, POLD1) was developed and validated."
-        },
-        {
-          "icon": "clock",
-          "es": "La firma estratificó a los pacientes en grupos de alto y bajo riesgo con SG significativamente distintas (P<0.001) y predijo la supervivencia a 5 años con un AUC de 0.857.",
-          "en": "The signature stratified patients into high- and low-risk groups with significantly distinct OS (P<0.001) and predicted 5-year survival with an AUC of 0.857."
-        },
-        {
-          "icon": "target",
-          "es": "El grupo de bajo riesgo exhibió un microambiente tumoral (TME) inmunológicamente activo, con mayor infiltración de células T CD8 y células B naive.",
-          "en": "The low-risk group exhibited an immunologically active tumor microenvironment (TME), with increased CD8T cell and naive B cell infiltration."
-        },
-        {
-          "icon": "pill",
-          "es": "El análisis de sensibilidad a fármacos reveló que el grupo de alto riesgo era más sensible a gemcitabina y paclitaxel.",
-          "en": "Drug sensitivity analysis revealed that the high-risk group was more sensitive to gemcitabine and paclitaxel."
-        }
-      ],
-      "bottomLineEs": "Esta firma de 6 genes MMR es un biomarcador multidimensional potencial para la estratificación de riesgo y la planificación de tratamientos personalizados en el adenocarcinoma de páncreas.",
-      "bottomLineEn": "This six-MMR-gene signature provides a potential multi-dimensional biomarker for risk stratification and personalized treatment planning in pancreatic adenocarcinoma.",
-      "relevance": "Emergente",
-      "pmid": "42997921",
-      "url": "https://doi.org/10.21037/tcr-2026-1-0007",
-      "source": "Transl Cancer Res",
-      "date": "2026-Oct-30",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Duodenopancreatectomía sin anastomosis en páncreas con reemplazo graso extenso",
-      "headlineEn": "Pancreaticoduodenectomy without anastomosis in extensive fatty replaced pancreas",
-      "studyType": "Reporte de caso",
-      "trialName": null,
-      "n": "1",
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Paciente de 68 años con lesión quística en cabeza de páncreas y reemplazo graso casi completo del cuerpo y cola.",
-          "en": "68-year-old patient with pancreatic head cystic lesion and near-complete fatty replacement of body and tail."
-        },
-        {
-          "icon": "target",
-          "es": "Se realizó duodenopancreatectomía sin pancreato-yeyunostomía debido a la ausencia de parénquima viable para anastomosis.",
-          "en": "Pancreaticoduodenectomy performed without pancreaticojejunostomy due to absence of viable parenchyma for anastomosis."
+          "es": "Fibroblastos asociados a cáncer (CAFs) son el principal tipo celular con elevada actividad de cuproptosis.",
+          "en": "Cancer-associated fibroblasts (CAFs) are the principal cell type with elevated cuproptosis activity."
         },
         {
           "icon": "dna",
-          "es": "Histopatología confirmó cistoadenoma seroso microquístico con márgenes negativos.",
-          "en": "Histopathology confirmed microcystic serous cystadenoma with negative margins."
+          "es": "GABBR1 se identificó como un gen clave cuya expresión disminuye con la progresión del tumor.",
+          "en": "GABBR1 was identified as a key gene whose expression decreased with tumor progression."
+        },
+        {
+          "icon": "dna",
+          "es": "La expresión de GABBR1 se correlaciona negativamente con la progresión del CP y se vincula a genes de cuproptosis.",
+          "en": "GABBR1 expression negatively correlates with PC progression and links to cuproptosis-related genes."
         },
         {
           "icon": "shield-check",
-          "es": "No se documentó fístula pancreática ni colección postoperatoria; sin recurrencia a los 6 meses.",
-          "en": "No pancreatic fistula or postoperative collection documented; no recurrence at 6 months."
+          "es": "Fibroblastos con niveles más altos de GABBR1 mostraron mayor expresión de genes de puntos de control inmunes y marcadores de activación de células T.",
+          "en": "Fibroblasts with higher GABBR1 levels exhibited increased expression of immune checkpoint genes and T-cell activation markers."
         }
       ],
-      "bottomLineEs": "Esta técnica quirúrgica individualizada es aplicable en casos raros donde el remanente pancreático distal no es viable para anastomosis, como en el reemplazo graso extenso.",
-      "bottomLineEn": "This individualized surgical technique is applicable in rare cases where the distal pancreatic remnant is not viable for anastomosis, such as extensive fatty replacement.",
-      "relevance": "Práctica clínica",
-      "pmid": "42996829",
-      "url": "https://doi.org/10.21037/gs-2026-0407",
-      "source": "Gland Surg",
-      "date": "2026-Oct-30",
-      "topicId": "panc_other"
+      "bottomLineEs": "La modulación de GABBR1 podría influir en las vías de cuproptosis, la sensibilidad apoptótica y la respuesta inmune en cáncer de páncreas.",
+      "bottomLineEn": "Modulating GABBR1 could influence cuproptosis pathways, apoptotic sensitivity, and immune responses in pancreatic cancer.",
+      "relevance": "Emergente",
+      "pmid": "42999371",
+      "url": "https://doi.org/10.1016/j.iliver.2026.100276",
+      "source": "ILIVER",
+      "date": "2026-Dec",
+      "topicId": "pdac"
     },
     {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Estado inflamatorio multicelular asociado a resistencia en CICC y vulnerabilidad JAK-STAT.",
-      "headlineEn": "Multicellular inflammatory state linked to resistance in ICC and JAK-STAT vulnerability.",
-      "studyType": "Estudio traslacional/Preclínico",
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Transformación del desarrollo de fármacos oncológicos en China: Hacia una nueva fase de innovación",
+      "headlineEn": "Transformation of Oncology Drug Development in China: Toward a New Phase of Innovation",
+      "studyType": "Revisión",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -103,76 +60,33 @@
       "pfs": null,
       "facts": [
         {
+          "icon": "shield-check",
+          "es": "El ecosistema oncológico chino evoluciona hacia una innovación basada en valor clínico tras reformas regulatorias.",
+          "en": "China's oncology ecosystem shifts to clinical value-driven innovation after regulatory reforms."
+        },
+        {
           "icon": "users",
-          "es": "Análisis de especímenes de CICC post-tratamiento de respondedores y no respondedores a quimio-inmunoterapia neoadyuvante.",
-          "en": "Analysis of post-treatment ICC specimens from responders and non-responders to neoadjuvant chemo-immunotherapy."
+          "es": "La alta carga de enfermedad y capacidad de reclutamiento en China impulsan avances en HCC, cáncer de pulmón EGFR+ y otras neoplasias.",
+          "en": "High disease burden and enrollment capacity in China drive advances in HCC, EGFR+ lung cancer, and other malignancies."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Persisten desafíos en la definición de biomarcadores, optimización de la ventana terapéutica y generación de evidencia globalmente interpretable.",
+          "en": "Challenges remain in biomarker definition, therapeutic window optimization, and globally interpretable evidence generation."
         },
         {
           "icon": "dna",
-          "es": "Tumores no respondedores mostraron enriquecimiento de células epiteliales SPINK1+, iCAFs, macrófagos SPP1+ e inflamatorios, y programas de células T CD4+ inmunosupresores.",
-          "en": "Non-response tumors enriched for SPINK1+ epithelial cells, inflammatory CAFs (iCAFs), SPP1+ and inflammatory macrophages, and immunosuppressive CD4+ T-cell programs."
-        },
-        {
-          "icon": "target",
-          "es": "La señalización inflamatoria IL6-JAK-STAT3 emergió como característica recurrente de resistencia y vulnerabilidad terapéutica accionable.",
-          "en": "IL6-JAK-STAT3 inflammatory signaling emerged as a recurrent feature of resistance and an actionable therapeutic vulnerability."
-        },
-        {
-          "icon": "pill",
-          "es": "La combinación de bloqueo de PD-1 e inhibición de JAK1/2 mostró actividad antitumoral mejorada en modelos murinos de CICC.",
-          "en": "Combined PD-1 blockade and JAK1/2 inhibition showed enhanced antitumor activity in ICC mouse models."
+          "es": "La inteligencia artificial podría optimizar el descubrimiento de dianas, el diseño de fármacos y los ensayos clínicos.",
+          "en": "Artificial intelligence may optimize target discovery, drug design, and clinical trials."
         }
       ],
-      "bottomLineEs": "Estos hallazgos identifican un estado inflamatorio multicelular coordinado asociado a la no respuesta a la quimio-inmunoterapia neoadyuvante en CICC y nominan la señalización JAK-STAT como una vulnerabilidad terapéutica convergente y accionable, apoyando su evaluación para mejorar la respuesta a la inmunoterapia.",
-      "bottomLineEn": "These findings identify a coordinated, multicellular inflammatory state associated with non-response to neoadjuvant chemo-immunotherapy in ICC and nominate JAK-STAT signaling as a convergent, therapeutically actionable vulnerability, supporting its evaluation to improve immunotherapy responsiveness.",
-      "relevance": "Preclínico",
-      "pmid": "42998577",
-      "url": "https://doi.org/10.1016/j.drup.2026.101488",
-      "source": "Drug Resist Updat",
-      "date": "2026-Nov-1",
-      "topicId": "biliary"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Validación de los Criterios de Ontario para Trasplante Hepático en HCC",
-      "headlineEn": "Validation of Ontario Criteria for Liver Transplant in HCC",
-      "studyType": "Estudio de cohorte retrospectivo de registro",
-      "trialName": null,
-      "n": "29,086",
-      "primaryMetricLabelEs": "Supervivencia Global post-trasplante",
-      "primaryMetricLabelEn": "Post-transplant Overall Survival",
-      "arms": [],
-      "hr": "1.83 (IC95% 1.60–2.10)",
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "29,086 pacientes con HCC en el registro UNOS sometidos a trasplante hepático.",
-          "en": "29,086 HCC patients from UNOS registry underwent liver transplantation."
-        },
-        {
-          "icon": "clock",
-          "es": "Los pacientes dentro de los Criterios de Ontario (OC) alcanzaron una SG a 5 años post-trasplante del 76% (IC95% 75–76).",
-          "en": "Patients within Ontario Criteria (OC) achieved a 5-year post-transplant OS of 76% (95%CI 75–76)."
-        },
-        {
-          "icon": "clock",
-          "es": "La mediana de SG post-trasplante para pacientes dentro de los OC fue de 13.5 años (IC95% 13.2–13.9).",
-          "en": "Median post-transplant OS for patients within OC was 13.5 years (95%CI 13.2–13.9)."
-        },
-        {
-          "icon": "dna",
-          "es": "La incorporación de AFP mejora la estratificación del riesgo en pacientes con HCC para trasplante hepático.",
-          "en": "Incorporating AFP improves risk stratification for HCC patients listed for liver transplantation."
-        }
-      ],
-      "bottomLineEs": "Los Criterios de Ontario se asocian con excelentes resultados de supervivencia post-trasplante en HCC, y la incorporación de AFP mejora la estratificación del riesgo.",
-      "bottomLineEn": "Ontario Criteria are associated with excellent post-transplant survival outcomes in HCC, and AFP incorporation improves risk stratification.",
-      "relevance": "Práctica clínica",
-      "pmid": "42998952",
-      "url": "https://doi.org/10.1016/j.hpb.2026.10.003",
-      "source": "HPB (Oxford)",
-      "date": "2026-Nov-7",
+      "bottomLineEs": "China es una fuente importante de ensayos oncológicos e innovación en modalidades, pero la escala por sí sola no garantiza un impacto global. La generación de evidencia globalmente relevante es clave.",
+      "bottomLineEn": "China is a major source of oncology trials and modality innovation, but scale alone won't ensure global impact. Generating globally relevant evidence is key.",
+      "relevance": "Emergente",
+      "pmid": "42999985",
+      "url": "https://doi.org/10.1158/2159-8290.CD-26-1628",
+      "source": "Cancer Discov",
+      "date": "2026-Nov-8",
       "topicId": "hcc"
     }
   ]
