@@ -1,55 +1,12 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T15:32:30.287Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T14:31:17.656Z",
   "count": 2,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "GABBR1: Biomarcador pronóstico regulado por cuproptosis en cáncer de páncreas, clave en fibroblastos",
-      "headlineEn": "GABBR1: Cuproptosis-regulated prognostic biomarker in pancreatic cancer, critical in fibroblasts",
-      "studyType": "Bioinformático/Translacional",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": "Identificación y validación de biomarcador pronóstico",
-      "primaryMetricLabelEn": "Identification and validation of prognostic biomarker",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "Fibroblastos asociados a cáncer (CAFs) son el principal tipo celular con elevada actividad de cuproptosis.",
-          "en": "Cancer-associated fibroblasts (CAFs) are the principal cell type with elevated cuproptosis activity."
-        },
-        {
-          "icon": "dna",
-          "es": "GABBR1 se identificó como un gen clave cuya expresión disminuye con la progresión del tumor.",
-          "en": "GABBR1 was identified as a key gene whose expression decreased with tumor progression."
-        },
-        {
-          "icon": "dna",
-          "es": "La expresión de GABBR1 se correlaciona negativamente con la progresión del CP y se vincula a genes de cuproptosis.",
-          "en": "GABBR1 expression negatively correlates with PC progression and links to cuproptosis-related genes."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Fibroblastos con niveles más altos de GABBR1 mostraron mayor expresión de genes de puntos de control inmunes y marcadores de activación de células T.",
-          "en": "Fibroblasts with higher GABBR1 levels exhibited increased expression of immune checkpoint genes and T-cell activation markers."
-        }
-      ],
-      "bottomLineEs": "La modulación de GABBR1 podría influir en las vías de cuproptosis, la sensibilidad apoptótica y la respuesta inmune en cáncer de páncreas.",
-      "bottomLineEn": "Modulating GABBR1 could influence cuproptosis pathways, apoptotic sensitivity, and immune responses in pancreatic cancer.",
-      "relevance": "Emergente",
-      "pmid": "42999371",
-      "url": "https://doi.org/10.1016/j.iliver.2026.100276",
-      "source": "ILIVER",
-      "date": "2026-Dec",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Transformación del desarrollo de fármacos oncológicos en China: Hacia una nueva fase de innovación",
-      "headlineEn": "Transformation of Oncology Drug Development in China: Toward a New Phase of Innovation",
+      "headlineEs": "Señalización RAS en cáncer: De mecanismos moleculares a inhibidores terapéuticos de nueva generación",
+      "headlineEn": "RAS Signaling in Cancer: From Molecular Mechanisms to Next-Generation Therapeutic Inhibitors",
       "studyType": "Revisión",
       "trialName": null,
       "n": null,
@@ -60,34 +17,77 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "shield-check",
-          "es": "El ecosistema oncológico chino evoluciona hacia una innovación basada en valor clínico tras reformas regulatorias.",
-          "en": "China's oncology ecosystem shifts to clinical value-driven innovation after regulatory reforms."
+          "icon": "dna",
+          "es": "Las proteínas RAS son interruptores moleculares clave; su desregulación impulsa la oncogénesis y progresión tumoral.",
+          "en": "RAS proteins are key molecular switches; their dysregulation drives oncogenesis and tumor progression."
         },
         {
-          "icon": "users",
-          "es": "La alta carga de enfermedad y capacidad de reclutamiento en China impulsan avances en HCC, cáncer de pulmón EGFR+ y otras neoplasias.",
-          "en": "High disease burden and enrollment capacity in China drive advances in HCC, EGFR+ lung cancer, and other malignancies."
+          "icon": "pill",
+          "es": "Avances incluyen inhibidores específicos de mutación (ej. KRAS G12C) y pan-RAS(ON) (RMC-7977, RMC-6236).",
+          "en": "Breakthroughs include mutation-specific (e.g., KRAS G12C) and pan-RAS(ON) inhibitors (RMC-7977, RMC-6236)."
+        },
+        {
+          "icon": "target",
+          "es": "El potencial terapéutico se enfatiza en adenocarcinoma de páncreas y cáncer de pulmón no microcítico.",
+          "en": "Therapeutic potential is emphasized in pancreatic ductal adenocarcinoma and non-small-cell lung cancer."
         },
         {
           "icon": "alert-triangle",
-          "es": "Persisten desafíos en la definición de biomarcadores, optimización de la ventana terapéutica y generación de evidencia globalmente interpretable.",
-          "en": "Challenges remain in biomarker definition, therapeutic window optimization, and globally interpretable evidence generation."
+          "es": "Desafíos clave para el beneficio clínico duradero incluyen selección de pacientes, biomarcadores y resistencia.",
+          "en": "Key challenges for durable clinical benefit include patient selection, biomarker development, and resistance."
+        }
+      ],
+      "bottomLineEs": "Las terapias dirigidas a RAS están transformando este oncogén, históricamente 'indrogable', en un objetivo cada vez más abordable en oncología de precisión.",
+      "bottomLineEn": "RAS-targeted therapies are transforming this historically 'undruggable' oncogene into an increasingly tractable target in precision oncology.",
+      "relevance": "Emergente",
+      "pmid": "43003238",
+      "url": "https://doi.org/10.1016/j.bbcan.2026.189751",
+      "source": "Biochim Biophys Acta Rev Cancer",
+      "date": "2026-Nov-9",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Declaración de Posición ENETS sobre MiNEN Digestivas: Diagnóstico y Tratamiento",
+      "headlineEn": "ENETS Position Statement on Digestive MiNEN: Diagnosis and Treatment",
+      "studyType": "Declaración de posición",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las MiNEN digestivas son neoplasias epiteliales raras con componentes neuroendocrinos y no neuroendocrinos (cada uno >30%).",
+          "en": "Digestive MiNEN are rare epithelial neoplasms with coexisting neuroendocrine and non-neuroendocrine components (each >30%)."
         },
         {
           "icon": "dna",
-          "es": "La inteligencia artificial podría optimizar el descubrimiento de dianas, el diseño de fármacos y los ensayos clínicos.",
-          "en": "Artificial intelligence may optimize target discovery, drug design, and clinical trials."
+          "es": "Estudios moleculares apoyan un origen clonal común y pueden identificar dianas accionables (MSI-high/dMMR, BRAF).",
+          "en": "Molecular studies support common clonal origin and may identify actionable targets (MSI-high/dMMR, BRAF)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "El manejo es desafiante; los tratamientos sistémicos se extrapolan de adenocarcinomas y carcinomas neuroendocrinos poco diferenciados.",
+          "en": "Management is challenging; systemic treatments are extrapolated from adenocarcinomas and poorly differentiated neuroendocrine carcinomas."
+        },
+        {
+          "icon": "users",
+          "es": "Es esencial el manejo multidisciplinar en centros expertos, revisión patológica centralizada y registros colaborativos.",
+          "en": "Multidisciplinary management in expert centers, centralized pathological review, and collaborative registries are essential."
         }
       ],
-      "bottomLineEs": "China es una fuente importante de ensayos oncológicos e innovación en modalidades, pero la escala por sí sola no garantiza un impacto global. La generación de evidencia globalmente relevante es clave.",
-      "bottomLineEn": "China is a major source of oncology trials and modality innovation, but scale alone won't ensure global impact. Generating globally relevant evidence is key.",
+      "bottomLineEs": "Las MiNEN digestivas son entidades raras y complejas con desafíos diagnósticos y terapéuticos. Se requiere un enfoque multidisciplinar y más investigación para optimizar su manejo.",
+      "bottomLineEn": "Digestive MiNEN are rare and complex entities with diagnostic and therapeutic challenges. A multidisciplinary approach and further research are needed to optimize management.",
       "relevance": "Emergente",
-      "pmid": "42999985",
-      "url": "https://doi.org/10.1158/2159-8290.CD-26-1628",
-      "source": "Cancer Discov",
-      "date": "2026-Nov-8",
-      "topicId": "hcc"
+      "pmid": "43003098",
+      "url": "https://doi.org/10.1111/jne.70306",
+      "source": "J Neuroendocrinol",
+      "date": "2026-Nov",
+      "topicId": "net"
     }
   ]
 }

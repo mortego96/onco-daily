@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T14:31:17.656Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Señalización RAS en cáncer: De mecanismos moleculares a inhibidores terapéuticos de nueva generación",
+      "headlineEn": "RAS Signaling in Cancer: From Molecular Mechanisms to Next-Generation Therapeutic Inhibitors",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las proteínas RAS son interruptores moleculares clave; su desregulación impulsa la oncogénesis y progresión tumoral.",
+          "en": "RAS proteins are key molecular switches; their dysregulation drives oncogenesis and tumor progression."
+        },
+        {
+          "icon": "pill",
+          "es": "Avances incluyen inhibidores específicos de mutación (ej. KRAS G12C) y pan-RAS(ON) (RMC-7977, RMC-6236).",
+          "en": "Breakthroughs include mutation-specific (e.g., KRAS G12C) and pan-RAS(ON) inhibitors (RMC-7977, RMC-6236)."
+        },
+        {
+          "icon": "target",
+          "es": "El potencial terapéutico se enfatiza en adenocarcinoma de páncreas y cáncer de pulmón no microcítico.",
+          "en": "Therapeutic potential is emphasized in pancreatic ductal adenocarcinoma and non-small-cell lung cancer."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Desafíos clave para el beneficio clínico duradero incluyen selección de pacientes, biomarcadores y resistencia.",
+          "en": "Key challenges for durable clinical benefit include patient selection, biomarker development, and resistance."
+        }
+      ],
+      "bottomLineEs": "Las terapias dirigidas a RAS están transformando este oncogén, históricamente 'indrogable', en un objetivo cada vez más abordable en oncología de precisión.",
+      "bottomLineEn": "RAS-targeted therapies are transforming this historically 'undruggable' oncogene into an increasingly tractable target in precision oncology.",
+      "relevance": "Emergente",
+      "pmid": "43003238",
+      "url": "https://doi.org/10.1016/j.bbcan.2026.189751",
+      "source": "Biochim Biophys Acta Rev Cancer",
+      "date": "2026-Nov-9",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Declaración de Posición ENETS sobre MiNEN Digestivas: Diagnóstico y Tratamiento",
+      "headlineEn": "ENETS Position Statement on Digestive MiNEN: Diagnosis and Treatment",
+      "studyType": "Declaración de posición",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las MiNEN digestivas son neoplasias epiteliales raras con componentes neuroendocrinos y no neuroendocrinos (cada uno >30%).",
+          "en": "Digestive MiNEN are rare epithelial neoplasms with coexisting neuroendocrine and non-neuroendocrine components (each >30%)."
+        },
+        {
+          "icon": "dna",
+          "es": "Estudios moleculares apoyan un origen clonal común y pueden identificar dianas accionables (MSI-high/dMMR, BRAF).",
+          "en": "Molecular studies support common clonal origin and may identify actionable targets (MSI-high/dMMR, BRAF)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "El manejo es desafiante; los tratamientos sistémicos se extrapolan de adenocarcinomas y carcinomas neuroendocrinos poco diferenciados.",
+          "en": "Management is challenging; systemic treatments are extrapolated from adenocarcinomas and poorly differentiated neuroendocrine carcinomas."
+        },
+        {
+          "icon": "users",
+          "es": "Es esencial el manejo multidisciplinar en centros expertos, revisión patológica centralizada y registros colaborativos.",
+          "en": "Multidisciplinary management in expert centers, centralized pathological review, and collaborative registries are essential."
+        }
+      ],
+      "bottomLineEs": "Las MiNEN digestivas son entidades raras y complejas con desafíos diagnósticos y terapéuticos. Se requiere un enfoque multidisciplinar y más investigación para optimizar su manejo.",
+      "bottomLineEn": "Digestive MiNEN are rare and complex entities with diagnostic and therapeutic challenges. A multidisciplinary approach and further research are needed to optimize management.",
+      "relevance": "Emergente",
+      "pmid": "43003098",
+      "url": "https://doi.org/10.1111/jne.70306",
+      "source": "J Neuroendocrinol",
+      "date": "2026-Nov",
+      "topicId": "net"
+    }
+  ]
+}
