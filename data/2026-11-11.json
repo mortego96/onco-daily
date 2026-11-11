@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T13:46:14.901Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Biblioteca de TCRs potentes contra neoantígenos KRAS G12D y G12V",
+      "headlineEn": "Potent TCR Library Targeting KRAS G12D and G12V Neoantigens",
+      "studyType": "Preclínico / Desarrollo de herramientas",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Biblioteca de TCRs cubre ~25% de pacientes con adenocarcinoma ductal de páncreas y 10% con cáncer colorrectal.",
+          "en": "TCR library covers ~25% of pancreatic ductal adenocarcinoma and 10% of colorectal cancer patients."
+        },
+        {
+          "icon": "target",
+          "es": "Los TCRs muestran fuerte avidez y citotoxicidad, comparables a TCRs de referencia existentes.",
+          "en": "TCRs demonstrate strong avidity and cytotoxicity, comparable to existing benchmark TCRs."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Algunos TCRs G12V/HLA-C*01:02 reconocen epítopo KRAS wild-type, pero su baja abundancia podría crear una ventana terapéutica.",
+          "en": "Some G12V/HLA-C*01:02 TCRs recognize wild-type KRAS epitope; low abundance may offer a therapeutic window."
+        },
+        {
+          "icon": "dna",
+          "es": "TCRs reconocen KRAS G12V en HLA-C*03:03 y HLA-C*03:04 indistintamente, resultando en un neoantígeno de alta frecuencia.",
+          "en": "TCRs recognize KRAS G12V on HLA-C*03:03 and HLA-C*03:04 interchangeably, leading to a high-frequency neoantigen."
+        }
+      ],
+      "bottomLineEs": "Esta biblioteca de TCRs dirigidos a mKRAS ofrece candidatos prometedores para el desarrollo preclínico y clínico de terapias celulares.",
+      "bottomLineEn": "This mKRAS-targeted TCR library provides promising candidates for preclinical and clinical development of cell therapies.",
+      "relevance": "Preclínico",
+      "pmid": "43008135",
+      "url": "https://doi.org/10.1158/2326-6066.CIR-26-0724",
+      "source": "Cancer Immunol Res",
+      "date": "2026-Nov-10",
+      "topicId": "kras"
+    }
+  ]
+}
