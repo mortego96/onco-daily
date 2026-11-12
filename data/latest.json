@@ -1,13 +1,56 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T13:46:14.901Z",
-  "count": 1,
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T14:49:09.134Z",
+  "count": 2,
   "cards": [
     {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Biblioteca de TCRs potentes contra neoantígenos KRAS G12D y G12V",
-      "headlineEn": "Potent TCR Library Targeting KRAS G12D and G12V Neoantigens",
-      "studyType": "Preclínico / Desarrollo de herramientas",
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "CA19-9 preoperatorio: Valor pronóstico variable tras resección de colangiocarcinoma intrahepático hilar.",
+      "headlineEn": "Preoperative CA19-9: Time-Dependent Prognostic Value After Hilar Intrahepatic Cholangiocarcinoma Resection.",
+      "studyType": "Retrospectivo, Cohorte",
+      "trialName": null,
+      "n": "253 pacientes",
+      "primaryMetricLabelEs": "Asociación con recurrencia",
+      "primaryMetricLabelEn": "Association with recurrence",
+      "arms": [],
+      "hr": "3.43 (IC95% 2.01–5.84)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "253 pacientes con colangiocarcinoma intrahepático tipo hilar sometidos a resección curativa.",
+          "en": "253 patients with hilar-type intrahepatic cholangiocarcinoma undergoing curative resection."
+        },
+        {
+          "icon": "dna",
+          "es": "El CA19-9 preoperatorio es un marcador pronóstico establecido.",
+          "en": "Preoperative CA19-9 is an established prognostic marker."
+        },
+        {
+          "icon": "clock",
+          "es": "Asociación más fuerte de CA19-9 ≥500 U/mL con recurrencia después del primer año libre de eventos (HR 3.43).",
+          "en": "Stronger association of CA19-9 ≥500 U/mL with recurrence after an event-free first year (HR 3.43)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La asociación varió por era calendario y no se reprodujo claramente en el subgrupo 2017-2023.",
+          "en": "Association varied by calendar year and not clearly reproduced in the 2017-2023 subgroup."
+        }
+      ],
+      "bottomLineEs": "El CA19-9 basal elevado mostró una asociación más fuerte con la recurrencia después de un primer año libre de eventos. Sin embargo, la heterogeneidad por era y otras limitaciones impiden establecer estrategias de tratamiento o vigilancia.",
+      "bottomLineEn": "High baseline CA19-9 showed a stronger association with recurrence after an event-free first year. However, era heterogeneity and other limitations prevent establishing treatment or surveillance strategies.",
+      "relevance": "Emergente",
+      "pmid": "43013967",
+      "url": "https://doi.org/10.1016/j.ejso.2026.112360",
+      "source": "Eur J Surg Oncol",
+      "date": "2026-Nov-6",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Estrategias para superar la resistencia a Sorafenib en Carcinoma Hepatocelular",
+      "headlineEn": "Strategies to overcome Sorafenib resistance in Hepatocellular Carcinoma",
+      "studyType": "Revisión sistemática",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -17,34 +60,29 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "Biblioteca de TCRs cubre ~25% de pacientes con adenocarcinoma ductal de páncreas y 10% con cáncer colorrectal.",
-          "en": "TCR library covers ~25% of pancreatic ductal adenocarcinoma and 10% of colorectal cancer patients."
+          "icon": "dna",
+          "es": "La resistencia a sorafenib en HCC se debe a la activación compensatoria de vías como PI3K/AKT/mTOR y JAK/STAT, y la sobreexpresión de transportadores de eflujo.",
+          "en": "Sorafenib resistance in HCC arises from compensatory activation of pathways like PI3K/AKT/mTOR and JAK/STAT, and upregulation of efflux transporters."
+        },
+        {
+          "icon": "pill",
+          "es": "Las terapias combinadas con compuestos naturales (berberina), inhibidores de tirosina quinasa de segunda generación (Regorafenib, Lenvatinib) e inhibidores de puntos de control inmunitario (Nivolumab, Atezolizumab) muestran potencial.",
+          "en": "Combination therapies with natural compounds (berberine), second-generation TKIs (Regorafenib, Lenvatinib), and immune checkpoint inhibitors (Nivolumab, Atezolizumab) show promise."
         },
         {
           "icon": "target",
-          "es": "Los TCRs muestran fuerte avidez y citotoxicidad, comparables a TCRs de referencia existentes.",
-          "en": "TCRs demonstrate strong avidity and cytotoxicity, comparable to existing benchmark TCRs."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Algunos TCRs G12V/HLA-C*01:02 reconocen epítopo KRAS wild-type, pero su baja abundancia podría crear una ventana terapéutica.",
-          "en": "Some G12V/HLA-C*01:02 TCRs recognize wild-type KRAS epitope; low abundance may offer a therapeutic window."
-        },
-        {
-          "icon": "dna",
-          "es": "TCRs reconocen KRAS G12V en HLA-C*03:03 y HLA-C*03:04 indistintamente, resultando en un neoantígeno de alta frecuencia.",
-          "en": "TCRs recognize KRAS G12V on HLA-C*03:03 and HLA-C*03:04 interchangeably, leading to a high-frequency neoantigen."
+          "es": "La inteligencia artificial (IA) en radiómica, genómica y modelado predictivo ofrece alta precisión para optimizar el diagnóstico y la selección de terapia en HCC.",
+          "en": "Artificial intelligence (AI) in radiomics, genomics, and predictive modeling offers high accuracy for optimizing HCC diagnosis and therapy selection."
         }
       ],
-      "bottomLineEs": "Esta biblioteca de TCRs dirigidos a mKRAS ofrece candidatos prometedores para el desarrollo preclínico y clínico de terapias celulares.",
-      "bottomLineEn": "This mKRAS-targeted TCR library provides promising candidates for preclinical and clinical development of cell therapies.",
-      "relevance": "Preclínico",
-      "pmid": "43008135",
-      "url": "https://doi.org/10.1158/2326-6066.CIR-26-0724",
-      "source": "Cancer Immunol Res",
-      "date": "2026-Nov-10",
-      "topicId": "kras"
+      "bottomLineEs": "Superar las limitaciones de sorafenib en HCC avanzado requiere el desarrollo de terapias combinadas, personalización basada en biomarcadores y la integración validada de la IA en la práctica clínica.",
+      "bottomLineEn": "Overcoming sorafenib limitations in advanced HCC demands combination therapies, biomarker-based personalization, and validated AI integration into clinical practice.",
+      "relevance": "Emergente",
+      "pmid": "43015971",
+      "url": "https://doi.org/10.2174/0118715206388518251227044948",
+      "source": "Anticancer Agents Med Chem",
+      "date": "2026",
+      "topicId": "hcc"
     }
   ]
 }
