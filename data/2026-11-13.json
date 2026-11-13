@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T14:08:30.134Z",
+  "count": 2,
+  "cards": [
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Nutracéuticos: Estrategia prometedora contra la fibrosis hepática en MASLD",
+      "headlineEn": "Nutraceuticals: Promising Strategy Against Liver Fibrosis in MASLD",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Nutracéuticos ejercen efectos antiinflamatorios, antioxidantes y antifibróticos directos.",
+          "en": "Nutraceuticals exert anti-inflammatory, antioxidant, and direct anti-fibrotic effects."
+        },
+        {
+          "icon": "dna",
+          "es": "Incluyen polifenoles (resveratrol, curcumina), ácidos grasos omega-3 y vitamina E.",
+          "en": "Examples include polyphenols (resveratrol, curcumin), omega-3 fatty acids, and vitamin E."
+        },
+        {
+          "icon": "target",
+          "es": "Modulan vías clave de fibrogénesis, como la activación de células estrelladas hepáticas.",
+          "en": "Modulate key fibrogenesis pathways, such as hepatic stellate cell activation."
+        }
+      ],
+      "bottomLineEs": "Los nutracéuticos ofrecen un enfoque prometedor y multifacético para la protección hepática al abordar la desregulación metabólica subyacente y los impulsores de la cicatrización fibrótica.",
+      "bottomLineEn": "Nutraceuticals offer a promising, multifaceted approach to liver protection by targeting underlying metabolic dysregulation and core drivers of fibrotic scarring.",
+      "relevance": "Emergente",
+      "pmid": "43021927",
+      "url": "https://doi.org/10.1007/s10068-026-02236-3",
+      "source": "Food Sci Biotechnol",
+      "date": "2026-Dec",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Avances en diagnóstico y terapia dirigida del cáncer de páncreas",
+      "headlineEn": "Advances in Pancreatic Cancer Diagnosis and Targeted Therapy",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "El cáncer de páncreas (PDAC) es una neoplasia agresiva con baja supervivencia a 5 años.",
+          "en": "Pancreatic cancer (PDAC) is an aggressive malignancy with low 5-year survival."
+        },
+        {
+          "icon": "dna",
+          "es": "Las anomalías genéticas como KRAS y p53 son causas predominantes del crecimiento tumoral.",
+          "en": "Genetic abnormalities like KRAS and p53 are predominant causes of tumor growth."
+        },
+        {
+          "icon": "target",
+          "es": "Se necesitan nuevos biomarcadores para el diagnóstico temprano y terapias dirigidas para mejorar la supervivencia.",
+          "en": "Novel biomarkers are needed for early diagnosis and targeted therapies to improve survival."
+        },
+        {
+          "icon": "pill",
+          "es": "Las terapias dirigidas buscan mejorar la especificidad y eficacia, reduciendo el daño a tejido sano.",
+          "en": "Targeted therapies aim to enhance specificity and efficacy, reducing injury to healthy tissue."
+        }
+      ],
+      "bottomLineEs": "Esta revisión destaca la necesidad crítica de biomarcadores novedosos para el diagnóstico temprano y enfoques de terapia dirigida para el cáncer de páncreas, con varios productos prometedores en ensayos clínicos.",
+      "bottomLineEn": "This review highlights the critical need for novel biomarkers for early diagnosis and targeted therapy approaches for pancreatic cancer, with several promising products in clinical trials.",
+      "relevance": "Emergente",
+      "pmid": "43017793",
+      "url": "https://doi.org/10.2174/0118715206429348260126061757",
+      "source": "Anticancer Agents Med Chem",
+      "date": "2026",
+      "topicId": "kras"
+    }
+  ]
+}
