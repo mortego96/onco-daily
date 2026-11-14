@@ -1,12 +1,55 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T14:08:30.134Z",
-  "count": 2,
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T13:10:35.954Z",
+  "count": 4,
   "cards": [
     {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Nutracéuticos: Estrategia prometedora contra la fibrosis hepática en MASLD",
-      "headlineEn": "Nutraceuticals: Promising Strategy Against Liver Fibrosis in MASLD",
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Inmunorreactividad MAGEA3 (OTI1H1) y supervivencia en adenocarcinoma de páncreas",
+      "headlineEn": "MAGEA3 (OTI1H1) Immunoreactivity and Survival in Pancreatic Adenocarcinoma",
+      "studyType": "Estudio de cohorte retrospectivo",
+      "trialName": null,
+      "n": "76",
+      "primaryMetricLabelEs": "Supervivencia global",
+      "primaryMetricLabelEn": "Overall Survival",
+      "arms": [],
+      "hr": "0.745 (IC95% 0.417–1.331)",
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "76 pacientes con PDAC sometidos a resección quirúrgica.",
+          "en": "76 PDAC patients who underwent surgical resection."
+        },
+        {
+          "icon": "dna",
+          "es": "Evaluación de la inmunorreactividad MAGEA3 (definida por OTI1H1) en tumores.",
+          "en": "Evaluation of MAGEA3 (OTI1H1-defined) immunoreactivity in tumors."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "No se observó una asociación estadísticamente clara con la supervivencia global.",
+          "en": "No statistically clear association with overall survival was observed."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La tinción OTI1H1 tiene reactividad cruzada con otras proteínas MAGE-A.",
+          "en": "OTI1H1 staining has known cross-reactivity with other MAGE-A proteins."
+        }
+      ],
+      "bottomLineEs": "En esta cohorte, la inmunorreactividad MAGEA3 definida por OTI1H1 no mostró una asociación estadísticamente clara con la supervivencia global en pacientes con PDAC resecado. Se necesitan validaciones moleculares ortogonales.",
+      "bottomLineEn": "In this cohort, OTI1H1-defined MAGEA3 immunoreactivity showed no statistically clear association with overall survival in resected PDAC patients. Orthogonal molecular validation is needed.",
+      "relevance": "Emergente",
+      "pmid": "43030420",
+      "url": "https://doi.org/10.3390/jcm15218276",
+      "source": "J Clin Med",
+      "date": "2026-Oct-24",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "cHCC-CCA: Manejo Clínico y Panorama Molecular",
+      "headlineEn": "cHCC-CCA: Clinical Management and Molecular Landscape",
       "studyType": "Revisión",
       "trialName": null,
       "n": null,
@@ -17,35 +60,40 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "pill",
-          "es": "Nutracéuticos ejercen efectos antiinflamatorios, antioxidantes y antifibróticos directos.",
-          "en": "Nutraceuticals exert anti-inflammatory, antioxidant, and direct anti-fibrotic effects."
+          "icon": "alert-triangle",
+          "es": "El cHCC-CCA es un cáncer hepático primario raro y agresivo (0.4-14.2% de los cánceres hepáticos primarios).",
+          "en": "cHCC-CCA is a rare, aggressive primary liver cancer (0.4-14.2% of primary liver cancers)."
         },
         {
           "icon": "dna",
-          "es": "Incluyen polifenoles (resveratrol, curcumina), ácidos grasos omega-3 y vitamina E.",
-          "en": "Examples include polyphenols (resveratrol, curcumin), omega-3 fatty acids, and vitamin E."
+          "es": "El 75% de los cHCC-CCA son tipo HCC o CCA, con alteraciones accionables (FGFR2, IDH1, HER2) en subtipos biliares.",
+          "en": "75% of cHCC-CCA are HCC-like or CCA-like, with actionable alterations (FGFR2, IDH1, HER2) in biliary subtypes."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Hepatectomía con linfadenectomía es el tratamiento curativo fundamental; el trasplante hepático es opción para seleccionados.",
+          "en": "Hepatectomy with lymphadenectomy is fundamental curative treatment; liver transplant is an option for selected patients."
         },
         {
           "icon": "target",
-          "es": "Modulan vías clave de fibrogénesis, como la activación de células estrelladas hepáticas.",
-          "en": "Modulate key fibrogenesis pathways, such as hepatic stellate cell activation."
+          "es": "En enfermedad avanzada, gemcitabina/platino es estándar; ICI (atezolizumab/bevacizumab) y TKIs muestran perspectivas prometedoras.",
+          "en": "In advanced disease, gemcitabine/platinum is standard; ICIs (atezolizumab/bevacizumab) and TKIs show promising prospects."
         }
       ],
-      "bottomLineEs": "Los nutracéuticos ofrecen un enfoque prometedor y multifacético para la protección hepática al abordar la desregulación metabólica subyacente y los impulsores de la cicatrización fibrótica.",
-      "bottomLineEn": "Nutraceuticals offer a promising, multifaceted approach to liver protection by targeting underlying metabolic dysregulation and core drivers of fibrotic scarring.",
-      "relevance": "Emergente",
-      "pmid": "43021927",
-      "url": "https://doi.org/10.1007/s10068-026-02236-3",
-      "source": "Food Sci Biotechnol",
-      "date": "2026-Dec",
-      "topicId": "hcc"
+      "bottomLineEs": "El cHCC-CCA es un cáncer hepático raro y complejo. La reclasificación de la OMS y el perfilado molecular mejoran el diagnóstico y abren vías para la oncología de precisión y nuevas terapias.",
+      "bottomLineEn": "cHCC-CCA is a rare and complex liver cancer. WHO reclassification and molecular profiling improve diagnosis and open avenues for precision oncology and novel therapies.",
+      "relevance": "Práctica clínica",
+      "pmid": "43030573",
+      "url": "https://doi.org/10.3390/jcm15218429",
+      "source": "J Clin Med",
+      "date": "2026-Oct-29",
+      "topicId": "biliary"
     },
     {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Avances en diagnóstico y terapia dirigida del cáncer de páncreas",
-      "headlineEn": "Advances in Pancreatic Cancer Diagnosis and Targeted Therapy",
-      "studyType": "Revisión sistemática",
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Carcinoma Neuroendocrino de Células Grandes Pulmonar: Heterogeneidad y Tratamiento Actual",
+      "headlineEn": "Pulmonary LCNEC: Heterogeneity, Current Treatment, and Precision Oncology",
+      "studyType": "Revisión narrativa",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -55,33 +103,76 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "El cáncer de páncreas (PDAC) es una neoplasia agresiva con baja supervivencia a 5 años.",
-          "en": "Pancreatic cancer (PDAC) is an aggressive malignancy with low 5-year survival."
+          "icon": "alert-triangle",
+          "es": "El LCNEC pulmonar es un cáncer raro y agresivo con heterogeneidad biológica sustancial.",
+          "en": "Pulmonary LCNEC is a rare, aggressive malignancy with substantial biological heterogeneity."
         },
         {
           "icon": "dna",
-          "es": "Las anomalías genéticas como KRAS y p53 son causas predominantes del crecimiento tumoral.",
-          "en": "Genetic abnormalities like KRAS and p53 are predominant causes of tumor growth."
-        },
-        {
-          "icon": "target",
-          "es": "Se necesitan nuevos biomarcadores para el diagnóstico temprano y terapias dirigidas para mejorar la supervivencia.",
-          "en": "Novel biomarkers are needed for early diagnosis and targeted therapies to improve survival."
+          "es": "Estudios genómicos muestran espectros SCLC-like y NSCLC-like, pero la morfología es clave para el diagnóstico.",
+          "en": "Genomic studies show SCLC-like and NSCLC-like spectra; morphology is essential for diagnosis."
         },
         {
           "icon": "pill",
-          "es": "Las terapias dirigidas buscan mejorar la especificidad y eficacia, reduciendo el daño a tejido sano.",
-          "en": "Targeted therapies aim to enhance specificity and efficacy, reducing injury to healthy tissue."
+          "es": "La cirugía con evaluación nodal es central en enfermedad resecable; quimioterapia postoperatoria con platino es preferida.",
+          "en": "Surgery with nodal assessment is central for resectable disease; postoperative platinum chemotherapy is preferred."
+        },
+        {
+          "icon": "target",
+          "es": "En enfermedad avanzada, platino-etopósido es el régimen de referencia. No hay segunda línea estándar establecida.",
+          "en": "For advanced disease, platinum-etoposide is a reference regimen. No standard second-line is established."
         }
       ],
-      "bottomLineEs": "Esta revisión destaca la necesidad crítica de biomarcadores novedosos para el diagnóstico temprano y enfoques de terapia dirigida para el cáncer de páncreas, con varios productos prometedores en ensayos clínicos.",
-      "bottomLineEn": "This review highlights the critical need for novel biomarkers for early diagnosis and targeted therapy approaches for pancreatic cancer, with several promising products in clinical trials.",
+      "bottomLineEs": "El LCNEC pulmonar es un tumor heterogéneo que requiere un enfoque diagnóstico y terapéutico integrado. La cirugía es clave en enfermedad resecable y el platino-etopósido en avanzado. Se necesitan más estudios para la medicina de precisión.",
+      "bottomLineEn": "Pulmonary LCNEC is a heterogeneous tumor requiring an integrated diagnostic and therapeutic approach. Surgery is key for resectable disease, and platinum-etoposide for advanced. Further studies are needed for precision medicine.",
       "relevance": "Emergente",
-      "pmid": "43017793",
-      "url": "https://doi.org/10.2174/0118715206429348260126061757",
-      "source": "Anticancer Agents Med Chem",
-      "date": "2026",
+      "pmid": "43026905",
+      "url": "https://doi.org/10.3390/cancers18213585",
+      "source": "Cancers (Basel)",
+      "date": "2026-Nov-7",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Receptor CCKBR: Biomarcador Diagnóstico y Diana Terapéutica en Cáncer de Páncreas",
+      "headlineEn": "CCKBR Receptor: Diagnostic Biomarker and Therapeutic Target in Pancreatic Cancer",
+      "studyType": "Estudio traslacional",
+      "trialName": null,
+      "n": "506 (humanos) + modelos murinos",
+      "primaryMetricLabelEs": "Expresión y potencial de CCKBR",
+      "primaryMetricLabelEn": "CCKBR expression and potential",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "CCKBR muestra una sobreexpresión binaria significativa en tejido maligno de páncreas vs. normal (p < 10^-10).",
+          "en": "CCKBR shows profound, binary-like upregulation in malignant pancreatic tissue vs. normal (p < 10^-10)."
+        },
+        {
+          "icon": "dna",
+          "es": "El SNP germinal rs1800843 de CCKBR, que causa un mis-splicing, se identificó en ~40% de pacientes con PDAC.",
+          "en": "Germline SNP rs1800843 of CCKBR, causing mis-splicing, identified in ~40% of PDAC patients."
+        },
+        {
+          "icon": "target",
+          "es": "La proteína CCKBR está ausente en páncreas normal, pero aumenta en lesiones PanIN precancerosas y cáncer.",
+          "en": "CCKBR protein is absent in normal pancreas but increased in precancerous PanIN lesions and cancer."
+        },
+        {
+          "icon": "pill",
+          "es": "Nanopartículas fluorescentes dirigidas a CCKBR mostraron captación en lesiones PanIN de ratones KC.",
+          "en": "Fluorescent CCKBR-targeted nanoparticles showed uptake in PanIN lesions of KC mice."
+        }
+      ],
+      "bottomLineEs": "Estos hallazgos posicionan al receptor CCKBR como un biomarcador diagnóstico prometedor y una diana terapéutica potencial para la oncología de precisión en cáncer de páncreas.",
+      "bottomLineEn": "These findings position the CCKBR receptor as a promising diagnostic biomarker and a potential therapeutic target for precision oncology in pancreatic cancer.",
+      "relevance": "Emergente",
+      "pmid": "43026872",
+      "url": "https://doi.org/10.3390/cancers18213551",
+      "source": "Cancers (Basel)",
+      "date": "2026-Nov-5",
       "topicId": "kras"
     }
   ]
