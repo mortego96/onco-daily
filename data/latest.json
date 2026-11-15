@@ -1,57 +1,57 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T13:10:35.954Z",
-  "count": 4,
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T13:39:27.276Z",
+  "count": 3,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Inmunorreactividad MAGEA3 (OTI1H1) y supervivencia en adenocarcinoma de páncreas",
-      "headlineEn": "MAGEA3 (OTI1H1) Immunoreactivity and Survival in Pancreatic Adenocarcinoma",
-      "studyType": "Estudio de cohorte retrospectivo",
+      "headlineEs": "Nanoterapia biomimética con GEM y shELF3 induce piroptosis y mejora supervivencia en PDAC.",
+      "headlineEn": "Biomimetic Nanotherapy with GEM and shELF3 Induces Pyroptosis, Improves Survival in PDAC.",
+      "studyType": "Preclínico",
       "trialName": null,
-      "n": "76",
-      "primaryMetricLabelEs": "Supervivencia global",
-      "primaryMetricLabelEn": "Overall Survival",
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia prolongada",
+      "primaryMetricLabelEn": "Prolonged survival",
       "arms": [],
-      "hr": "0.745 (IC95% 0.417–1.331)",
+      "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "users",
-          "es": "76 pacientes con PDAC sometidos a resección quirúrgica.",
-          "en": "76 PDAC patients who underwent surgical resection."
-        },
-        {
           "icon": "dna",
-          "es": "Evaluación de la inmunorreactividad MAGEA3 (definida por OTI1H1) en tumores.",
-          "en": "Evaluation of MAGEA3 (OTI1H1-defined) immunoreactivity in tumors."
+          "es": "ELF3 es un factor transcripcional oncogénico clave que promueve el crecimiento tumoral y la quimiorresistencia en PDAC.",
+          "en": "ELF3 is a key oncogenic transcription factor promoting tumor growth and chemoresistance in PDAC."
         },
         {
-          "icon": "alert-triangle",
-          "es": "No se observó una asociación estadísticamente clara con la supervivencia global.",
-          "en": "No statistically clear association with overall survival was observed."
+          "icon": "pill",
+          "es": "Nanoplataforma biomimética (CNPs) co-administra gemcitabina y shRNA anti-ELF3 para mejorar la especificidad tumoral.",
+          "en": "Biomimetic nanoplatform (CNPs) co-delivers gemcitabine and ELF3-targeting shRNA for improved tumor specificity."
         },
         {
-          "icon": "shield-check",
-          "es": "La tinción OTI1H1 tiene reactividad cruzada con otras proteínas MAGE-A.",
-          "en": "OTI1H1 staining has known cross-reactivity with other MAGE-A proteins."
+          "icon": "target",
+          "es": "La nanoterapia activa la piroptosis dependiente de caspasa-3/GSDME, potenciando la citotoxicidad in vitro.",
+          "en": "Nanotherapy activates caspase-3/GSDME-dependent pyroptosis, enhancing in vitro cytotoxicity."
+        },
+        {
+          "icon": "clock",
+          "es": "En modelos murinos, la terapia suprimió el crecimiento tumoral y prolongó significativamente la supervivencia con buena bioseguridad.",
+          "en": "In murine models, therapy suppressed tumor growth and significantly prolonged survival with favorable biosafety."
         }
       ],
-      "bottomLineEs": "En esta cohorte, la inmunorreactividad MAGEA3 definida por OTI1H1 no mostró una asociación estadísticamente clara con la supervivencia global en pacientes con PDAC resecado. Se necesitan validaciones moleculares ortogonales.",
-      "bottomLineEn": "In this cohort, OTI1H1-defined MAGEA3 immunoreactivity showed no statistically clear association with overall survival in resected PDAC patients. Orthogonal molecular validation is needed.",
-      "relevance": "Emergente",
-      "pmid": "43030420",
-      "url": "https://doi.org/10.3390/jcm15218276",
-      "source": "J Clin Med",
-      "date": "2026-Oct-24",
+      "bottomLineEs": "La combinación del silenciamiento de ELF3 con gemcitabina mediante nanocarriers biomiméticos es una estrategia sinérgica prometedora para sensibilizar tumores pancreáticos.",
+      "bottomLineEn": "Combining ELF3 silencing with gemcitabine via biomimetic nanocarriers presents a promising synergistic strategy to sensitize pancreatic tumors.",
+      "relevance": "Preclínico",
+      "pmid": "43033883",
+      "url": "https://doi.org/10.1016/j.phrs.2026.109749",
+      "source": "Pharmacol Res",
+      "date": "2026-Nov-14",
       "topicId": "pdac"
     },
     {
       "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "cHCC-CCA: Manejo Clínico y Panorama Molecular",
-      "headlineEn": "cHCC-CCA: Clinical Management and Molecular Landscape",
-      "studyType": "Revisión",
-      "trialName": null,
+      "headlineEs": "Lirafugratinib: Primer inhibidor selectivo de FGFR2 aprobado para colangiocarcinoma avanzado",
+      "headlineEn": "Lirafugratinib: First-in-class selective FGFR2 inhibitor approved for advanced cholangiocarcinoma",
+      "studyType": "Ensayo clínico",
+      "trialName": "ReFocus",
       "n": null,
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
@@ -60,42 +60,42 @@
       "pfs": null,
       "facts": [
         {
-          "icon": "alert-triangle",
-          "es": "El cHCC-CCA es un cáncer hepático primario raro y agresivo (0.4-14.2% de los cánceres hepáticos primarios).",
-          "en": "cHCC-CCA is a rare, aggressive primary liver cancer (0.4-14.2% of primary liver cancers)."
+          "icon": "users",
+          "es": "Aprobado por la FDA para pacientes adultos con colangiocarcinoma localmente avanzado o metastásico, previamente tratado, con fusión/reordenamiento de FGFR2.",
+          "en": "FDA approved for adult patients with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma harboring an FGFR2 fusion/rearrangement."
         },
         {
           "icon": "dna",
-          "es": "El 75% de los cHCC-CCA son tipo HCC o CCA, con alteraciones accionables (FGFR2, IDH1, HER2) en subtipos biliares.",
-          "en": "75% of cHCC-CCA are HCC-like or CCA-like, with actionable alterations (FGFR2, IDH1, HER2) in biliary subtypes."
+          "es": "Inhibidor altamente selectivo de FGFR2 (>250x sobre FGFR1), diseñado para unirse covalentemente a Cys491 en FGFR2.",
+          "en": "Highly selective FGFR2 inhibitor (>250x over FGFR1), engineered to covalently engage Cys491 in FGFR2."
         },
         {
           "icon": "shield-check",
-          "es": "Hepatectomía con linfadenectomía es el tratamiento curativo fundamental; el trasplante hepático es opción para seleccionados.",
-          "en": "Hepatectomy with lymphadenectomy is fundamental curative treatment; liver transplant is an option for selected patients."
+          "es": "Mitiga la hiperfosfatemia y supera mutaciones de resistencia como V564F, que causan impedimento estérico.",
+          "en": "Mitigates hyperphosphatemia and overcomes steric clash resistance mutations (e.g., V564F)."
         },
         {
-          "icon": "target",
-          "es": "En enfermedad avanzada, gemcitabina/platino es estándar; ICI (atezolizumab/bevacizumab) y TKIs muestran perspectivas prometedoras.",
-          "en": "In advanced disease, gemcitabine/platinum is standard; ICIs (atezolizumab/bevacizumab) and TKIs show promising prospects."
+          "icon": "pill",
+          "es": "Demostró eficacia clínica robusta y duradera con un perfil de seguridad altamente manejable.",
+          "en": "Demonstrated robust, durable clinical efficacy with a highly manageable safety profile."
         }
       ],
-      "bottomLineEs": "El cHCC-CCA es un cáncer hepático raro y complejo. La reclasificación de la OMS y el perfilado molecular mejoran el diagnóstico y abren vías para la oncología de precisión y nuevas terapias.",
-      "bottomLineEn": "cHCC-CCA is a rare and complex liver cancer. WHO reclassification and molecular profiling improve diagnosis and open avenues for precision oncology and novel therapies.",
+      "bottomLineEs": "Lirafugratinib (Lyrfigtu) es el primer inhibidor selectivo de FGFR2 aprobado por la FDA para colangiocarcinoma avanzado con alteraciones de FGFR2. Su diseño molecular único confiere alta selectividad, reduce la toxicidad por hiperfosfatemia y supera mecanismos de resistencia, ofreciendo una nueva opción terapéutica.",
+      "bottomLineEn": "Lirafugratinib (Lyrfigtu) is the first FDA-approved selective FGFR2 inhibitor for advanced cholangiocarcinoma with FGFR2 alterations. Its unique molecular design confers high selectivity, reduces hyperphosphatemia toxicity, and overcomes resistance mechanisms, offering a new therapeutic option.",
       "relevance": "Práctica clínica",
-      "pmid": "43030573",
-      "url": "https://doi.org/10.3390/jcm15218429",
-      "source": "J Clin Med",
-      "date": "2026-Oct-29",
+      "pmid": "43033245",
+      "url": "https://doi.org/10.1007/s00044-026-03641-3",
+      "source": "Med Chem Res",
+      "date": "2026-Nov-14",
       "topicId": "biliary"
     },
     {
       "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Carcinoma Neuroendocrino de Células Grandes Pulmonar: Heterogeneidad y Tratamiento Actual",
-      "headlineEn": "Pulmonary LCNEC: Heterogeneity, Current Treatment, and Precision Oncology",
-      "studyType": "Revisión narrativa",
+      "headlineEs": "Carcinoma de Células de Merkel: Experiencia de 15 años en un centro terciario del Reino Unido",
+      "headlineEn": "Merkel Cell Carcinoma: 15-Year Outcomes from a UK Tertiary Center",
+      "studyType": "Estudio retrospectivo",
       "trialName": null,
-      "n": null,
+      "n": "81",
       "primaryMetricLabelEs": null,
       "primaryMetricLabelEn": null,
       "arms": [],
@@ -103,77 +103,34 @@
       "pfs": null,
       "facts": [
         {
+          "icon": "users",
+          "es": "Estudio retrospectivo de 81 pacientes con Carcinoma de Células de Merkel en un centro terciario del Reino Unido (2008-2022).",
+          "en": "Retrospective study of 81 Merkel Cell Carcinoma patients at a UK tertiary center (2008-2022)."
+        },
+        {
           "icon": "alert-triangle",
-          "es": "El LCNEC pulmonar es un cáncer raro y agresivo con heterogeneidad biológica sustancial.",
-          "en": "Pulmonary LCNEC is a rare, aggressive malignancy with substantial biological heterogeneity."
+          "es": "El 40% de los pacientes se presentó con enfermedad metastásica; el 42% de estos con metástasis en ganglios linfáticos regionales.",
+          "en": "40% of patients presented with metastatic disease; 42% of these had regional lymph node metastases."
         },
         {
           "icon": "dna",
-          "es": "Estudios genómicos muestran espectros SCLC-like y NSCLC-like, pero la morfología es clave para el diagnóstico.",
-          "en": "Genomic studies show SCLC-like and NSCLC-like spectra; morphology is essential for diagnosis."
+          "es": "La biopsia de ganglio centinela (SLNB) fue positiva en el 40% de los casos, sugiriendo valor pronóstico, pero sin beneficio en supervivencia.",
+          "en": "Sentinel lymph node biopsy (SLNB) was positive in 40% of cases, suggesting prognostic value, but no survival benefit."
         },
         {
-          "icon": "pill",
-          "es": "La cirugía con evaluación nodal es central en enfermedad resecable; quimioterapia postoperatoria con platino es preferida.",
-          "en": "Surgery with nodal assessment is central for resectable disease; postoperative platinum chemotherapy is preferred."
-        },
-        {
-          "icon": "target",
-          "es": "En enfermedad avanzada, platino-etopósido es el régimen de referencia. No hay segunda línea estándar establecida.",
-          "en": "For advanced disease, platinum-etoposide is a reference regimen. No standard second-line is established."
+          "icon": "shield-check",
+          "es": "El manejo multidisciplinar y el tratamiento rápido y temprano son clave, con evolución de terapias adyuvantes (radioterapia y sistémica).",
+          "en": "Multidisciplinary management and rapid, earlier treatment are key, with evolving adjuvant therapies (radiotherapy and systemic)."
         }
       ],
-      "bottomLineEs": "El LCNEC pulmonar es un tumor heterogéneo que requiere un enfoque diagnóstico y terapéutico integrado. La cirugía es clave en enfermedad resecable y el platino-etopósido en avanzado. Se necesitan más estudios para la medicina de precisión.",
-      "bottomLineEn": "Pulmonary LCNEC is a heterogeneous tumor requiring an integrated diagnostic and therapeutic approach. Surgery is key for resectable disease, and platinum-etoposide for advanced. Further studies are needed for precision medicine.",
-      "relevance": "Emergente",
-      "pmid": "43026905",
-      "url": "https://doi.org/10.3390/cancers18213585",
-      "source": "Cancers (Basel)",
-      "date": "2026-Nov-7",
+      "bottomLineEs": "La experiencia de este centro sugiere que la positividad de la SLNB tiene valor pronóstico. Se recomienda un manejo multidisciplinar rápido y temprano, considerando terapias adyuvantes y factores no clínicos en la toma de decisiones.",
+      "bottomLineEn": "This single-center experience suggests SLNB positivity has prognostic value. Rapid, earlier multidisciplinary management is recommended, considering adjuvant therapies and non-clinical factors in decision-making.",
+      "relevance": "Práctica clínica",
+      "pmid": "43032770",
+      "url": "https://doi.org/10.1016/j.jpra.2026.10.003",
+      "source": "JPRAS Open",
+      "date": "2027-Jan",
       "topicId": "net"
-    },
-    {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Receptor CCKBR: Biomarcador Diagnóstico y Diana Terapéutica en Cáncer de Páncreas",
-      "headlineEn": "CCKBR Receptor: Diagnostic Biomarker and Therapeutic Target in Pancreatic Cancer",
-      "studyType": "Estudio traslacional",
-      "trialName": null,
-      "n": "506 (humanos) + modelos murinos",
-      "primaryMetricLabelEs": "Expresión y potencial de CCKBR",
-      "primaryMetricLabelEn": "CCKBR expression and potential",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "CCKBR muestra una sobreexpresión binaria significativa en tejido maligno de páncreas vs. normal (p < 10^-10).",
-          "en": "CCKBR shows profound, binary-like upregulation in malignant pancreatic tissue vs. normal (p < 10^-10)."
-        },
-        {
-          "icon": "dna",
-          "es": "El SNP germinal rs1800843 de CCKBR, que causa un mis-splicing, se identificó en ~40% de pacientes con PDAC.",
-          "en": "Germline SNP rs1800843 of CCKBR, causing mis-splicing, identified in ~40% of PDAC patients."
-        },
-        {
-          "icon": "target",
-          "es": "La proteína CCKBR está ausente en páncreas normal, pero aumenta en lesiones PanIN precancerosas y cáncer.",
-          "en": "CCKBR protein is absent in normal pancreas but increased in precancerous PanIN lesions and cancer."
-        },
-        {
-          "icon": "pill",
-          "es": "Nanopartículas fluorescentes dirigidas a CCKBR mostraron captación en lesiones PanIN de ratones KC.",
-          "en": "Fluorescent CCKBR-targeted nanoparticles showed uptake in PanIN lesions of KC mice."
-        }
-      ],
-      "bottomLineEs": "Estos hallazgos posicionan al receptor CCKBR como un biomarcador diagnóstico prometedor y una diana terapéutica potencial para la oncología de precisión en cáncer de páncreas.",
-      "bottomLineEn": "These findings position the CCKBR receptor as a promising diagnostic biomarker and a potential therapeutic target for precision oncology in pancreatic cancer.",
-      "relevance": "Emergente",
-      "pmid": "43026872",
-      "url": "https://doi.org/10.3390/cancers18213551",
-      "source": "Cancers (Basel)",
-      "date": "2026-Nov-5",
-      "topicId": "kras"
     }
   ]
 }

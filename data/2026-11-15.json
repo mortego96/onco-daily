@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T13:39:27.276Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Nanoterapia biomimética con GEM y shELF3 induce piroptosis y mejora supervivencia en PDAC.",
+      "headlineEn": "Biomimetic Nanotherapy with GEM and shELF3 Induces Pyroptosis, Improves Survival in PDAC.",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia prolongada",
+      "primaryMetricLabelEn": "Prolonged survival",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "ELF3 es un factor transcripcional oncogénico clave que promueve el crecimiento tumoral y la quimiorresistencia en PDAC.",
+          "en": "ELF3 is a key oncogenic transcription factor promoting tumor growth and chemoresistance in PDAC."
+        },
+        {
+          "icon": "pill",
+          "es": "Nanoplataforma biomimética (CNPs) co-administra gemcitabina y shRNA anti-ELF3 para mejorar la especificidad tumoral.",
+          "en": "Biomimetic nanoplatform (CNPs) co-delivers gemcitabine and ELF3-targeting shRNA for improved tumor specificity."
+        },
+        {
+          "icon": "target",
+          "es": "La nanoterapia activa la piroptosis dependiente de caspasa-3/GSDME, potenciando la citotoxicidad in vitro.",
+          "en": "Nanotherapy activates caspase-3/GSDME-dependent pyroptosis, enhancing in vitro cytotoxicity."
+        },
+        {
+          "icon": "clock",
+          "es": "En modelos murinos, la terapia suprimió el crecimiento tumoral y prolongó significativamente la supervivencia con buena bioseguridad.",
+          "en": "In murine models, therapy suppressed tumor growth and significantly prolonged survival with favorable biosafety."
+        }
+      ],
+      "bottomLineEs": "La combinación del silenciamiento de ELF3 con gemcitabina mediante nanocarriers biomiméticos es una estrategia sinérgica prometedora para sensibilizar tumores pancreáticos.",
+      "bottomLineEn": "Combining ELF3 silencing with gemcitabine via biomimetic nanocarriers presents a promising synergistic strategy to sensitize pancreatic tumors.",
+      "relevance": "Preclínico",
+      "pmid": "43033883",
+      "url": "https://doi.org/10.1016/j.phrs.2026.109749",
+      "source": "Pharmacol Res",
+      "date": "2026-Nov-14",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Lirafugratinib: Primer inhibidor selectivo de FGFR2 aprobado para colangiocarcinoma avanzado",
+      "headlineEn": "Lirafugratinib: First-in-class selective FGFR2 inhibitor approved for advanced cholangiocarcinoma",
+      "studyType": "Ensayo clínico",
+      "trialName": "ReFocus",
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Aprobado por la FDA para pacientes adultos con colangiocarcinoma localmente avanzado o metastásico, previamente tratado, con fusión/reordenamiento de FGFR2.",
+          "en": "FDA approved for adult patients with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma harboring an FGFR2 fusion/rearrangement."
+        },
+        {
+          "icon": "dna",
+          "es": "Inhibidor altamente selectivo de FGFR2 (>250x sobre FGFR1), diseñado para unirse covalentemente a Cys491 en FGFR2.",
+          "en": "Highly selective FGFR2 inhibitor (>250x over FGFR1), engineered to covalently engage Cys491 in FGFR2."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Mitiga la hiperfosfatemia y supera mutaciones de resistencia como V564F, que causan impedimento estérico.",
+          "en": "Mitigates hyperphosphatemia and overcomes steric clash resistance mutations (e.g., V564F)."
+        },
+        {
+          "icon": "pill",
+          "es": "Demostró eficacia clínica robusta y duradera con un perfil de seguridad altamente manejable.",
+          "en": "Demonstrated robust, durable clinical efficacy with a highly manageable safety profile."
+        }
+      ],
+      "bottomLineEs": "Lirafugratinib (Lyrfigtu) es el primer inhibidor selectivo de FGFR2 aprobado por la FDA para colangiocarcinoma avanzado con alteraciones de FGFR2. Su diseño molecular único confiere alta selectividad, reduce la toxicidad por hiperfosfatemia y supera mecanismos de resistencia, ofreciendo una nueva opción terapéutica.",
+      "bottomLineEn": "Lirafugratinib (Lyrfigtu) is the first FDA-approved selective FGFR2 inhibitor for advanced cholangiocarcinoma with FGFR2 alterations. Its unique molecular design confers high selectivity, reduces hyperphosphatemia toxicity, and overcomes resistance mechanisms, offering a new therapeutic option.",
+      "relevance": "Práctica clínica",
+      "pmid": "43033245",
+      "url": "https://doi.org/10.1007/s00044-026-03641-3",
+      "source": "Med Chem Res",
+      "date": "2026-Nov-14",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Carcinoma de Células de Merkel: Experiencia de 15 años en un centro terciario del Reino Unido",
+      "headlineEn": "Merkel Cell Carcinoma: 15-Year Outcomes from a UK Tertiary Center",
+      "studyType": "Estudio retrospectivo",
+      "trialName": null,
+      "n": "81",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo de 81 pacientes con Carcinoma de Células de Merkel en un centro terciario del Reino Unido (2008-2022).",
+          "en": "Retrospective study of 81 Merkel Cell Carcinoma patients at a UK tertiary center (2008-2022)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "El 40% de los pacientes se presentó con enfermedad metastásica; el 42% de estos con metástasis en ganglios linfáticos regionales.",
+          "en": "40% of patients presented with metastatic disease; 42% of these had regional lymph node metastases."
+        },
+        {
+          "icon": "dna",
+          "es": "La biopsia de ganglio centinela (SLNB) fue positiva en el 40% de los casos, sugiriendo valor pronóstico, pero sin beneficio en supervivencia.",
+          "en": "Sentinel lymph node biopsy (SLNB) was positive in 40% of cases, suggesting prognostic value, but no survival benefit."
+        },
+        {
+          "icon": "shield-check",
+          "es": "El manejo multidisciplinar y el tratamiento rápido y temprano son clave, con evolución de terapias adyuvantes (radioterapia y sistémica).",
+          "en": "Multidisciplinary management and rapid, earlier treatment are key, with evolving adjuvant therapies (radiotherapy and systemic)."
+        }
+      ],
+      "bottomLineEs": "La experiencia de este centro sugiere que la positividad de la SLNB tiene valor pronóstico. Se recomienda un manejo multidisciplinar rápido y temprano, considerando terapias adyuvantes y factores no clínicos en la toma de decisiones.",
+      "bottomLineEn": "This single-center experience suggests SLNB positivity has prognostic value. Rapid, earlier multidisciplinary management is recommended, considering adjuvant therapies and non-clinical factors in decision-making.",
+      "relevance": "Práctica clínica",
+      "pmid": "43032770",
+      "url": "https://doi.org/10.1016/j.jpra.2026.10.003",
+      "source": "JPRAS Open",
+      "date": "2027-Jan",
+      "topicId": "net"
+    }
+  ]
+}
