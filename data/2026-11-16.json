@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T15:10:08.428Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Nuevo CAR-T dual MSLN.BBz/NKG2D.28 mejora actividad en cáncer de páncreas heterogéneo",
+      "headlineEn": "Novel MSLN.BBz/NKG2D.28 dual CAR-T enhances activity in heterogeneous pancreatic cancer",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "La heterogeneidad antigénica del PDAC limita la eficacia de la terapia CAR-T.",
+          "en": "PDAC antigen heterogeneity limits CAR-T cell therapy efficacy."
+        },
+        {
+          "icon": "dna",
+          "es": "MSLN y NKG2DLs son un par de antígenos complementarios con expresión discordante en PDAC.",
+          "en": "MSLN and NKG2DLs are a complementary antigen pair with discordant expression in PDAC."
+        },
+        {
+          "icon": "target",
+          "es": "El CAR-T dual MSLN.BBz/NKG2D.28 es un diseño asimétrico split-costimulatory.",
+          "en": "MSLN.BBz/NKG2D.28 is an asymmetric split-costimulatory dual-CAR design."
+        },
+        {
+          "icon": "dna",
+          "es": "La señalización IL-2-STAT5 apoya la mayor actividad y fitness de este constructo.",
+          "en": "IL-2-STAT5 signaling supports the enhanced fitness and antitumor activity of this construct."
+        }
+      ],
+      "bottomLineEs": "Este estudio identifica MSLN.BBz/NKG2D.28 como una prometedora estrategia CAR-T dual para PDAC, superando la heterogeneidad antigénica mediante un diseño de coestimulación asimétrica.",
+      "bottomLineEn": "This study identifies MSLN.BBz/NKG2D.28 as a promising dual-CAR strategy for PDAC, overcoming antigen heterogeneity through an asymmetric costimulatory design.",
+      "relevance": "Preclínico",
+      "pmid": "43036814",
+      "url": "https://doi.org/10.1016/j.omton.2026.201349",
+      "source": "Mol Ther Oncol",
+      "date": "2026-Dec-17",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Características clinicopatológicas y factores pronósticos del Carcinoma de Células Acinares Pancreáticas (PACC)",
+      "headlineEn": "Clinicopathological Features and Prognostic Factors of Pancreatic Acinar Cell Carcinoma (PACC)",
+      "studyType": "Estudio observacional multicéntrico",
+      "trialName": null,
+      "n": "387 pacientes",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Resección",
+          "value": "SG mediana: 2610 días (SG 5 años: 55.3%)",
+          "months": 85.7,
+          "highlight": true
+        },
+        {
+          "name": "No resección",
+          "value": "SG mediana: 415 días (SG 5 años: 4.5%)",
+          "months": 13.6,
+          "highlight": false
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio nacional multicéntrico con 387 pacientes con PACC en 85 centros japoneses (71.3% hombres, mediana de edad 64 años).",
+          "en": "Nationwide multicenter study with 387 PACC patients from 85 Japanese centers (71.3% male, median age 64 years)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Edad avanzada, no resección y estadio avanzado se asociaron independientemente con menor SG.",
+          "en": "Older age, non-resection, and advanced stage were independently associated with shorter OS."
+        },
+        {
+          "icon": "dna",
+          "es": "Factores pronósticos patológicos independientes: AFP+, Ki-67 ≥30% y estadio IIb/IV.",
+          "en": "Independent pathological prognostic factors: AFP+, Ki-67 ≥30%, and Stage IIb/IV."
+        },
+        {
+          "icon": "pill",
+          "es": "En la enfermedad no resecable, la quimioterapia (especialmente FOLFIRINOX) se asoció con mayor SG.",
+          "en": "In non-resectable disease, chemotherapy (especially FOLFIRINOX) was associated with longer OS."
+        }
+      ],
+      "bottomLineEs": "Este estudio multicéntrico nacional caracteriza el PACC e identifica factores pronósticos clínicos y patológicos clave, incluyendo el beneficio de la resección y FOLFIRINOX en enfermedad no resecable, que pueden guiar el manejo.",
+      "bottomLineEn": "This nationwide multicenter study characterizes PACC and identifies key clinical and pathological prognostic factors, including the benefit of resection and FOLFIRINOX in non-resectable disease, which may guide management.",
+      "relevance": "Práctica clínica",
+      "pmid": "43033256",
+      "url": "https://doi.org/10.1007/s00535-026-02540-z",
+      "source": "J Gastroenterol",
+      "date": "2026-Nov-14",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Ratio Neutrófilo-Linfocito (NLR) como biomarcador pronóstico en Neoplasias Neuroendocrinas Pancreáticas (PNENs)",
+      "headlineEn": "Neutrophil-to-Lymphocyte Ratio (NLR) as a Prognostic Biomarker in Pancreatic Neuroendocrine Neoplasms (PNENs)",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Valor pronóstico",
+      "primaryMetricLabelEn": "Prognostic value",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "El NLR es un marcador accesible de inflamación sistémica.",
+          "en": "NLR is an accessible marker of systemic inflammation."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Un NLR elevado se asocia con características clinicopatológicas adversas y menor SG/SLR en PNETs.",
+          "en": "Elevated NLR is associated with adverse clinicopathological features and shorter OS/RFS in PNETs."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La evidencia es heterogénea; su utilidad clínica y umbrales estandarizados no están validados.",
+          "en": "Evidence is heterogeneous; clinical utility and standardized thresholds remain unvalidated."
+        },
+        {
+          "icon": "dna",
+          "es": "El NLR debe complementar, no reemplazar, los factores pronósticos establecidos.",
+          "en": "NLR should complement, not replace, established prognostic factors."
+        }
+      ],
+      "bottomLineEs": "El NLR es un biomarcador pronóstico adjunto candidato en PNETs, particularmente en poblaciones tratadas quirúrgicamente, pero requiere validación adicional antes de su uso clínico rutinario.",
+      "bottomLineEn": "NLR is a candidate adjunctive prognostic biomarker in PNETs, particularly in surgically treated populations, but requires further validation before routine clinical use.",
+      "relevance": "Emergente",
+      "pmid": "43026749",
+      "url": "https://doi.org/10.3390/cancers18213427",
+      "source": "Cancers (Basel)",
+      "date": "2026-Oct-22",
+      "topicId": "net"
+    }
+  ]
+}

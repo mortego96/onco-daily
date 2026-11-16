@@ -1,135 +1,148 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T13:39:27.276Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T15:10:08.428Z",
   "count": 3,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Nanoterapia biomimética con GEM y shELF3 induce piroptosis y mejora supervivencia en PDAC.",
-      "headlineEn": "Biomimetic Nanotherapy with GEM and shELF3 Induces Pyroptosis, Improves Survival in PDAC.",
+      "headlineEs": "Nuevo CAR-T dual MSLN.BBz/NKG2D.28 mejora actividad en cáncer de páncreas heterogéneo",
+      "headlineEn": "Novel MSLN.BBz/NKG2D.28 dual CAR-T enhances activity in heterogeneous pancreatic cancer",
       "studyType": "Preclínico",
       "trialName": null,
       "n": null,
-      "primaryMetricLabelEs": "Supervivencia prolongada",
-      "primaryMetricLabelEn": "Prolonged survival",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "dna",
-          "es": "ELF3 es un factor transcripcional oncogénico clave que promueve el crecimiento tumoral y la quimiorresistencia en PDAC.",
-          "en": "ELF3 is a key oncogenic transcription factor promoting tumor growth and chemoresistance in PDAC."
+          "icon": "alert-triangle",
+          "es": "La heterogeneidad antigénica del PDAC limita la eficacia de la terapia CAR-T.",
+          "en": "PDAC antigen heterogeneity limits CAR-T cell therapy efficacy."
         },
         {
-          "icon": "pill",
-          "es": "Nanoplataforma biomimética (CNPs) co-administra gemcitabina y shRNA anti-ELF3 para mejorar la especificidad tumoral.",
-          "en": "Biomimetic nanoplatform (CNPs) co-delivers gemcitabine and ELF3-targeting shRNA for improved tumor specificity."
+          "icon": "dna",
+          "es": "MSLN y NKG2DLs son un par de antígenos complementarios con expresión discordante en PDAC.",
+          "en": "MSLN and NKG2DLs are a complementary antigen pair with discordant expression in PDAC."
         },
         {
           "icon": "target",
-          "es": "La nanoterapia activa la piroptosis dependiente de caspasa-3/GSDME, potenciando la citotoxicidad in vitro.",
-          "en": "Nanotherapy activates caspase-3/GSDME-dependent pyroptosis, enhancing in vitro cytotoxicity."
+          "es": "El CAR-T dual MSLN.BBz/NKG2D.28 es un diseño asimétrico split-costimulatory.",
+          "en": "MSLN.BBz/NKG2D.28 is an asymmetric split-costimulatory dual-CAR design."
         },
         {
-          "icon": "clock",
-          "es": "En modelos murinos, la terapia suprimió el crecimiento tumoral y prolongó significativamente la supervivencia con buena bioseguridad.",
-          "en": "In murine models, therapy suppressed tumor growth and significantly prolonged survival with favorable biosafety."
+          "icon": "dna",
+          "es": "La señalización IL-2-STAT5 apoya la mayor actividad y fitness de este constructo.",
+          "en": "IL-2-STAT5 signaling supports the enhanced fitness and antitumor activity of this construct."
         }
       ],
-      "bottomLineEs": "La combinación del silenciamiento de ELF3 con gemcitabina mediante nanocarriers biomiméticos es una estrategia sinérgica prometedora para sensibilizar tumores pancreáticos.",
-      "bottomLineEn": "Combining ELF3 silencing with gemcitabine via biomimetic nanocarriers presents a promising synergistic strategy to sensitize pancreatic tumors.",
+      "bottomLineEs": "Este estudio identifica MSLN.BBz/NKG2D.28 como una prometedora estrategia CAR-T dual para PDAC, superando la heterogeneidad antigénica mediante un diseño de coestimulación asimétrica.",
+      "bottomLineEn": "This study identifies MSLN.BBz/NKG2D.28 as a promising dual-CAR strategy for PDAC, overcoming antigen heterogeneity through an asymmetric costimulatory design.",
       "relevance": "Preclínico",
-      "pmid": "43033883",
-      "url": "https://doi.org/10.1016/j.phrs.2026.109749",
-      "source": "Pharmacol Res",
-      "date": "2026-Nov-14",
+      "pmid": "43036814",
+      "url": "https://doi.org/10.1016/j.omton.2026.201349",
+      "source": "Mol Ther Oncol",
+      "date": "2026-Dec-17",
       "topicId": "pdac"
     },
     {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Lirafugratinib: Primer inhibidor selectivo de FGFR2 aprobado para colangiocarcinoma avanzado",
-      "headlineEn": "Lirafugratinib: First-in-class selective FGFR2 inhibitor approved for advanced cholangiocarcinoma",
-      "studyType": "Ensayo clínico",
-      "trialName": "ReFocus",
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Características clinicopatológicas y factores pronósticos del Carcinoma de Células Acinares Pancreáticas (PACC)",
+      "headlineEn": "Clinicopathological Features and Prognostic Factors of Pancreatic Acinar Cell Carcinoma (PACC)",
+      "studyType": "Estudio observacional multicéntrico",
+      "trialName": null,
+      "n": "387 pacientes",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
         {
-          "icon": "users",
-          "es": "Aprobado por la FDA para pacientes adultos con colangiocarcinoma localmente avanzado o metastásico, previamente tratado, con fusión/reordenamiento de FGFR2.",
-          "en": "FDA approved for adult patients with previously treated, unresectable locally advanced or metastatic cholangiocarcinoma harboring an FGFR2 fusion/rearrangement."
+          "name": "Resección",
+          "value": "SG mediana: 2610 días (SG 5 años: 55.3%)",
+          "months": 85.7,
+          "highlight": true
         },
         {
-          "icon": "dna",
-          "es": "Inhibidor altamente selectivo de FGFR2 (>250x sobre FGFR1), diseñado para unirse covalentemente a Cys491 en FGFR2.",
-          "en": "Highly selective FGFR2 inhibitor (>250x over FGFR1), engineered to covalently engage Cys491 in FGFR2."
-        },
-        {
-          "icon": "shield-check",
-          "es": "Mitiga la hiperfosfatemia y supera mutaciones de resistencia como V564F, que causan impedimento estérico.",
-          "en": "Mitigates hyperphosphatemia and overcomes steric clash resistance mutations (e.g., V564F)."
-        },
-        {
-          "icon": "pill",
-          "es": "Demostró eficacia clínica robusta y duradera con un perfil de seguridad altamente manejable.",
-          "en": "Demonstrated robust, durable clinical efficacy with a highly manageable safety profile."
+          "name": "No resección",
+          "value": "SG mediana: 415 días (SG 5 años: 4.5%)",
+          "months": 13.6,
+          "highlight": false
         }
       ],
-      "bottomLineEs": "Lirafugratinib (Lyrfigtu) es el primer inhibidor selectivo de FGFR2 aprobado por la FDA para colangiocarcinoma avanzado con alteraciones de FGFR2. Su diseño molecular único confiere alta selectividad, reduce la toxicidad por hiperfosfatemia y supera mecanismos de resistencia, ofreciendo una nueva opción terapéutica.",
-      "bottomLineEn": "Lirafugratinib (Lyrfigtu) is the first FDA-approved selective FGFR2 inhibitor for advanced cholangiocarcinoma with FGFR2 alterations. Its unique molecular design confers high selectivity, reduces hyperphosphatemia toxicity, and overcomes resistance mechanisms, offering a new therapeutic option.",
-      "relevance": "Práctica clínica",
-      "pmid": "43033245",
-      "url": "https://doi.org/10.1007/s00044-026-03641-3",
-      "source": "Med Chem Res",
-      "date": "2026-Nov-14",
-      "topicId": "biliary"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Carcinoma de Células de Merkel: Experiencia de 15 años en un centro terciario del Reino Unido",
-      "headlineEn": "Merkel Cell Carcinoma: 15-Year Outcomes from a UK Tertiary Center",
-      "studyType": "Estudio retrospectivo",
-      "trialName": null,
-      "n": "81",
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
           "icon": "users",
-          "es": "Estudio retrospectivo de 81 pacientes con Carcinoma de Células de Merkel en un centro terciario del Reino Unido (2008-2022).",
-          "en": "Retrospective study of 81 Merkel Cell Carcinoma patients at a UK tertiary center (2008-2022)."
+          "es": "Estudio nacional multicéntrico con 387 pacientes con PACC en 85 centros japoneses (71.3% hombres, mediana de edad 64 años).",
+          "en": "Nationwide multicenter study with 387 PACC patients from 85 Japanese centers (71.3% male, median age 64 years)."
         },
         {
           "icon": "alert-triangle",
-          "es": "El 40% de los pacientes se presentó con enfermedad metastásica; el 42% de estos con metástasis en ganglios linfáticos regionales.",
-          "en": "40% of patients presented with metastatic disease; 42% of these had regional lymph node metastases."
+          "es": "Edad avanzada, no resección y estadio avanzado se asociaron independientemente con menor SG.",
+          "en": "Older age, non-resection, and advanced stage were independently associated with shorter OS."
         },
         {
           "icon": "dna",
-          "es": "La biopsia de ganglio centinela (SLNB) fue positiva en el 40% de los casos, sugiriendo valor pronóstico, pero sin beneficio en supervivencia.",
-          "en": "Sentinel lymph node biopsy (SLNB) was positive in 40% of cases, suggesting prognostic value, but no survival benefit."
+          "es": "Factores pronósticos patológicos independientes: AFP+, Ki-67 ≥30% y estadio IIb/IV.",
+          "en": "Independent pathological prognostic factors: AFP+, Ki-67 ≥30%, and Stage IIb/IV."
+        },
+        {
+          "icon": "pill",
+          "es": "En la enfermedad no resecable, la quimioterapia (especialmente FOLFIRINOX) se asoció con mayor SG.",
+          "en": "In non-resectable disease, chemotherapy (especially FOLFIRINOX) was associated with longer OS."
+        }
+      ],
+      "bottomLineEs": "Este estudio multicéntrico nacional caracteriza el PACC e identifica factores pronósticos clínicos y patológicos clave, incluyendo el beneficio de la resección y FOLFIRINOX en enfermedad no resecable, que pueden guiar el manejo.",
+      "bottomLineEn": "This nationwide multicenter study characterizes PACC and identifies key clinical and pathological prognostic factors, including the benefit of resection and FOLFIRINOX in non-resectable disease, which may guide management.",
+      "relevance": "Práctica clínica",
+      "pmid": "43033256",
+      "url": "https://doi.org/10.1007/s00535-026-02540-z",
+      "source": "J Gastroenterol",
+      "date": "2026-Nov-14",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Ratio Neutrófilo-Linfocito (NLR) como biomarcador pronóstico en Neoplasias Neuroendocrinas Pancreáticas (PNENs)",
+      "headlineEn": "Neutrophil-to-Lymphocyte Ratio (NLR) as a Prognostic Biomarker in Pancreatic Neuroendocrine Neoplasms (PNENs)",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Valor pronóstico",
+      "primaryMetricLabelEn": "Prognostic value",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "El NLR es un marcador accesible de inflamación sistémica.",
+          "en": "NLR is an accessible marker of systemic inflammation."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Un NLR elevado se asocia con características clinicopatológicas adversas y menor SG/SLR en PNETs.",
+          "en": "Elevated NLR is associated with adverse clinicopathological features and shorter OS/RFS in PNETs."
         },
         {
           "icon": "shield-check",
-          "es": "El manejo multidisciplinar y el tratamiento rápido y temprano son clave, con evolución de terapias adyuvantes (radioterapia y sistémica).",
-          "en": "Multidisciplinary management and rapid, earlier treatment are key, with evolving adjuvant therapies (radiotherapy and systemic)."
+          "es": "La evidencia es heterogénea; su utilidad clínica y umbrales estandarizados no están validados.",
+          "en": "Evidence is heterogeneous; clinical utility and standardized thresholds remain unvalidated."
+        },
+        {
+          "icon": "dna",
+          "es": "El NLR debe complementar, no reemplazar, los factores pronósticos establecidos.",
+          "en": "NLR should complement, not replace, established prognostic factors."
         }
       ],
-      "bottomLineEs": "La experiencia de este centro sugiere que la positividad de la SLNB tiene valor pronóstico. Se recomienda un manejo multidisciplinar rápido y temprano, considerando terapias adyuvantes y factores no clínicos en la toma de decisiones.",
-      "bottomLineEn": "This single-center experience suggests SLNB positivity has prognostic value. Rapid, earlier multidisciplinary management is recommended, considering adjuvant therapies and non-clinical factors in decision-making.",
-      "relevance": "Práctica clínica",
-      "pmid": "43032770",
-      "url": "https://doi.org/10.1016/j.jpra.2026.10.003",
-      "source": "JPRAS Open",
-      "date": "2027-Jan",
+      "bottomLineEs": "El NLR es un biomarcador pronóstico adjunto candidato en PNETs, particularmente en poblaciones tratadas quirúrgicamente, pero requiere validación adicional antes de su uso clínico rutinario.",
+      "bottomLineEn": "NLR is a candidate adjunctive prognostic biomarker in PNETs, particularly in surgically treated populations, but requires further validation before routine clinical use.",
+      "relevance": "Emergente",
+      "pmid": "43026749",
+      "url": "https://doi.org/10.3390/cancers18213427",
+      "source": "Cancers (Basel)",
+      "date": "2026-Oct-22",
       "topicId": "net"
     }
   ]
