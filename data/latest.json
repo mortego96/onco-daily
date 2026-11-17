@@ -1,13 +1,142 @@
 {
-  "date": "2026-11-16",
-  "generatedAt": "2026-11-16T15:10:08.428Z",
-  "count": 3,
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T15:40:57.119Z",
+  "count": 5,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Nuevo CAR-T dual MSLN.BBz/NKG2D.28 mejora actividad en cáncer de páncreas heterogéneo",
-      "headlineEn": "Novel MSLN.BBz/NKG2D.28 dual CAR-T enhances activity in heterogeneous pancreatic cancer",
-      "studyType": "Preclínico",
+      "headlineEs": "Localización tumoral en cuerpo/cola pancreática y recurrencia temprana post-resección de PDAC.",
+      "headlineEn": "Pancreatic body/tail tumor location and early recurrence after PDAC resection.",
+      "studyType": "Estudio retrospectivo",
+      "trialName": null,
+      "n": "155 pacientes",
+      "primaryMetricLabelEs": "Recurrencia temprana (≤ 6 meses)",
+      "primaryMetricLabelEn": "Early recurrence (≤ 6 months)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo de 155 pacientes con adenocarcinoma ductal de páncreas (PDAC) resecado.",
+          "en": "Retrospective study of 155 patients with resected pancreatic ductal adenocarcinoma (PDAC)."
+        },
+        {
+          "icon": "clock",
+          "es": "Recurrencia temprana definida como recurrencia dentro de los 6 meses post-cirugía (35.5% de los pacientes).",
+          "en": "Early recurrence defined as recurrence within 6 months post-surgery (35.5% of patients)."
+        },
+        {
+          "icon": "target",
+          "es": "En el modelo multivariable postoperatorio, la localización del tumor en cuerpo/cola fue un factor de riesgo independiente para recurrencia temprana.",
+          "en": "In the postoperative multivariable model, body/tail tumor location was an independent risk factor for early recurrence."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La localización tumoral no fue un predictor independiente en el modelo preoperatorio ni afectó significativamente la supervivencia global.",
+          "en": "Tumor location was not an independent predictor in the preoperative model nor did it significantly affect overall survival."
+        }
+      ],
+      "bottomLineEs": "Este estudio retrospectivo sugiere que la localización del tumor en cuerpo/cola pancreática es un factor de riesgo independiente para recurrencia temprana (<6 meses) tras la resección de PDAC, según el análisis postoperatorio. Se requiere validación prospectiva para su inclusión en modelos de estratificación de riesgo.",
+      "bottomLineEn": "This retrospective study suggests that pancreatic body/tail tumor location is an independent risk factor for early recurrence (<6 months) after PDAC resection, based on postoperative analysis. Prospective validation is needed for its inclusion in risk stratification models.",
+      "relevance": "Emergente",
+      "pmid": "43041333",
+      "url": "https://doi.org/10.3389/fonc.2026.2002437",
+      "source": "Front Oncol",
+      "date": "2026",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Drenaje Biliar Preoperatorio en Tumores Pancreatobiliares: Indicaciones y Controversias",
+      "headlineEn": "Preoperative Biliary Drainage in Pancreatobiliary Tumors: Indications and Controversies",
+      "studyType": "Revisión Narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "El DBP busca revertir los efectos de la ictericia obstructiva y permitir terapias neoadyuvantes y cirugía más seguras.",
+          "en": "PBD aims to reverse obstructive jaundice effects for safer neoadjuvant therapy and surgery."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Existe controversia sobre si los beneficios del DBP superan los riesgos de complicaciones infecciosas perioperatorias.",
+          "en": "Controversy exists whether PBD benefits outweigh risks of procedure-related and perioperative infectious complications."
+        },
+        {
+          "icon": "pill",
+          "es": "El drenaje biliar endoscópico (DBE) es generalmente preferido sobre el percutáneo (DBTP) por menor riesgo oncológico y mayor confort.",
+          "en": "Endoscopic biliary drainage (EBD) is generally preferred over percutaneous (PTBD) due to lower oncological risk and patient comfort."
+        },
+        {
+          "icon": "users",
+          "es": "Las indicaciones del DBP incluyen colangitis, ictericia severa con disfunción orgánica, optimización hepática para neoadyuvancia y retrasos preoperatorios prolongados.",
+          "en": "PBD indications include cholangitis, severe jaundice with organ dysfunction, liver optimization for neoadjuvant therapy, and prolonged preoperative delays."
+        }
+      ],
+      "bottomLineEs": "El drenaje biliar preoperatorio debe individualizarse según el estado clínico del paciente, el plan de tratamiento y la experiencia institucional, dada la complejidad de sus beneficios y riesgos.",
+      "bottomLineEn": "Preoperative biliary drainage should be tailored to the patient's clinical status, treatment plan, and institutional expertise, given its distinct benefits and risks.",
+      "relevance": "Práctica clínica",
+      "pmid": "43041110",
+      "url": "https://doi.org/10.3346/jkms.2026.41.e349",
+      "source": "J Korean Med Sci",
+      "date": "2026-Nov-16",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Roles de la PANoptosis en el espectro MASLD: de esteatosis a HCC",
+      "headlineEn": "PANoptosis Roles in MASLD Spectrum: From Steatosis to HCC",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La PANoptosis es una forma inflamatoria de muerte celular programada.",
+          "en": "PANoptosis is an inflammatory form of programmed cell death."
+        },
+        {
+          "icon": "clock",
+          "es": "Sus roles son dependientes del estadio, desde esteatosis aislada hasta HCC.",
+          "en": "Its roles are stage-dependent, from isolated steatosis to HCC."
+        },
+        {
+          "icon": "target",
+          "es": "En HCC, puede tener efectos duales: inmunidad antitumoral o progresión tumoral.",
+          "en": "In HCC, it may have dual effects: antitumor immunity or tumor progression."
+        },
+        {
+          "icon": "pill",
+          "es": "Moléculas relacionadas con PANoptosis son posibles biomarcadores y dianas terapéuticas.",
+          "en": "PANoptosis-related molecules are potential biomarkers and therapeutic targets."
+        }
+      ],
+      "bottomLineEs": "La modulación de la PANoptosis, considerando su intensidad, duración y especificidad celular, es clave para futuras estrategias terapéuticas en el continuo MASLD-HCC.",
+      "bottomLineEn": "Modulating PANoptosis, considering its intensity, duration, and cellular specificity, is key for future therapeutic strategies in the MASLD-HCC continuum.",
+      "relevance": "Emergente",
+      "pmid": "43041132",
+      "url": "https://doi.org/10.1002/cbf.70340",
+      "source": "Cell Biochem Funct",
+      "date": "2026-Nov",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Manejo quirúrgico de tumores hipofisarios recurrentes: desafíos y enfoque individualizado",
+      "headlineEn": "Surgical Management of Recurrent Pituitary Tumors: Challenges and Individualized Approach",
+      "studyType": "Revisión clínica",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -18,132 +147,76 @@
       "facts": [
         {
           "icon": "alert-triangle",
-          "es": "La heterogeneidad antigénica del PDAC limita la eficacia de la terapia CAR-T.",
-          "en": "PDAC antigen heterogeneity limits CAR-T cell therapy efficacy."
+          "es": "El manejo de tumores hipofisarios recurrentes es complejo y desafiante.",
+          "en": "Management of recurrent pituitary tumors is complex and challenging."
         },
         {
-          "icon": "dna",
-          "es": "MSLN y NKG2DLs son un par de antígenos complementarios con expresión discordante en PDAC.",
-          "en": "MSLN and NKG2DLs are a complementary antigen pair with discordant expression in PDAC."
-        },
-        {
-          "icon": "target",
-          "es": "El CAR-T dual MSLN.BBz/NKG2D.28 es un diseño asimétrico split-costimulatory.",
-          "en": "MSLN.BBz/NKG2D.28 is an asymmetric split-costimulatory dual-CAR design."
-        },
-        {
-          "icon": "dna",
-          "es": "La señalización IL-2-STAT5 apoya la mayor actividad y fitness de este constructo.",
-          "en": "IL-2-STAT5 signaling supports the enhanced fitness and antitumor activity of this construct."
-        }
-      ],
-      "bottomLineEs": "Este estudio identifica MSLN.BBz/NKG2D.28 como una prometedora estrategia CAR-T dual para PDAC, superando la heterogeneidad antigénica mediante un diseño de coestimulación asimétrica.",
-      "bottomLineEn": "This study identifies MSLN.BBz/NKG2D.28 as a promising dual-CAR strategy for PDAC, overcoming antigen heterogeneity through an asymmetric costimulatory design.",
-      "relevance": "Preclínico",
-      "pmid": "43036814",
-      "url": "https://doi.org/10.1016/j.omton.2026.201349",
-      "source": "Mol Ther Oncol",
-      "date": "2026-Dec-17",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Páncreas · otros tumores",
-      "headlineEs": "Características clinicopatológicas y factores pronósticos del Carcinoma de Células Acinares Pancreáticas (PACC)",
-      "headlineEn": "Clinicopathological Features and Prognostic Factors of Pancreatic Acinar Cell Carcinoma (PACC)",
-      "studyType": "Estudio observacional multicéntrico",
-      "trialName": null,
-      "n": "387 pacientes",
-      "primaryMetricLabelEs": "Supervivencia Global (SG)",
-      "primaryMetricLabelEn": "Overall Survival (OS)",
-      "arms": [
-        {
-          "name": "Resección",
-          "value": "SG mediana: 2610 días (SG 5 años: 55.3%)",
-          "months": 85.7,
-          "highlight": true
-        },
-        {
-          "name": "No resección",
-          "value": "SG mediana: 415 días (SG 5 años: 4.5%)",
-          "months": 13.6,
-          "highlight": false
-        }
-      ],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Estudio nacional multicéntrico con 387 pacientes con PACC en 85 centros japoneses (71.3% hombres, mediana de edad 64 años).",
-          "en": "Nationwide multicenter study with 387 PACC patients from 85 Japanese centers (71.3% male, median age 64 years)."
+          "icon": "scalpel",
+          "es": "La cirugía de revisión es a menudo la primera línea para la recurrencia, especialmente en tumores funcionales.",
+          "en": "Revision surgery is often first-line for recurrence, especially for functional tumors."
         },
         {
           "icon": "alert-triangle",
-          "es": "Edad avanzada, no resección y estadio avanzado se asociaron independientemente con menor SG.",
-          "en": "Older age, non-resection, and advanced stage were independently associated with shorter OS."
+          "es": "La cirugía repetida conlleva mayores tasas de complicaciones y menores de remisión.",
+          "en": "Repeat surgery is associated with higher complication and lower remission rates."
         },
         {
-          "icon": "dna",
-          "es": "Factores pronósticos patológicos independientes: AFP+, Ki-67 ≥30% y estadio IIb/IV.",
-          "en": "Independent pathological prognostic factors: AFP+, Ki-67 ≥30%, and Stage IIb/IV."
-        },
-        {
-          "icon": "pill",
-          "es": "En la enfermedad no resecable, la quimioterapia (especialmente FOLFIRINOX) se asoció con mayor SG.",
-          "en": "In non-resectable disease, chemotherapy (especially FOLFIRINOX) was associated with longer OS."
+          "icon": "users",
+          "es": "Requiere un enfoque individualizado y un equipo multidisciplinar.",
+          "en": "Requires an individualized approach by a multidisciplinary team."
         }
       ],
-      "bottomLineEs": "Este estudio multicéntrico nacional caracteriza el PACC e identifica factores pronósticos clínicos y patológicos clave, incluyendo el beneficio de la resección y FOLFIRINOX en enfermedad no resecable, que pueden guiar el manejo.",
-      "bottomLineEn": "This nationwide multicenter study characterizes PACC and identifies key clinical and pathological prognostic factors, including the benefit of resection and FOLFIRINOX in non-resectable disease, which may guide management.",
+      "bottomLineEs": "El manejo de tumores hipofisarios recurrentes es complejo, priorizando la cirugía de revisión en muchos casos, pero con un riesgo elevado de complicaciones. Se requiere un enfoque individualizado y multidisciplinar.",
+      "bottomLineEn": "Management of recurrent pituitary tumors is complex; revision surgery is often first-line but carries high complication risks. An individualized, multidisciplinary approach is essential.",
       "relevance": "Práctica clínica",
-      "pmid": "43033256",
-      "url": "https://doi.org/10.1007/s00535-026-02540-z",
-      "source": "J Gastroenterol",
-      "date": "2026-Nov-14",
-      "topicId": "panc_other"
+      "pmid": "43039611",
+      "url": "https://doi.org/10.1016/j.nec.2026.09.007",
+      "source": "Neurosurg Clin N Am",
+      "date": "2027-Jan",
+      "topicId": "net"
     },
     {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Ratio Neutrófilo-Linfocito (NLR) como biomarcador pronóstico en Neoplasias Neuroendocrinas Pancreáticas (PNENs)",
-      "headlineEn": "Neutrophil-to-Lymphocyte Ratio (NLR) as a Prognostic Biomarker in Pancreatic Neuroendocrine Neoplasms (PNENs)",
-      "studyType": "Revisión narrativa",
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "AKR1B1 y defensa contra ferroptosis: clave en resistencia a inhibidores KRAS G12C en PDAC",
+      "headlineEn": "AKR1B1-dependent ferroptosis defense drives KRAS G12C inhibitor resistance in PDAC",
+      "studyType": "Preclínico",
       "trialName": null,
       "n": null,
-      "primaryMetricLabelEs": "Valor pronóstico",
-      "primaryMetricLabelEn": "Prognostic value",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
       "arms": [],
       "hr": null,
       "pfs": null,
       "facts": [
         {
-          "icon": "pill",
-          "es": "El NLR es un marcador accesible de inflamación sistémica.",
-          "en": "NLR is an accessible marker of systemic inflammation."
+          "icon": "dna",
+          "es": "La sobreexpresión de AKR1B1 se identificó en células de PDAC resistentes a sotorasib y adagrasib mediante perfilado multi-ómico.",
+          "en": "AKR1B1 upregulation identified in sotorasib- and adagrasib-resistant PDAC cells via multi-omics profiling."
         },
         {
-          "icon": "alert-triangle",
-          "es": "Un NLR elevado se asocia con características clinicopatológicas adversas y menor SG/SLR en PNETs.",
-          "en": "Elevated NLR is associated with adverse clinicopathological features and shorter OS/RFS in PNETs."
+          "icon": "target",
+          "es": "La defensa contra ferroptosis mediada por AKR1B1 contribuye a la resistencia adquirida a inhibidores de KRAS G12C en modelos celulares de PDAC.",
+          "en": "AKR1B1-associated ferroptosis defense contributes to acquired KRAS G12Ci resistance in PDAC cell models."
+        },
+        {
+          "icon": "pill",
+          "es": "La inhibición de AKR1B1 con epalrestat mejoró los efectos de los inhibidores de KRAS G12C en células resistentes.",
+          "en": "AKR1B1 inhibition with epalrestat enhanced G12Ci effects in resistant cells."
         },
         {
           "icon": "shield-check",
-          "es": "La evidencia es heterogénea; su utilidad clínica y umbrales estandarizados no están validados.",
-          "en": "Evidence is heterogeneous; clinical utility and standardized thresholds remain unvalidated."
-        },
-        {
-          "icon": "dna",
-          "es": "El NLR debe complementar, no reemplazar, los factores pronósticos establecidos.",
-          "en": "NLR should complement, not replace, established prognostic factors."
+          "es": "La combinación de epalrestat y sotorasib suprimió el crecimiento tumoral en modelos de xenoinjerto de PDAC mutante en KRAS.",
+          "en": "Epalrestat plus sotorasib suppressed tumor growth in KRAS-mutant PDAC xenograft models."
         }
       ],
-      "bottomLineEs": "El NLR es un biomarcador pronóstico adjunto candidato en PNETs, particularmente en poblaciones tratadas quirúrgicamente, pero requiere validación adicional antes de su uso clínico rutinario.",
-      "bottomLineEn": "NLR is a candidate adjunctive prognostic biomarker in PNETs, particularly in surgically treated populations, but requires further validation before routine clinical use.",
-      "relevance": "Emergente",
-      "pmid": "43026749",
-      "url": "https://doi.org/10.3390/cancers18213427",
-      "source": "Cancers (Basel)",
-      "date": "2026-Oct-22",
-      "topicId": "net"
+      "bottomLineEs": "La inhibición de AKR1B1 es una estrategia combinatoria prometedora para superar la resistencia a los inhibidores de KRAS G12C en el adenocarcinoma ductal pancreático.",
+      "bottomLineEn": "AKR1B1 inhibition is a promising combination strategy to overcome KRAS G12Ci resistance in pancreatic ductal adenocarcinoma.",
+      "relevance": "Preclínico",
+      "pmid": "43038728",
+      "url": "https://doi.org/10.1016/j.drup.2026.101508",
+      "source": "Drug Resist Updat",
+      "date": "2026-Nov-13",
+      "topicId": "kras"
     }
   ]
 }
