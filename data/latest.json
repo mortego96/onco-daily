@@ -1,142 +1,13 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T15:40:57.119Z",
-  "count": 5,
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T15:18:45.485Z",
+  "count": 1,
   "cards": [
     {
-      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Localización tumoral en cuerpo/cola pancreática y recurrencia temprana post-resección de PDAC.",
-      "headlineEn": "Pancreatic body/tail tumor location and early recurrence after PDAC resection.",
-      "studyType": "Estudio retrospectivo",
-      "trialName": null,
-      "n": "155 pacientes",
-      "primaryMetricLabelEs": "Recurrencia temprana (≤ 6 meses)",
-      "primaryMetricLabelEn": "Early recurrence (≤ 6 months)",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Estudio retrospectivo de 155 pacientes con adenocarcinoma ductal de páncreas (PDAC) resecado.",
-          "en": "Retrospective study of 155 patients with resected pancreatic ductal adenocarcinoma (PDAC)."
-        },
-        {
-          "icon": "clock",
-          "es": "Recurrencia temprana definida como recurrencia dentro de los 6 meses post-cirugía (35.5% de los pacientes).",
-          "en": "Early recurrence defined as recurrence within 6 months post-surgery (35.5% of patients)."
-        },
-        {
-          "icon": "target",
-          "es": "En el modelo multivariable postoperatorio, la localización del tumor en cuerpo/cola fue un factor de riesgo independiente para recurrencia temprana.",
-          "en": "In the postoperative multivariable model, body/tail tumor location was an independent risk factor for early recurrence."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La localización tumoral no fue un predictor independiente en el modelo preoperatorio ni afectó significativamente la supervivencia global.",
-          "en": "Tumor location was not an independent predictor in the preoperative model nor did it significantly affect overall survival."
-        }
-      ],
-      "bottomLineEs": "Este estudio retrospectivo sugiere que la localización del tumor en cuerpo/cola pancreática es un factor de riesgo independiente para recurrencia temprana (<6 meses) tras la resección de PDAC, según el análisis postoperatorio. Se requiere validación prospectiva para su inclusión en modelos de estratificación de riesgo.",
-      "bottomLineEn": "This retrospective study suggests that pancreatic body/tail tumor location is an independent risk factor for early recurrence (<6 months) after PDAC resection, based on postoperative analysis. Prospective validation is needed for its inclusion in risk stratification models.",
-      "relevance": "Emergente",
-      "pmid": "43041333",
-      "url": "https://doi.org/10.3389/fonc.2026.2002437",
-      "source": "Front Oncol",
-      "date": "2026",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Drenaje Biliar Preoperatorio en Tumores Pancreatobiliares: Indicaciones y Controversias",
-      "headlineEn": "Preoperative Biliary Drainage in Pancreatobiliary Tumors: Indications and Controversies",
-      "studyType": "Revisión Narrativa",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "target",
-          "es": "El DBP busca revertir los efectos de la ictericia obstructiva y permitir terapias neoadyuvantes y cirugía más seguras.",
-          "en": "PBD aims to reverse obstructive jaundice effects for safer neoadjuvant therapy and surgery."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Existe controversia sobre si los beneficios del DBP superan los riesgos de complicaciones infecciosas perioperatorias.",
-          "en": "Controversy exists whether PBD benefits outweigh risks of procedure-related and perioperative infectious complications."
-        },
-        {
-          "icon": "pill",
-          "es": "El drenaje biliar endoscópico (DBE) es generalmente preferido sobre el percutáneo (DBTP) por menor riesgo oncológico y mayor confort.",
-          "en": "Endoscopic biliary drainage (EBD) is generally preferred over percutaneous (PTBD) due to lower oncological risk and patient comfort."
-        },
-        {
-          "icon": "users",
-          "es": "Las indicaciones del DBP incluyen colangitis, ictericia severa con disfunción orgánica, optimización hepática para neoadyuvancia y retrasos preoperatorios prolongados.",
-          "en": "PBD indications include cholangitis, severe jaundice with organ dysfunction, liver optimization for neoadjuvant therapy, and prolonged preoperative delays."
-        }
-      ],
-      "bottomLineEs": "El drenaje biliar preoperatorio debe individualizarse según el estado clínico del paciente, el plan de tratamiento y la experiencia institucional, dada la complejidad de sus beneficios y riesgos.",
-      "bottomLineEn": "Preoperative biliary drainage should be tailored to the patient's clinical status, treatment plan, and institutional expertise, given its distinct benefits and risks.",
-      "relevance": "Práctica clínica",
-      "pmid": "43041110",
-      "url": "https://doi.org/10.3346/jkms.2026.41.e349",
-      "source": "J Korean Med Sci",
-      "date": "2026-Nov-16",
-      "topicId": "biliary"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Roles de la PANoptosis en el espectro MASLD: de esteatosis a HCC",
-      "headlineEn": "PANoptosis Roles in MASLD Spectrum: From Steatosis to HCC",
-      "studyType": "Revisión",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "La PANoptosis es una forma inflamatoria de muerte celular programada.",
-          "en": "PANoptosis is an inflammatory form of programmed cell death."
-        },
-        {
-          "icon": "clock",
-          "es": "Sus roles son dependientes del estadio, desde esteatosis aislada hasta HCC.",
-          "en": "Its roles are stage-dependent, from isolated steatosis to HCC."
-        },
-        {
-          "icon": "target",
-          "es": "En HCC, puede tener efectos duales: inmunidad antitumoral o progresión tumoral.",
-          "en": "In HCC, it may have dual effects: antitumor immunity or tumor progression."
-        },
-        {
-          "icon": "pill",
-          "es": "Moléculas relacionadas con PANoptosis son posibles biomarcadores y dianas terapéuticas.",
-          "en": "PANoptosis-related molecules are potential biomarkers and therapeutic targets."
-        }
-      ],
-      "bottomLineEs": "La modulación de la PANoptosis, considerando su intensidad, duración y especificidad celular, es clave para futuras estrategias terapéuticas en el continuo MASLD-HCC.",
-      "bottomLineEn": "Modulating PANoptosis, considering its intensity, duration, and cellular specificity, is key for future therapeutic strategies in the MASLD-HCC continuum.",
-      "relevance": "Emergente",
-      "pmid": "43041132",
-      "url": "https://doi.org/10.1002/cbf.70340",
-      "source": "Cell Biochem Funct",
-      "date": "2026-Nov",
-      "topicId": "hcc"
-    },
-    {
       "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Manejo quirúrgico de tumores hipofisarios recurrentes: desafíos y enfoque individualizado",
-      "headlineEn": "Surgical Management of Recurrent Pituitary Tumors: Challenges and Individualized Approach",
-      "studyType": "Revisión clínica",
+      "headlineEs": "Consenso de expertos sobre diagnóstico y tratamiento endoscópico del insulinoma",
+      "headlineEn": "Expert Consensus on Endoscopic Diagnosis and Treatment of Insulinoma",
+      "studyType": "Consenso de Expertos",
       "trialName": null,
       "n": null,
       "primaryMetricLabelEs": null,
@@ -147,76 +18,33 @@
       "facts": [
         {
           "icon": "alert-triangle",
-          "es": "El manejo de tumores hipofisarios recurrentes es complejo y desafiante.",
-          "en": "Management of recurrent pituitary tumors is complex and challenging."
-        },
-        {
-          "icon": "scalpel",
-          "es": "La cirugía de revisión es a menudo la primera línea para la recurrencia, especialmente en tumores funcionales.",
-          "en": "Revision surgery is often first-line for recurrence, especially for functional tumors."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La cirugía repetida conlleva mayores tasas de complicaciones y menores de remisión.",
-          "en": "Repeat surgery is associated with higher complication and lower remission rates."
-        },
-        {
-          "icon": "users",
-          "es": "Requiere un enfoque individualizado y un equipo multidisciplinar.",
-          "en": "Requires an individualized approach by a multidisciplinary team."
-        }
-      ],
-      "bottomLineEs": "El manejo de tumores hipofisarios recurrentes es complejo, priorizando la cirugía de revisión en muchos casos, pero con un riesgo elevado de complicaciones. Se requiere un enfoque individualizado y multidisciplinar.",
-      "bottomLineEn": "Management of recurrent pituitary tumors is complex; revision surgery is often first-line but carries high complication risks. An individualized, multidisciplinary approach is essential.",
-      "relevance": "Práctica clínica",
-      "pmid": "43039611",
-      "url": "https://doi.org/10.1016/j.nec.2026.09.007",
-      "source": "Neurosurg Clin N Am",
-      "date": "2027-Jan",
-      "topicId": "net"
-    },
-    {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "AKR1B1 y defensa contra ferroptosis: clave en resistencia a inhibidores KRAS G12C en PDAC",
-      "headlineEn": "AKR1B1-dependent ferroptosis defense drives KRAS G12C inhibitor resistance in PDAC",
-      "studyType": "Preclínico",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "dna",
-          "es": "La sobreexpresión de AKR1B1 se identificó en células de PDAC resistentes a sotorasib y adagrasib mediante perfilado multi-ómico.",
-          "en": "AKR1B1 upregulation identified in sotorasib- and adagrasib-resistant PDAC cells via multi-omics profiling."
+          "es": "El insulinoma es un tumor neuroendocrino pancreático funcional raro que causa hipoglucemia.",
+          "en": "Insulinoma is a rare functional pancreatic neuroendocrine tumor causing hypoglycemia."
         },
         {
           "icon": "target",
-          "es": "La defensa contra ferroptosis mediada por AKR1B1 contribuye a la resistencia adquirida a inhibidores de KRAS G12C en modelos celulares de PDAC.",
-          "en": "AKR1B1-associated ferroptosis defense contributes to acquired KRAS G12Ci resistance in PDAC cell models."
+          "es": "El consenso enfatiza enfoques diagnósticos y terapéuticos guiados por endoscopia.",
+          "en": "The consensus emphasizes endoscopy-guided diagnostic and therapeutic approaches."
         },
         {
-          "icon": "pill",
-          "es": "La inhibición de AKR1B1 con epalrestat mejoró los efectos de los inhibidores de KRAS G12C en células resistentes.",
-          "en": "AKR1B1 inhibition with epalrestat enhanced G12Ci effects in resistant cells."
+          "icon": "users",
+          "es": "Desarrollado por expertos chinos para estandarizar el cuidado endoscópico del insulinoma.",
+          "en": "Developed by Chinese experts to standardize endoscopic care for insulinoma."
         },
         {
           "icon": "shield-check",
-          "es": "La combinación de epalrestat y sotorasib suprimió el crecimiento tumoral en modelos de xenoinjerto de PDAC mutante en KRAS.",
-          "en": "Epalrestat plus sotorasib suppressed tumor growth in KRAS-mutant PDAC xenograft models."
+          "es": "La calidad de la evidencia y la fuerza de las recomendaciones se evaluaron con el sistema GRADE.",
+          "en": "Evidence quality and recommendation strength were assessed using the GRADE system."
         }
       ],
-      "bottomLineEs": "La inhibición de AKR1B1 es una estrategia combinatoria prometedora para superar la resistencia a los inhibidores de KRAS G12C en el adenocarcinoma ductal pancreático.",
-      "bottomLineEn": "AKR1B1 inhibition is a promising combination strategy to overcome KRAS G12Ci resistance in pancreatic ductal adenocarcinoma.",
-      "relevance": "Preclínico",
-      "pmid": "43038728",
-      "url": "https://doi.org/10.1016/j.drup.2026.101508",
-      "source": "Drug Resist Updat",
-      "date": "2026-Nov-13",
-      "topicId": "kras"
+      "bottomLineEs": "Este consenso proporciona recomendaciones prácticas y guía operativa para el diagnóstico y tratamiento endoscópico estandarizado del insulinoma, buscando mejorar la calidad de la atención en China.",
+      "bottomLineEn": "This consensus provides practical recommendations and operational guidance for standardized endoscopic diagnosis and treatment of insulinoma, aiming to advance the quality of endoscopic care in China.",
+      "relevance": "Práctica clínica",
+      "pmid": "43042127",
+      "url": "https://doi.org/10.1097/eus.0000000000000222",
+      "source": "Endosc Ultrasound",
+      "date": "2026",
+      "topicId": "net"
     }
   ]
 }

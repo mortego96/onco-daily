@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T15:18:45.485Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Consenso de expertos sobre diagnóstico y tratamiento endoscópico del insulinoma",
+      "headlineEn": "Expert Consensus on Endoscopic Diagnosis and Treatment of Insulinoma",
+      "studyType": "Consenso de Expertos",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "El insulinoma es un tumor neuroendocrino pancreático funcional raro que causa hipoglucemia.",
+          "en": "Insulinoma is a rare functional pancreatic neuroendocrine tumor causing hypoglycemia."
+        },
+        {
+          "icon": "target",
+          "es": "El consenso enfatiza enfoques diagnósticos y terapéuticos guiados por endoscopia.",
+          "en": "The consensus emphasizes endoscopy-guided diagnostic and therapeutic approaches."
+        },
+        {
+          "icon": "users",
+          "es": "Desarrollado por expertos chinos para estandarizar el cuidado endoscópico del insulinoma.",
+          "en": "Developed by Chinese experts to standardize endoscopic care for insulinoma."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La calidad de la evidencia y la fuerza de las recomendaciones se evaluaron con el sistema GRADE.",
+          "en": "Evidence quality and recommendation strength were assessed using the GRADE system."
+        }
+      ],
+      "bottomLineEs": "Este consenso proporciona recomendaciones prácticas y guía operativa para el diagnóstico y tratamiento endoscópico estandarizado del insulinoma, buscando mejorar la calidad de la atención en China.",
+      "bottomLineEn": "This consensus provides practical recommendations and operational guidance for standardized endoscopic diagnosis and treatment of insulinoma, aiming to advance the quality of endoscopic care in China.",
+      "relevance": "Práctica clínica",
+      "pmid": "43042127",
+      "url": "https://doi.org/10.1097/eus.0000000000000222",
+      "source": "Endosc Ultrasound",
+      "date": "2026",
+      "topicId": "net"
+    }
+  ]
+}
