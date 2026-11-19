@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T15:26:02.403Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Consideraciones prácticas para el uso seguro de inmunoterapia en Cáncer de Vía Biliar avanzado",
+      "headlineEn": "Practical Considerations for Safe Immunotherapy Use in Advanced Biliary Tract Cancer",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Pembrolizumab o durvalumab + gemcitabina/cisplatino es una opción de primera línea para BTC irresecable o metastásico.",
+          "en": "Pembrolizumab or durvalumab + gemcitabine/cisplatin is a first-line option for unresectable or metastatic BTC."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La obstrucción biliar, colangitis, stents, disfunción hepática/renal, fragilidad y polifarmacia complican el tratamiento y la atribución de eventos adversos.",
+          "en": "Biliary obstruction, cholangitis, stents, hepatic/renal dysfunction, frailty, and polypharmacy complicate treatment and adverse event attribution."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La evidencia disponible no establece una ventaja de seguridad para ninguno de los inhibidores de checkpoint (pembrolizumab o durvalumab).",
+          "en": "Available evidence does not establish a safety advantage for either checkpoint inhibitor (pembrolizumab or durvalumab)."
+        },
+        {
+          "icon": "pill",
+          "es": "El manejo depende de identificar la causa probable y decidir la intervención (biliar, corticosteroides o ajuste de dosis de quimioterapia).",
+          "en": "Management depends on identifying the likely cause and deciding on intervention (biliary, corticosteroids, or chemotherapy dose adjustment)."
+        }
+      ],
+      "bottomLineEs": "La gestión de la toxicidad en BTC avanzado tratado con inmunoterapia + quimioterapia requiere una cuidadosa diferenciación entre eventos adversos relacionados con el tratamiento y complicaciones de la enfermedad, sin una ventaja de seguridad clara entre pembrolizumab o durvalumab.",
+      "bottomLineEn": "Managing toxicity in advanced BTC treated with immunotherapy + chemotherapy requires careful differentiation between treatment-related adverse events and disease complications, with no clear safety advantage between pembrolizumab or durvalumab.",
+      "relevance": "Práctica clínica",
+      "pmid": "43051624",
+      "url": "https://doi.org/10.1080/17425255.2026.2766269",
+      "source": "Expert Opin Drug Metab Toxicol",
+      "date": "2026-Nov-18",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Biomarcadores Circulantes en HCC Temprano: Estratificación de Riesgo, Diagnóstico y Pronóstico",
+      "headlineEn": "Circulating Biomarkers in Early-Stage HCC: Risk Stratification, Diagnosis, and Prognosis",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Las estrategias de vigilancia actuales y los biomarcadores séricos son subóptimos para la detección temprana y el pronóstico del HCC.",
+          "en": "Current surveillance strategies and serum biomarkers are suboptimal for early HCC detection and prognosis."
+        },
+        {
+          "icon": "pill",
+          "es": "La biopsia líquida permite un diagnóstico temprano no invasivo y una evaluación longitudinal de la progresión tumoral.",
+          "en": "Liquid biopsy enables early non-invasive diagnosis and longitudinal assessment of tumor progression."
+        },
+        {
+          "icon": "dna",
+          "es": "Componentes clave incluyen ADNcf, ADNct, CTCs, ARNnc, vesículas extracelulares, proteínas y metabolitos.",
+          "en": "Key components include cfDNA, ctDNA, CTCs, ncRNAs, extracellular vesicles, proteins, and metabolites."
+        },
+        {
+          "icon": "target",
+          "es": "Los biomarcadores circulantes prometen mejorar la detección temprana y la estratificación pronóstica del HCC.",
+          "en": "Circulating biomarkers show promise for improving early detection and prognostic stratification of HCC."
+        }
+      ],
+      "bottomLineEs": "Los biomarcadores circulantes de la biopsia líquida son herramientas emergentes con gran potencial para mejorar el diagnóstico temprano, la estratificación de riesgo y el pronóstico en pacientes con hepatocarcinoma en estadio temprano, complementando o superando las estrategias convencionales.",
+      "bottomLineEn": "Circulating biomarkers from liquid biopsy are emerging tools with significant potential to improve early diagnosis, risk stratification, and prognosis in early-stage hepatocellular carcinoma patients, complementing or outperforming conventional strategies.",
+      "relevance": "Emergente",
+      "pmid": "43053253",
+      "url": "https://doi.org/10.1186/s40364-026-01045-4",
+      "source": "Biomark Res",
+      "date": "2026-Nov-18",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Salud Reproductiva en NEN: Declaración de Posición ENETS",
+      "headlineEn": "Reproductive Health in NEN: ENETS Position Statement",
+      "studyType": "Declaración de posición de expertos",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Creciente población de pacientes con NEN en edad reproductiva, con impacto en su calidad de vida.",
+          "en": "Growing population of NEN patients of reproductive age, impacting their quality of life."
+        },
+        {
+          "icon": "pill",
+          "es": "La enfermedad y sus tratamientos (análogos de somatostatina, terapias dirigidas, quimioterapia, PRRT) pueden afectar la función gonadal y la salud sexual.",
+          "en": "Disease and treatments (somatostatin analogues, targeted therapies, chemotherapy, PRRT) may affect gonadal function and sexual health."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Las estrategias de preservación de la fertilidad y el manejo de la disfunción sexual deben discutirse tempranamente, especialmente en pacientes jóvenes.",
+          "en": "Fertility preservation strategies and sexual dysfunction management should be discussed early, especially in younger patients."
+        },
+        {
+          "icon": "clock",
+          "es": "El embarazo es factible en casos seleccionados, pero requiere planificación cuidadosa y monitorización estrecha debido a riesgos potenciales.",
+          "en": "Pregnancy is feasible in selected cases, requiring careful planning and close monitoring due to potential risks."
+        }
+      ],
+      "bottomLineEs": "Esta declaración de posición de ENETS enfatiza la importancia de integrar el asesoramiento reproductivo en la atención rutinaria de pacientes con NEN, promoviendo la colaboración multidisciplinar para mejorar los resultados centrados en el paciente.",
+      "bottomLineEn": "This ENETS position statement emphasizes integrating reproductive counseling into routine NEN care, promoting multidisciplinary collaboration to improve patient-centered outcomes.",
+      "relevance": "Práctica clínica",
+      "pmid": "43049219",
+      "url": "https://doi.org/10.1111/jne.70327",
+      "source": "J Neuroendocrinol",
+      "date": "2026-Nov",
+      "topicId": "net"
+    }
+  ]
+}
