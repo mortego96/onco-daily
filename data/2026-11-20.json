@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T15:02:35.190Z",
+  "count": 1,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "DNASE1L3: Biomarcador pronóstico positivo en cáncer de páncreas asociado a inmunidad",
+      "headlineEn": "DNASE1L3: Positive Prognostic Biomarker in Pancreatic Cancer Linked to Immunity",
+      "studyType": "Estudio de biomarcadores y mecanismos",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La expresión de DNASE1L3 está elevada en tejidos de PAAD y se asocia positivamente con la supervivencia global (P = 0.006).",
+          "en": "DNASE1L3 expression is elevated in PAAD tissues and positively associated with overall survival (P = 0.006)."
+        },
+        {
+          "icon": "users",
+          "es": "Su expresión se correlaciona positivamente con células T CD8 (r = 0.4) y negativamente con macrófagos (r = -0.42) y células NK (r = -0.28).",
+          "en": "Its expression positively correlates with CD8 T cells (r = 0.4) and negatively with macrophages (r = -0.42) and NK cells (r = -0.28)."
+        },
+        {
+          "icon": "target",
+          "es": "La sobreexpresión de DNASE1L3 inhibió la proliferación, promovió la apoptosis y redujo el crecimiento tumoral in vivo.",
+          "en": "DNASE1L3 overexpression inhibited proliferation, promoted apoptosis, and reduced tumor growth in vivo."
+        },
+        {
+          "icon": "shield-check",
+          "es": "También mejoró la inmunidad antitumoral y aumentó la sensibilidad a oxaliplatino (Oxa).",
+          "en": "It also enhanced anti-tumor immunity and increased oxaliplatin (Oxa) sensitivity."
+        }
+      ],
+      "bottomLineEs": "DNASE1L3 es un biomarcador pronóstico positivo en PDAC, modulando el microambiente inmune y potencialmente aumentando la sensibilidad a la quimioterapia, lo que sugiere un nuevo objetivo terapéutico.",
+      "bottomLineEn": "DNASE1L3 is a positive prognostic biomarker in PDAC, modulating the immune microenvironment and potentially enhancing chemotherapy sensitivity, suggesting a novel therapeutic target.",
+      "relevance": "Preclínico",
+      "pmid": "43058550",
+      "url": "https://doi.org/10.1186/s12885-026-16228-3",
+      "source": "BMC Cancer",
+      "date": "2026-Aug-24",
+      "topicId": "pdac"
+    }
+  ]
+}
