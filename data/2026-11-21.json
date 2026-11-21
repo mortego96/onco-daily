@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T14:24:24.072Z",
+  "count": 5,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Enzimas desubiquitinantes (DUBs) en PDAC: Redes, biomarcadores y estrategias combinadas.",
+      "headlineEn": "Deubiquitinating Enzymes (DUBs) in PDAC: Networks, Biomarkers, and Combination Strategies.",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Las DUBs regulan la estabilidad proteica y vías de señalización clave en el adenocarcinoma de páncreas (PDAC).",
+          "en": "DUBs regulate protein stability and key signaling pathways in pancreatic ductal adenocarcinoma (PDAC)."
+        },
+        {
+          "icon": "target",
+          "es": "Múltiples DUBs impactan la progresión y resistencia terapéutica del PDAC a través de vías como KRAS/MAPK y PI3K/AKT/mTOR.",
+          "en": "Multiple DUBs impact PDAC progression and therapeutic resistance via pathways like KRAS/MAPK and PI3K/AKT/mTOR."
+        },
+        {
+          "icon": "pill",
+          "es": "Se exploran estrategias dirigidas a DUBs, incluyendo combinaciones con quimioterapia, metabolismo e inmunoterapia.",
+          "en": "DUB-targeting strategies are explored, including combinations with chemotherapy, metabolic intervention, and immunotherapy."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La mayoría de las estrategias dirigidas a DUBs en PDAC son preclínicas y requieren validación adicional.",
+          "en": "Most DUB-targeted strategies in PDAC are preclinical and require further validation."
+        }
+      ],
+      "bottomLineEs": "La traslación de las DUBs en PDAC debe enfocarse en ejes DUB-sustrato bien definidos, con biomarcadores medibles y validación clínica, priorizando combinaciones racionales. La mayoría de las estrategias son preclínicas.",
+      "bottomLineEn": "DUB-centered translation in PDAC should focus on well-defined DUB-substrate axes, with measurable biomarkers and clinical validation, prioritizing rational combinations. Most strategies remain preclinical.",
+      "relevance": "Preclínico",
+      "pmid": "43065030",
+      "url": "https://doi.org/10.1186/s12967-026-08838-z",
+      "source": "J Transl Med",
+      "date": "2026-Aug-26",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "SKIL y KRAS mutados promueven tumorigénesis pancreática por degradación de Smad4",
+      "headlineEn": "Mutant SKIL and KRAS synergistically drive pancreatic tumorigenesis via Smad4 degradation",
+      "studyType": "Estudio preclínico y traslacional",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "La pérdida de SKIL y la activación de KRAS son eventos cooperadores en el desarrollo del cáncer de páncreas.",
+          "en": "SKIL loss and KRAS activation are cooperating events in pancreatic cancer development."
+        },
+        {
+          "icon": "target",
+          "es": "SKIL protege Smad4; su pérdida lo expone a ubiquitinación, potenciada por KRAS vía la ligasa E3 SMURF2.",
+          "en": "SKIL protects Smad4; its loss exposes it to ubiquitination, enhanced by KRAS via the E3 ligase SMURF2."
+        },
+        {
+          "icon": "dna",
+          "es": "La degradación de Smad4 mediada por ubiquitina-proteasoma es clave en la tumorigénesis pancreática.",
+          "en": "Ubiquitin-proteasome-mediated Smad4 degradation is key in pancreatic tumorigenesis."
+        },
+        {
+          "icon": "users",
+          "es": "Se observó una correlación positiva entre la expresión de SKIL y Smad4 en tejidos de IPMN con KRAS mutado.",
+          "en": "A positive correlation was observed between SKIL and Smad4 expression in KRAS-mutant IPMN tissues."
+        }
+      ],
+      "bottomLineEs": "Este estudio identifica una sinergia molecular entre la pérdida de SKIL y la activación de KRAS que impulsa la tumorigénesis pancreática a través de la degradación de Smad4, lo que podría ayudar a identificar poblaciones de alto riesgo.",
+      "bottomLineEn": "This study identifies a novel molecular synergy between SKIL loss and KRAS activation driving pancreatic tumorigenesis via Smad4 degradation, potentially aiding in identifying high-risk populations.",
+      "relevance": "Preclínico",
+      "pmid": "43058829",
+      "url": "https://doi.org/10.1186/s13046-026-03814-3",
+      "source": "J Exp Clin Cancer Res",
+      "date": "2026-Aug-25",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "FAPI PET en tumores hepatobiliares y fibrosis hepática: diagnóstico y terapia",
+      "headlineEn": "FAPI PET in Hepatobiliary Tumors and Liver Fibrosis: Diagnosis and Therapy",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "FAP es un objetivo de imagen compartido en estroma hepático activado y microambiente tumoral hepatobiliar.",
+          "en": "FAP is a shared imaging target in activated hepatic stroma and hepatobiliary tumor microenvironments."
+        },
+        {
+          "icon": "dna",
+          "es": "FAPI PET puede mejorar la detección de lesiones frente a FDG PET, pero no supera a RMN/elastografía estándar.",
+          "en": "FAPI PET may improve lesion detection over FDG PET, but not superior to standard MRI/elastography."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La inflamación, reparación y fibrosis de fondo limitan la especificidad de FAPI PET.",
+          "en": "Inflammation, repair, and background fibrosis limit FAPI PET specificity."
+        },
+        {
+          "icon": "pill",
+          "es": "La radioligandoterapia con FAPI es factible, pero con toxicidad hematológica; seguridad en cirróticos no establecida.",
+          "en": "FAPI radioligand therapy is feasible but with hematologic toxicity; safety in cirrhotic patients unestablished."
+        }
+      ],
+      "bottomLineEs": "FAPI PET es una herramienta prometedora para diagnóstico y terapia en tumores hepatobiliares y fibrosis, pero requiere validación prospectiva antes de su uso rutinario, especialmente en pacientes cirróticos.",
+      "bottomLineEn": "FAPI PET shows promise for diagnosis and therapy in hepatobiliary tumors and fibrosis, but requires prospective validation before routine use, especially in cirrhotic patients.",
+      "relevance": "Emergente",
+      "pmid": "43064173",
+      "url": "https://doi.org/10.1016/j.phrs.2026.109753",
+      "source": "Pharmacol Res",
+      "date": "2026-Nov-20",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Análisis de red identifica náuseas y boca seca como dianas para manejo de síntomas post-TACE en HCC",
+      "headlineEn": "Network analysis identifies nausea and dry mouth as symptom management targets post-TACE in HCC",
+      "studyType": "Estudio transversal",
+      "trialName": null,
+      "n": "312",
+      "primaryMetricLabelEs": "Síntomas prevalentes",
+      "primaryMetricLabelEn": "Prevalent symptoms",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "312 pacientes con HCC evaluados 24-48h post-TACE.",
+          "en": "312 HCC patients assessed 24-48h post-TACE."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Fatiga (86.5%), sueño alterado (83.7%) y falta de apetito (75.0%) fueron los síntomas más prevalentes.",
+          "en": "Fatigue (86.5%), disturbed sleep (83.7%), and lack of appetite (75.0%) were the most prevalent symptoms."
+        },
+        {
+          "icon": "target",
+          "es": "La náusea mostró la mayor centralidad de fuerza. La boca seca y la fiebre mostraron las mayores respuestas simuladas a la intervención.",
+          "en": "Nausea showed the highest strength centrality. Dry mouth and fever showed the largest simulated responses to intervention."
+        },
+        {
+          "icon": "tool",
+          "es": "El estudio utilizó modelos gráficos Gaussianos e Ising para analizar asociaciones y simulaciones de síntomas.",
+          "en": "The study used Gaussian graphical and Ising models for symptom association and simulation."
+        }
+      ],
+      "bottomLineEs": "Este estudio exploratorio, basado en análisis de red y simulación, sugiere que la náusea es un síntoma central y que la intervención sobre la boca seca podría tener un impacto amplio en el manejo de síntomas post-TACE en HCC. Requiere validación prospectiva.",
+      "bottomLineEn": "This exploratory study, using network analysis and simulation, suggests nausea as a central symptom and that intervening on dry mouth could broadly impact post-TACE symptom management in HCC. Requires prospective validation.",
+      "relevance": "Emergente",
+      "pmid": "43065393",
+      "url": "https://doi.org/10.3389/fmed.2026.1943199",
+      "source": "Front Med (Lausanne)",
+      "date": "2026",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Identificación de 8 subtipos moleculares de CPNP con posibles dianas terapéuticas",
+      "headlineEn": "Identification of 8 SCLC molecular subtypes with potential therapeutic targets",
+      "studyType": "Análisis transcriptómico / Preclínico",
+      "trialName": null,
+      "n": "146 modelos PDX de CPNP",
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Identificación de 8 subtipos moleculares distintos de CPNP (3 ASCL1-dominantes, 3 NEUROD1-dominantes, 1 ASCL1/NEUROD1 co-activo, 1 REST-activo bajo en neuroendocrino).",
+          "en": "Identification of 8 distinct SCLC molecular subsets (3 ASCL1-dominant, 3 NEUROD1-dominant, 1 ASCL1/NEUROD1 co-active, 1 REST-active low-neuroendocrine)."
+        },
+        {
+          "icon": "target",
+          "es": "Los subtipos difieren en expresión de MYC, activación de factores de transcripción y programas de presentación de antígenos, revelando posibles dianas terapéuticas.",
+          "en": "Subsets differ in MYC expression, transcription factor activation, and antigen presentation programs, revealing potential therapeutic targets."
+        },
+        {
+          "icon": "clock",
+          "es": "Los subtipos de PDX se proyectaron en modelos murinos, líneas celulares y datos de pacientes del ensayo IMpower133, vinculando hallazgos preclínicos con respuestas clínicas.",
+          "en": "PDX subsets were projected onto murine models, cell lines, and patient data from the IMpower133 trial, linking preclinical findings to clinical responses."
+        }
+      ],
+      "bottomLineEs": "Este estudio refina la clasificación del CPNP, identificando subtipos moleculares con posibles dianas terapéuticas, lo que podría guiar futuras estrategias de estratificación y tratamiento.",
+      "bottomLineEn": "This study refines SCLC classification, identifying molecular subtypes with potential therapeutic targets, which could guide future stratification and treatment strategies.",
+      "relevance": "Emergente",
+      "pmid": "43056244",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118312",
+      "source": "Cell Rep",
+      "date": "2026-Nov-19",
+      "topicId": "net"
+    }
+  ]
+}
