@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T14:16:51.051Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "ACTN4 impulsa invasión y señalización WNT/β-catenina en PDAC a través de HDAC7-DACT2",
+      "headlineEn": "ACTN4 drives invasion and WNT/β-catenin signaling in PDAC via HDAC7-DACT2",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "La expresión elevada de ACTN4 se asocia con peor supervivencia y enfermedad metastásica en PDAC.",
+          "en": "Elevated ACTN4 expression correlates with poorer survival and metastatic disease in PDAC."
+        },
+        {
+          "icon": "pill",
+          "es": "La depleción de ACTN4 reduce la invasión y aumenta la sensibilidad a gemcitabina en modelos celulares.",
+          "en": "ACTN4 depletion reduces invasion and increases gemcitabine sensitivity in cellular models."
+        },
+        {
+          "icon": "dna",
+          "es": "La actividad de ACTN4 se vincula a la estabilidad de HDAC7, la reducción de DACT2 y la transcripción dependiente de β-catenina.",
+          "en": "ACTN4 activity is linked to HDAC7 stability, reduced DACT2, and β-catenin-dependent transcription."
+        },
+        {
+          "icon": "target",
+          "es": "El ácido elágico reduce el complejo ACTN4-HDAC7 y atenúa la señalización asociada.",
+          "en": "Ellagic acid reduces the ACTN4-HDAC7 complex and attenuates associated signaling."
+        }
+      ],
+      "bottomLineEs": "Este estudio preclínico revela un eje ACTN4-HDAC7-DACT2-WNT/β-catenina como mecanismo clave en la invasión del PDAC y la resistencia a gemcitabina, sugiriendo nuevas dianas terapéuticas.",
+      "bottomLineEn": "This preclinical study unveils an ACTN4-HDAC7-DACT2-WNT/β-catenin axis as a key mechanism in PDAC invasion and gemcitabine resistance, suggesting novel therapeutic targets.",
+      "relevance": "Preclínico",
+      "pmid": "43068304",
+      "url": "https://doi.org/10.1016/j.isci.2026.118227",
+      "source": "iScience",
+      "date": "2026-Dec-22",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Pancreatoblastoma adulto: Hallazgos en TC de un tumor raro",
+      "headlineEn": "Adult Pancreatoblastoma: CT Findings of an Uncommon Tumor",
+      "studyType": "Revisión de imagen",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Tumor maligno raro (<1% de neoplasias pancreáticas), con mal pronóstico en adultos (metástasis/invasión en ~50% al diagnóstico).",
+          "en": "Rare malignant tumor (<1% of pancreatic neoplasms), poor prognosis in adults (metastasis/invasion in ~50% at diagnosis)."
+        },
+        {
+          "icon": "target",
+          "es": "La TC es la modalidad de primera línea para detección y planificación quirúrgica, aunque los hallazgos se superponen con tumores más comunes.",
+          "en": "CT is first-line for detection and surgical planning, though findings overlap with more common pancreatic tumors."
+        },
+        {
+          "icon": "dna",
+          "es": "Típicamente masa exofítica grande en cabeza pancreática con márgenes definidos y cápsula realzada (a menudo incompleta).",
+          "en": "Typically a large exophytic mass in pancreatic head with defined margins and enhancing capsule (often incomplete)."
+        },
+        {
+          "icon": "dna",
+          "es": "Masa heterogénea (sólida/mixta) con calcificaciones, septos realzados, necrosis, hemorragia o vascularización interna.",
+          "en": "Heterogeneous mass (solid/mixed) with calcifications, enhancing septations, necrosis, hemorrhage, or internal vascularity."
+        }
+      ],
+      "bottomLineEs": "Esta revisión pictórica ilustra el espectro de hallazgos en TC del pancreatoblastoma adulto, un tumor raro con características de imagen que se superponen con otras neoplasias pancreáticas, crucial para el diagnóstico y manejo.",
+      "bottomLineEn": "This pictorial review illustrates the spectrum of CT findings of adult pancreatoblastoma, a rare tumor with imaging characteristics overlapping other pancreatic neoplasms, crucial for diagnosis and management.",
+      "relevance": "Práctica clínica",
+      "pmid": "43066784",
+      "url": "https://doi.org/10.1007/s00261-026-05869-4",
+      "source": "Abdom Radiol (NY)",
+      "date": "2026-Nov-21",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Modelos de Machine Learning mejoran la predicción de supervivencia en HCC",
+      "headlineEn": "Machine Learning Models Improve Survival Prediction in HCC",
+      "studyType": "Estudio de cohorte retrospectivo",
+      "trialName": null,
+      "n": "233 pacientes",
+      "primaryMetricLabelEs": "Discriminación de supervivencia (C-index)",
+      "primaryMetricLabelEn": "Survival Discrimination (C-index)",
+      "arms": [
+        {
+          "name": "HCC asociado a MASLD",
+          "value": "23.0 meses",
+          "months": 23,
+          "highlight": false
+        },
+        {
+          "name": "HCC asociado a VHB",
+          "value": "54.0 meses",
+          "months": 54,
+          "highlight": true
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "El mejor modelo ML (Hybrid) logró un C-index de 0.797, superior a BCLC (0.735).",
+          "en": "Best ML model (Hybrid) achieved a C-index of 0.797, superior to BCLC (0.735)."
+        },
+        {
+          "icon": "dna",
+          "es": "Predictores influyentes: AFP, ECOG, albúmina, diámetro tumoral, bilirrubina total.",
+          "en": "Influential predictors: AFP, ECOG, albumin, tumor diameter, total bilirubin."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia media en HCC asociado a MASLD (23.0 meses) fue menor que en VHB (54.0 meses; p=0.0328).",
+          "en": "Median survival in MASLD-associated HCC (23.0 months) was shorter than HBV (54.0 months; p=0.0328)."
+        },
+        {
+          "icon": "users",
+          "es": "Estudio de cohorte retrospectivo unicéntrico con 233 pacientes.",
+          "en": "Single-center retrospective cohort study with 233 patients."
+        }
+      ],
+      "bottomLineEs": "Los modelos de machine learning, utilizando datos clínicos rutinarios, demostraron una mejor discriminación de la supervivencia en HCC que las puntuaciones clínicas convencionales.",
+      "bottomLineEn": "Machine learning models, using routinely available clinical data, showed better survival discrimination in HCC than conventional clinical scores.",
+      "relevance": "Emergente",
+      "pmid": "43067997",
+      "url": "https://doi.org/10.2147/JHC.S651173",
+      "source": "J Hepatocell Carcinoma",
+      "date": "2026",
+      "topicId": "hcc"
+    }
+  ]
+}
