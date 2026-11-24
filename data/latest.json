@@ -1,12 +1,197 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T17:39:02.128Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T17:09:31.877Z",
   "count": 5,
   "cards": [
     {
       "tumorType": "Páncreas · adenocarcinoma (PDAC)",
-      "headlineEs": "Inhibición de KCa3.1 en PDAC reduce progresión tumoral y fibrosis",
-      "headlineEn": "KCa3.1 Inhibition in PDAC Impairs Tumor Progression and Fibrosis",
+      "headlineEs": "Nanocarrier de metformina mejora la entrega de gemcitabina en adenocarcinoma de páncreas",
+      "headlineEn": "Metformin-derived nanocarrier enhances gemcitabine delivery in pancreatic adenocarcinoma",
+      "studyType": "Preclínico (In vitro)",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Viabilidad celular",
+      "primaryMetricLabelEn": "Cell viability",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Puntos de carbono derivados de metformina (MetCDs) mejoran la entrega de gemcitabina y reducen la dosis efectiva.",
+          "en": "Metformin-derived carbon dots (MetCDs) enhance gemcitabine delivery and reduce effective dose."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La conjugación con MetCDs mejora el índice terapéutico de gemcitabina, aumentando la toxicidad tumoral y minimizando efectos fuera de objetivo.",
+          "en": "MetCDs conjugation improves gemcitabine's therapeutic index, increasing tumor toxicity and minimizing off-target effects."
+        },
+        {
+          "icon": "target",
+          "es": "Acumulación intracelular selectiva y significativamente mayor de MetCDs en células de PDAC frente a células ductales no malignas.",
+          "en": "Selective and markedly higher intracellular accumulation of MetCDs in PDAC cells vs. non-malignant ductal cells."
+        },
+        {
+          "icon": "dna",
+          "es": "El diseño de MetCDs aprovecha su tamaño, potencial de superficie positivo y semejanza estructural con la glutamina.",
+          "en": "MetCDs design leverages their favorable size, positive surface potential, and structural resemblance to glutamine."
+        }
+      ],
+      "bottomLineEs": "Esta plataforma de nanocarriers amplía la ventana terapéutica de gemcitabina y ofrece una estrategia prometedora para superar la quimiorresistencia en PDAC agresivo.",
+      "bottomLineEn": "This nanocarrier platform expands gemcitabine's therapeutic window and offers a promising strategy to overcome chemoresistance in aggressive PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "43076698",
+      "url": "https://doi.org/10.1039/d6bm01301e",
+      "source": "Biomater Sci",
+      "date": "2026-Nov-24",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Factores de riesgo y pronóstico de metástasis ganglionar en IPMC",
+      "headlineEn": "Risk Factors and Prognosis of Lymph Node Metastasis in IPMC",
+      "studyType": "Análisis retrospectivo",
+      "trialName": null,
+      "n": "152 pacientes",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Metástasis ganglionar positiva",
+          "value": "24 meses",
+          "months": 24,
+          "highlight": false
+        },
+        {
+          "name": "Metástasis ganglionar negativa",
+          "value": "97 meses",
+          "months": 97,
+          "highlight": true
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "El 30.9% de los pacientes con IPMC resecado curativamente presentaron metástasis ganglionar.",
+          "en": "30.9% of patients with curatively resected IPMC had lymph node metastasis."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La metástasis ganglionar se asocia a una supervivencia global y libre de enfermedad significativamente peores.",
+          "en": "Lymph node metastasis is associated with significantly worse overall and disease-free survival."
+        },
+        {
+          "icon": "dna",
+          "es": "Factores predictores independientes de metástasis ganglionar: estadio T ≥ 2, invasión extrapancreática, subtipo pancreatobiliar y subtipo gástrico.",
+          "en": "Independent predictors of LN metastasis: T stage ≥ 2, extrapancreatic invasion, pancreatobiliary subtype, and gastric subtype."
+        },
+        {
+          "icon": "target",
+          "es": "El subtipo gástrico mostró las tasas más altas de invasión linfovascular y venosa, indicando un fenotipo invasivo agresivo.",
+          "en": "The gastric subtype showed the highest rates of lymphovascular and venous invasion, indicating an aggressive invasive phenotype."
+        }
+      ],
+      "bottomLineEs": "La metástasis ganglionar es un factor pronóstico clave en el carcinoma papilar mucinoso intraductal (IPMC). El subtipo histológico, el estadio T y la invasión extrapancreática deben guiar la evaluación de riesgo preoperatoria y las decisiones de terapia adyuvante.",
+      "bottomLineEn": "Lymph node metastasis is a key prognostic factor in intraductal papillary mucinous carcinoma (IPMC). Histological subtype, T stage, and extrapancreatic invasion should inform preoperative risk assessment and adjuvant therapy decisions.",
+      "relevance": "Práctica clínica",
+      "pmid": "43073574",
+      "url": "https://doi.org/10.1245/s10434-026-20944-2",
+      "source": "Ann Surg Oncol",
+      "date": "2026-Nov-23",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Extracto de semilla de calabaza sinergiza con cisplatino en colangiocarcinoma in vitro.",
+      "headlineEn": "Pumpkin seed extract synergizes with cisplatin in cholangiocarcinoma in vitro.",
+      "studyType": "Estudio in vitro",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Viabilidad celular y sinergia",
+      "primaryMetricLabelEn": "Cell viability and synergy",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Estudio in vitro en células de colangiocarcinoma TFK-1.",
+          "en": "In vitro study in TFK-1 cholangiocarcinoma cells."
+        },
+        {
+          "icon": "pill",
+          "es": "Extracto de semilla de calabaza (PSE) y cisplatino reducen la viabilidad celular.",
+          "en": "Pumpkin seed extract (PSE) and cisplatin reduce cell viability."
+        },
+        {
+          "icon": "target",
+          "es": "Combinación PSE-cisplatino muestra sinergia y mejora la apoptosis.",
+          "en": "PSE-cisplatin combination shows synergy and enhances apoptosis."
+        },
+        {
+          "icon": "shield-check",
+          "es": "PSE es un adyuvante prometedor y no tóxico.",
+          "en": "PSE is a promising, non-toxic adjuvant."
+        }
+      ],
+      "bottomLineEs": "El extracto de semilla de calabaza (PSE) muestra un potencial sinérgico con cisplatino en células de colangiocarcinoma (TFK-1), mejorando la detención del ciclo celular y la apoptosis, sugiriendo un adyuvante no tóxico para terapias basadas en cisplatino.",
+      "bottomLineEn": "Pumpkin seed extract (PSE) demonstrates synergistic potential with cisplatin in cholangiocarcinoma (TFK-1) cells, enhancing cell cycle arrest and apoptosis, suggesting a non-toxic adjuvant for cisplatin-based therapies.",
+      "relevance": "Preclínico",
+      "pmid": "43071908",
+      "url": "https://doi.org/10.1080/14786419.2026.2752042",
+      "source": "Nat Prod Res",
+      "date": "2026-Nov-23",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "18F-OC PET/CT: Alta Precisión Diagnóstica para Tumores Neuroendocrinos",
+      "headlineEn": "18F-OC PET/CT: High Diagnostic Accuracy for Neuroendocrine Tumours",
+      "studyType": "Estudio de precisión diagnóstica",
+      "trialName": null,
+      "n": "55 pacientes",
+      "primaryMetricLabelEs": "Precisión Diagnóstica (Sensibilidad/Especificidad)",
+      "primaryMetricLabelEn": "Diagnostic Accuracy (Sensitivity/Specificity)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "55 pacientes con sospecha de NET (70.9% confirmados histopatológicamente).",
+          "en": "55 patients with suspected NET (70.9% histopathologically confirmed)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Sensibilidad del 92.3% (IC95% 79.7-97.3) y especificidad del 87.5% (IC95% 64.0-96.5) para la detección de NET.",
+          "en": "92.3% sensitivity (95% CI 79.7-97.3) and 87.5% specificity (95% CI 64.0-96.5) for NET detection."
+        },
+        {
+          "icon": "dna",
+          "es": "Histopatología como estándar de oro para la confirmación de NET.",
+          "en": "Histopathology as gold standard for NET confirmation."
+        },
+        {
+          "icon": "clock",
+          "es": "El trazador 18F ofrece ventajas logísticas para una mayor accesibilidad en comparación con 68Ga.",
+          "en": "18F tracer offers logistical advantages for broader access compared to 68Ga."
+        }
+      ],
+      "bottomLineEs": "El PET/CT con 18F-OC demuestra un alto rendimiento diagnóstico para NET, con ventajas logísticas sobre los trazadores de 68Ga, facilitando un mayor acceso a la imagen de receptores de somatostatina.",
+      "bottomLineEn": "18F-OC PET/CT shows high diagnostic performance for NET, with logistical advantages over 68Ga tracers, facilitating broader access to somatostatin receptor imaging.",
+      "relevance": "Práctica clínica",
+      "pmid": "43074798",
+      "url": "https://doi.org/10.3332/ecancer.2026.2171",
+      "source": "Ecancermedicalscience",
+      "date": "2026",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Mecanismos de resistencia a la inhibición de KRAS en adenocarcinoma de páncreas",
+      "headlineEn": "Resistance Mechanisms to KRAS Inhibition in Pancreatic Adenocarcinoma",
       "studyType": "Preclínico",
       "trialName": null,
       "n": null,
@@ -18,204 +203,32 @@
       "facts": [
         {
           "icon": "dna",
-          "es": "Mayor expresión de KCa3.1 se correlaciona con peor supervivencia global en pacientes con PDAC.",
-          "en": "Increased KCa3.1 expression correlates with poor overall survival in PDAC patients."
+          "es": "Modelos preclínicos de PDAC: degradación de KRASG12D y modelo murino KrasG12V tratado con RMC-7977 (inhibidor RAS(ON)).",
+          "en": "Preclinical PDAC models: KRASG12D degradation and KrasG12V mouse model treated with RMC-7977 (RAS(ON) inhibitor)."
         },
         {
-          "icon": "users",
-          "es": "Estudio en modelo murino KPfC y células PDAC, evaluando inhibidores de KCa3.1 (TRAM-34, maurotoxin) solos o con gemcitabina.",
-          "en": "Study in KPfC mouse model and PDAC cells, evaluating KCa3.1 inhibitors (TRAM-34, maurotoxin) alone or with gemcitabine."
+          "icon": "alert-triangle",
+          "es": "Dos vías de resistencia: RAS-dependiente (upregulación de RAS WT) y RAS-independiente (eje FYN/SFK-YAP).",
+          "en": "Two resistance pathways: RAS-dependent (WT RAS upregulation) and RAS-independent (FYN/SFK-YAP axis)."
         },
         {
           "icon": "target",
-          "es": "La inhibición de KCa3.1 combinada con gemcitabina disminuyó el crecimiento tumoral y la fibrosis inducida por gemcitabina in vivo.",
-          "en": "KCa3.1 inhibition combined with gemcitabine decreased tumor growth and counteracted gemcitabine-induced fibrosis in vivo."
+          "es": "La resistencia RAS-independiente se asocia a FYN elevado, MAPK suprimido pero proliferación restaurada.",
+          "en": "RAS-independent resistance linked to elevated FYN, suppressed MAPK but restored proliferation."
         },
         {
-          "icon": "dna",
-          "es": "La inhibición de KCa3.1 redujo la transición epitelial-mesenquimal, marcadores de agotamiento de células T y TGF-β1.",
-          "en": "KCa3.1 inhibition diminished epithelial-mesenchymal transition, T cell exhaustion markers, and TGF-β1 secretion."
+          "icon": "pill",
+          "es": "La combinación de antagonismo de FYN/SFK con RMC-7977 previene la resistencia en el modelo murino.",
+          "en": "FYN/SFK antagonism combined with RMC-7977 prevents resistance in mouse model."
         }
       ],
-      "bottomLineEs": "La inhibición de los canales KCa3.1 muestra potencial terapéutico en PDAC al reducir la progresión tumoral y modular el microambiente, sugiriendo una nueva vía para la terapia combinada.",
-      "bottomLineEn": "Targeting KCa3.1 channels shows therapeutic potential in PDAC by impairing tumor progression and modulating the microenvironment, suggesting a novel avenue for combination therapy.",
+      "bottomLineEs": "Este estudio preclínico revela vías de resistencia RAS-dependientes e -independientes a la inhibición de KRAS en PDAC, sugiriendo estrategias de combinación con inhibidores de FYN/SFK para terapias más duraderas.",
+      "bottomLineEn": "This preclinical study uncovers RAS-dependent and -independent resistance pathways to KRAS inhibition in PDAC, suggesting combination strategies with FYN/SFK inhibitors for more durable therapies.",
       "relevance": "Preclínico",
-      "pmid": "43070308",
-      "url": "https://doi.org/10.1172/jci.insight.196385",
-      "source": "JCI Insight",
-      "date": "2026-Nov-23",
-      "topicId": "pdac"
-    },
-    {
-      "tumorType": "Vía biliar (BTC)",
-      "headlineEs": "Drenaje suprapapilar con stent plástico para colangiocarcinoma perihiliar resecable: estudio piloto",
-      "headlineEn": "Suprapapillary plastic stent drainage for resectable perihilar cholangiocarcinoma: pilot study",
-      "studyType": "Estudio piloto prospectivo",
-      "trialName": "CHORDA-plastic (NCT05874934)",
-      "n": "40",
-      "primaryMetricLabelEs": "Seguridad (eventos adversos graves relacionados con el drenaje)",
-      "primaryMetricLabelEn": "Safety (severe drainage-related AEs)",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Pacientes con colangiocarcinoma perihiliar (pCCA) resecable o potencialmente resecable.",
-          "en": "Patients with (potentially) resectable perihilar cholangiocarcinoma (pCCA)."
-        },
-        {
-          "icon": "target",
-          "es": "Éxito técnico del stent suprapapilar con cuerda de recuperación: 100% (40/40).",
-          "en": "Technical success of suprapapillary stent with retrieval string: 100% (40/40)."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "Eventos adversos graves relacionados con el drenaje: 33%. Colangitis bacteriana: 13%.",
-          "en": "Severe drainage-related AEs: 33%. Bacterial cholangitis: 13%."
-        },
-        {
-          "icon": "shield-check",
-          "es": "72% de los pacientes evitaron reintervenciones no planificadas antes de la cirugía o el cambio de stent.",
-          "en": "72% of patients avoided unplanned re-interventions before surgery or scheduled stent exchange."
-        }
-      ],
-      "bottomLineEs": "El drenaje biliar endoscópico con stent suprapapilar con cuerda de recuperación es técnicamente factible en pCCA, evitando reintervenciones no planificadas en la mayoría de los pacientes (72%) y con una tasa de colangitis inferior a los informes históricos. Justifica ensayos comparativos más grandes.",
-      "bottomLineEn": "Endoscopic biliary drainage using a suprapapillary stent with a retrieval string is technically feasible in pCCA, avoiding unplanned re-interventions in most patients (72%) and with a lower cholangitis rate than historical reports. It justifies larger comparative trials.",
-      "relevance": "Emergente",
-      "pmid": "43067630",
-      "url": "https://doi.org/10.1007/s00464-026-13541-7",
-      "source": "Surg Endosc",
-      "date": "2026-Nov-21",
-      "topicId": "biliary"
-    },
-    {
-      "tumorType": "Hepatocarcinoma (HCC)",
-      "headlineEs": "Nomograma predictivo de respuesta temprana a terapia triple HAIC en HCC con PVTT",
-      "headlineEn": "Predictive Nomogram for Early Response to HAIC-Based Triple Therapy in HCC with PVTT",
-      "studyType": "Estudio retrospectivo multicéntrico",
-      "trialName": null,
-      "n": "170",
-      "primaryMetricLabelEs": "Respuesta objetiva temprana",
-      "primaryMetricLabelEn": "Early Objective Response",
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Pacientes con HCC irresecable y trombo tumoral en vena porta (PVTT).",
-          "en": "Patients with unresectable HCC and portal vein tumor thrombus (PVTT)."
-        },
-        {
-          "icon": "pill",
-          "es": "Evaluación de respuesta temprana a terapia triple basada en HAIC.",
-          "en": "Evaluation of early response to HAIC-based triple therapy."
-        },
-        {
-          "icon": "dna",
-          "es": "Nomograma incorpora ln(SII), PNI y ratio DWI-to-ADC normalizado.",
-          "en": "Nomogram incorporates ln(SII), PNI, and normalized DWI-to-ADC ratio."
-        },
-        {
-          "icon": "shield-check",
-          "es": "AUCs de 0.934 (entrenamiento) y 0.924 (validación externa) para respuesta objetiva temprana.",
-          "en": "AUCs of 0.934 (training) and 0.924 (external validation) for early objective response."
-        }
-      ],
-      "bottomLineEs": "Este nomograma pretratamiento mostró una discriminación prometedora para predecir la respuesta objetiva temprana en pacientes seleccionados con HCC y PVTT que reciben terapia triple basada en HAIC, correlacionándose con una mayor supervivencia global y libre de progresión.",
-      "bottomLineEn": "This pretreatment nomogram showed promising discrimination for predicting early objective response in selected HCC patients with PVTT receiving HAIC-based triple therapy, correlating with longer overall and progression-free survival.",
-      "relevance": "Emergente",
-      "pmid": "43070613",
-      "url": "https://doi.org/10.1080/08941939.2026.2764540",
-      "source": "J Invest Surg",
-      "date": "2026-Dec",
-      "topicId": "hcc"
-    },
-    {
-      "tumorType": "Tumores neuroendocrinos (NET)",
-      "headlineEs": "Avances en tumores tímicos: terapia local, combinaciones y molecular",
-      "headlineEn": "Advances in Thymic Tumors: Local, Combinations, and Molecular",
-      "studyType": "Revisión",
-      "trialName": null,
-      "n": null,
-      "primaryMetricLabelEs": null,
-      "primaryMetricLabelEn": null,
-      "arms": [],
-      "hr": null,
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "target",
-          "es": "Tratamiento multimodal para enfermedad localmente avanzada o diseminación pleural.",
-          "en": "Multimodality treatment for locally advanced or pleural dissemination."
-        },
-        {
-          "icon": "pill",
-          "es": "Nuevas estrategias incluyen quimioinmunoterapia de primera línea y lenvatinib + pembrolizumab post-platino.",
-          "en": "New strategies include first-line chemoimmunotherapy and lenvatinib + pembrolizumab post-platinum."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La quimioinmunoterapia perioperatoria puede causar toxicidad inmune grave, incluyendo miocarditis fatal.",
-          "en": "Perioperative chemoimmunotherapy may cause severe immune toxicity, including fatal myocarditis."
-        },
-        {
-          "icon": "dna",
-          "es": "Se expande la evidencia para NET tímicos bien diferenciados, incluyendo datos de NET extrapancreáticos.",
-          "en": "Evidence expands for well-differentiated thymic NETs, including data from extrapancreatic NETs."
-        }
-      ],
-      "bottomLineEs": "Los avances se centran en el tratamiento local multimodal y combinaciones farmacológicas. La selección del tratamiento depende de la histología, exposición previa y diferenciación del NET.",
-      "bottomLineEn": "Advances focus on local multimodality treatment and drug combinations. Treatment selection is guided by histology, prior exposure, and NET differentiation.",
-      "relevance": "Práctica clínica",
-      "pmid": "43070853",
-      "url": "https://doi.org/10.1097/CCO.0000000000001285",
-      "source": "Curr Opin Oncol",
+      "pmid": "43076691",
+      "url": "https://doi.org/10.1158/0008-5472.CAN-26-0691",
+      "source": "Cancer Res",
       "date": "2026-Nov-24",
-      "topicId": "net"
-    },
-    {
-      "tumorType": "Vías moleculares · KRAS",
-      "headlineEs": "Paisaje genómico y biomarcadores pronósticos en cáncer colorrectal metastásico solo en hígado",
-      "headlineEn": "Genomic landscape and prognostic biomarkers in liver-only metastatic colorectal cancer",
-      "studyType": "Estudio de caracterización genómica retrospectivo",
-      "trialName": null,
-      "n": "N=72 (metástasis solo en hígado); N=26 (metástasis solo en pulmón/peritoneo)",
-      "primaryMetricLabelEs": "Supervivencia Global (SG)",
-      "primaryMetricLabelEn": "Overall Survival (OS)",
-      "arms": [],
-      "hr": "3.2 (IC95% 1.6-6.4)",
-      "pfs": null,
-      "facts": [
-        {
-          "icon": "users",
-          "es": "Población con metástasis solo en hígado: 66.67% hombres, 55.56% tumor primario del lado izquierdo.",
-          "en": "Liver-only mCRC population: 66.67% males, 55.56% left-sided primary tumor."
-        },
-        {
-          "icon": "dna",
-          "es": "Genes más mutados en mCRC solo en hígado: TP53 (83%), APC (76%), KRAS (50%), BRAF (14%). KRAS y BRAF son mutuamente excluyentes.",
-          "en": "Most mutated genes in liver-only mCRC: TP53 (83%), APC (76%), KRAS (50%), BRAF (14%). KRAS and BRAF mutations are mutually exclusive."
-        },
-        {
-          "icon": "alert-triangle",
-          "es": "La mutación BRAF se asocia independientemente con peor Supervivencia Global (SG).",
-          "en": "BRAF mutation is independently associated with poorer Overall Survival (OS)."
-        },
-        {
-          "icon": "pill",
-          "es": "Mutaciones KRAS/NRAS confieren resistencia a anti-EGFR (cetuximab, panitumumab) y deben evaluarse antes del tratamiento.",
-          "en": "KRAS/NRAS mutations confer resistance to anti-EGFR (cetuximab, panitumumab) and should be evaluated before treatment."
-        }
-      ],
-      "bottomLineEs": "Este estudio caracteriza el perfil genómico del cáncer colorrectal con metástasis solo en hígado, identificando la mutación BRAF como un biomarcador pronóstico independiente de peor SG y destacando la importancia de evaluar el estado de KRAS/NRAS para la terapia anti-EGFR.",
-      "bottomLineEn": "This study characterizes the genomic profile of colorectal cancer with liver-only metastasis, identifying BRAF mutation as an independent prognostic biomarker for poorer OS and highlighting the importance of assessing KRAS/NRAS status for anti-EGFR therapy.",
-      "relevance": "Práctica clínica",
-      "pmid": "43068601",
-      "url": "https://doi.org/10.1016/j.neo.2026.101412",
-      "source": "Neoplasia",
-      "date": "2026-Nov-19",
       "topicId": "kras"
     }
   ]

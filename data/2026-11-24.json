@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T17:09:31.877Z",
+  "count": 5,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Nanocarrier de metformina mejora la entrega de gemcitabina en adenocarcinoma de páncreas",
+      "headlineEn": "Metformin-derived nanocarrier enhances gemcitabine delivery in pancreatic adenocarcinoma",
+      "studyType": "Preclínico (In vitro)",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Viabilidad celular",
+      "primaryMetricLabelEn": "Cell viability",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Puntos de carbono derivados de metformina (MetCDs) mejoran la entrega de gemcitabina y reducen la dosis efectiva.",
+          "en": "Metformin-derived carbon dots (MetCDs) enhance gemcitabine delivery and reduce effective dose."
+        },
+        {
+          "icon": "shield-check",
+          "es": "La conjugación con MetCDs mejora el índice terapéutico de gemcitabina, aumentando la toxicidad tumoral y minimizando efectos fuera de objetivo.",
+          "en": "MetCDs conjugation improves gemcitabine's therapeutic index, increasing tumor toxicity and minimizing off-target effects."
+        },
+        {
+          "icon": "target",
+          "es": "Acumulación intracelular selectiva y significativamente mayor de MetCDs en células de PDAC frente a células ductales no malignas.",
+          "en": "Selective and markedly higher intracellular accumulation of MetCDs in PDAC cells vs. non-malignant ductal cells."
+        },
+        {
+          "icon": "dna",
+          "es": "El diseño de MetCDs aprovecha su tamaño, potencial de superficie positivo y semejanza estructural con la glutamina.",
+          "en": "MetCDs design leverages their favorable size, positive surface potential, and structural resemblance to glutamine."
+        }
+      ],
+      "bottomLineEs": "Esta plataforma de nanocarriers amplía la ventana terapéutica de gemcitabina y ofrece una estrategia prometedora para superar la quimiorresistencia en PDAC agresivo.",
+      "bottomLineEn": "This nanocarrier platform expands gemcitabine's therapeutic window and offers a promising strategy to overcome chemoresistance in aggressive PDAC.",
+      "relevance": "Preclínico",
+      "pmid": "43076698",
+      "url": "https://doi.org/10.1039/d6bm01301e",
+      "source": "Biomater Sci",
+      "date": "2026-Nov-24",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Factores de riesgo y pronóstico de metástasis ganglionar en IPMC",
+      "headlineEn": "Risk Factors and Prognosis of Lymph Node Metastasis in IPMC",
+      "studyType": "Análisis retrospectivo",
+      "trialName": null,
+      "n": "152 pacientes",
+      "primaryMetricLabelEs": "Supervivencia Global (SG)",
+      "primaryMetricLabelEn": "Overall Survival (OS)",
+      "arms": [
+        {
+          "name": "Metástasis ganglionar positiva",
+          "value": "24 meses",
+          "months": 24,
+          "highlight": false
+        },
+        {
+          "name": "Metástasis ganglionar negativa",
+          "value": "97 meses",
+          "months": 97,
+          "highlight": true
+        }
+      ],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "El 30.9% de los pacientes con IPMC resecado curativamente presentaron metástasis ganglionar.",
+          "en": "30.9% of patients with curatively resected IPMC had lymph node metastasis."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La metástasis ganglionar se asocia a una supervivencia global y libre de enfermedad significativamente peores.",
+          "en": "Lymph node metastasis is associated with significantly worse overall and disease-free survival."
+        },
+        {
+          "icon": "dna",
+          "es": "Factores predictores independientes de metástasis ganglionar: estadio T ≥ 2, invasión extrapancreática, subtipo pancreatobiliar y subtipo gástrico.",
+          "en": "Independent predictors of LN metastasis: T stage ≥ 2, extrapancreatic invasion, pancreatobiliary subtype, and gastric subtype."
+        },
+        {
+          "icon": "target",
+          "es": "El subtipo gástrico mostró las tasas más altas de invasión linfovascular y venosa, indicando un fenotipo invasivo agresivo.",
+          "en": "The gastric subtype showed the highest rates of lymphovascular and venous invasion, indicating an aggressive invasive phenotype."
+        }
+      ],
+      "bottomLineEs": "La metástasis ganglionar es un factor pronóstico clave en el carcinoma papilar mucinoso intraductal (IPMC). El subtipo histológico, el estadio T y la invasión extrapancreática deben guiar la evaluación de riesgo preoperatoria y las decisiones de terapia adyuvante.",
+      "bottomLineEn": "Lymph node metastasis is a key prognostic factor in intraductal papillary mucinous carcinoma (IPMC). Histological subtype, T stage, and extrapancreatic invasion should inform preoperative risk assessment and adjuvant therapy decisions.",
+      "relevance": "Práctica clínica",
+      "pmid": "43073574",
+      "url": "https://doi.org/10.1245/s10434-026-20944-2",
+      "source": "Ann Surg Oncol",
+      "date": "2026-Nov-23",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Extracto de semilla de calabaza sinergiza con cisplatino en colangiocarcinoma in vitro.",
+      "headlineEn": "Pumpkin seed extract synergizes with cisplatin in cholangiocarcinoma in vitro.",
+      "studyType": "Estudio in vitro",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": "Viabilidad celular y sinergia",
+      "primaryMetricLabelEn": "Cell viability and synergy",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Estudio in vitro en células de colangiocarcinoma TFK-1.",
+          "en": "In vitro study in TFK-1 cholangiocarcinoma cells."
+        },
+        {
+          "icon": "pill",
+          "es": "Extracto de semilla de calabaza (PSE) y cisplatino reducen la viabilidad celular.",
+          "en": "Pumpkin seed extract (PSE) and cisplatin reduce cell viability."
+        },
+        {
+          "icon": "target",
+          "es": "Combinación PSE-cisplatino muestra sinergia y mejora la apoptosis.",
+          "en": "PSE-cisplatin combination shows synergy and enhances apoptosis."
+        },
+        {
+          "icon": "shield-check",
+          "es": "PSE es un adyuvante prometedor y no tóxico.",
+          "en": "PSE is a promising, non-toxic adjuvant."
+        }
+      ],
+      "bottomLineEs": "El extracto de semilla de calabaza (PSE) muestra un potencial sinérgico con cisplatino en células de colangiocarcinoma (TFK-1), mejorando la detención del ciclo celular y la apoptosis, sugiriendo un adyuvante no tóxico para terapias basadas en cisplatino.",
+      "bottomLineEn": "Pumpkin seed extract (PSE) demonstrates synergistic potential with cisplatin in cholangiocarcinoma (TFK-1) cells, enhancing cell cycle arrest and apoptosis, suggesting a non-toxic adjuvant for cisplatin-based therapies.",
+      "relevance": "Preclínico",
+      "pmid": "43071908",
+      "url": "https://doi.org/10.1080/14786419.2026.2752042",
+      "source": "Nat Prod Res",
+      "date": "2026-Nov-23",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "18F-OC PET/CT: Alta Precisión Diagnóstica para Tumores Neuroendocrinos",
+      "headlineEn": "18F-OC PET/CT: High Diagnostic Accuracy for Neuroendocrine Tumours",
+      "studyType": "Estudio de precisión diagnóstica",
+      "trialName": null,
+      "n": "55 pacientes",
+      "primaryMetricLabelEs": "Precisión Diagnóstica (Sensibilidad/Especificidad)",
+      "primaryMetricLabelEn": "Diagnostic Accuracy (Sensitivity/Specificity)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "55 pacientes con sospecha de NET (70.9% confirmados histopatológicamente).",
+          "en": "55 patients with suspected NET (70.9% histopathologically confirmed)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Sensibilidad del 92.3% (IC95% 79.7-97.3) y especificidad del 87.5% (IC95% 64.0-96.5) para la detección de NET.",
+          "en": "92.3% sensitivity (95% CI 79.7-97.3) and 87.5% specificity (95% CI 64.0-96.5) for NET detection."
+        },
+        {
+          "icon": "dna",
+          "es": "Histopatología como estándar de oro para la confirmación de NET.",
+          "en": "Histopathology as gold standard for NET confirmation."
+        },
+        {
+          "icon": "clock",
+          "es": "El trazador 18F ofrece ventajas logísticas para una mayor accesibilidad en comparación con 68Ga.",
+          "en": "18F tracer offers logistical advantages for broader access compared to 68Ga."
+        }
+      ],
+      "bottomLineEs": "El PET/CT con 18F-OC demuestra un alto rendimiento diagnóstico para NET, con ventajas logísticas sobre los trazadores de 68Ga, facilitando un mayor acceso a la imagen de receptores de somatostatina.",
+      "bottomLineEn": "18F-OC PET/CT shows high diagnostic performance for NET, with logistical advantages over 68Ga tracers, facilitating broader access to somatostatin receptor imaging.",
+      "relevance": "Práctica clínica",
+      "pmid": "43074798",
+      "url": "https://doi.org/10.3332/ecancer.2026.2171",
+      "source": "Ecancermedicalscience",
+      "date": "2026",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Mecanismos de resistencia a la inhibición de KRAS en adenocarcinoma de páncreas",
+      "headlineEn": "Resistance Mechanisms to KRAS Inhibition in Pancreatic Adenocarcinoma",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Modelos preclínicos de PDAC: degradación de KRASG12D y modelo murino KrasG12V tratado con RMC-7977 (inhibidor RAS(ON)).",
+          "en": "Preclinical PDAC models: KRASG12D degradation and KrasG12V mouse model treated with RMC-7977 (RAS(ON) inhibitor)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "Dos vías de resistencia: RAS-dependiente (upregulación de RAS WT) y RAS-independiente (eje FYN/SFK-YAP).",
+          "en": "Two resistance pathways: RAS-dependent (WT RAS upregulation) and RAS-independent (FYN/SFK-YAP axis)."
+        },
+        {
+          "icon": "target",
+          "es": "La resistencia RAS-independiente se asocia a FYN elevado, MAPK suprimido pero proliferación restaurada.",
+          "en": "RAS-independent resistance linked to elevated FYN, suppressed MAPK but restored proliferation."
+        },
+        {
+          "icon": "pill",
+          "es": "La combinación de antagonismo de FYN/SFK con RMC-7977 previene la resistencia en el modelo murino.",
+          "en": "FYN/SFK antagonism combined with RMC-7977 prevents resistance in mouse model."
+        }
+      ],
+      "bottomLineEs": "Este estudio preclínico revela vías de resistencia RAS-dependientes e -independientes a la inhibición de KRAS en PDAC, sugiriendo estrategias de combinación con inhibidores de FYN/SFK para terapias más duraderas.",
+      "bottomLineEn": "This preclinical study uncovers RAS-dependent and -independent resistance pathways to KRAS inhibition in PDAC, suggesting combination strategies with FYN/SFK inhibitors for more durable therapies.",
+      "relevance": "Preclínico",
+      "pmid": "43076691",
+      "url": "https://doi.org/10.1158/0008-5472.CAN-26-0691",
+      "source": "Cancer Res",
+      "date": "2026-Nov-24",
+      "topicId": "kras"
+    }
+  ]
+}
