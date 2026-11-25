@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T16:57:09.825Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Vacunas contra el cáncer: El desafío de la durabilidad de la respuesta de células T",
+      "headlineEn": "Cancer Vaccines: The Challenge of Durable T-Cell Responses",
+      "studyType": "Revisión narrativa",
+      "trialName": "Autogene cevumeran (Fase I)",
+      "n": null,
+      "primaryMetricLabelEs": "Vida media clonal de células T CD8+",
+      "primaryMetricLabelEn": "CD8+ T-cell clonal lifespan",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "Persiste una 'paradoja de durabilidad': respuestas robustas de células T periféricas a menudo no se traducen en beneficio clínico a largo plazo.",
+          "en": "A 'durability paradox' persists: robust peripheral T-cell responses often fail to translate into long-term clinical benefit."
+        },
+        {
+          "icon": "clock",
+          "es": "El ensayo de fase I con autogene cevumeran en PDAC mostró una vida media clonal de células T CD8+ de 7.7 años (estimación de modelo).",
+          "en": "Phase I autogene cevumeran trial in PDAC showed a model-estimated CD8+ T-cell clonal lifespan of 7.7 years."
+        },
+        {
+          "icon": "dna",
+          "es": "La exposición antigénica crónica, la competencia metabólica y la reprogramación epigenética (agotamiento por TOX) erosionan las células T de memoria.",
+          "en": "Chronic antigen exposure, metabolic competition, and epigenetic reprogramming (TOX-driven exhaustion) erode memory T-cell pools."
+        },
+        {
+          "icon": "target",
+          "es": "Estrategias para mejorar la durabilidad incluyen neoantígenos, adyuvantes optimizados, sistemas de liberación sostenida y combinaciones con inhibidores de puntos de control inmunes (ICI).",
+          "en": "Strategies to enhance durability include neoantigens, optimized adjuvants, sustained-release systems, and combinations with immune checkpoint inhibitors (ICIs)."
+        }
+      ],
+      "bottomLineEs": "La convergencia de datos de durabilidad a escala de década con plataformas de ingeniería de próxima generación sugiere que las vacunas pueden convertirse en centinelas inmunes a largo plazo, abordando la preservación de la 'stemness' de las células T y la inmunosupresión del microambiente tumoral.",
+      "bottomLineEn": "Convergence of decade-scale durability data with next-generation engineering platforms suggests vaccines can evolve into long-term immune sentinels, by addressing T-cell stemness preservation and TME immunosuppression.",
+      "relevance": "Emergente",
+      "pmid": "43083748",
+      "url": "https://doi.org/10.3390/vaccines14110918",
+      "source": "Vaccines (Basel)",
+      "date": "2026-Oct-23",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Actualización del tratamiento sistémico del cáncer de vía biliar en Canadá",
+      "headlineEn": "Update on Systemic Treatment for Biliary Tract Cancer in Canada",
+      "studyType": "Revisión de práctica clínica",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "pill",
+          "es": "Gemcitabina-cisplatino (GemCis) + inmunoterapia es el estándar de primera línea para BTC avanzado/irresecable.",
+          "en": "Gemcitabine-cisplatin (GemCis) + immunotherapy is first-line standard for advanced/unresectable BTC."
+        },
+        {
+          "icon": "dna",
+          "es": "El testeo de biomarcadores es crucial para terapias dirigidas (fusiones/reordenamientos FGFR2, HER2, IDH1, BRAF, MSI/dMMR).",
+          "en": "Biomarker testing is crucial for targeted therapies (FGFR2 fusions/rearrangements, HER2, IDH1, BRAF, MSI/dMMR)."
+        },
+        {
+          "icon": "shield-check",
+          "es": "FOLFOX es la terapia de segunda línea estándar; capecitabina adyuvante tras resección curativa.",
+          "en": "FOLFOX is standard second-line therapy; adjuvant capecitabine after curative resection."
+        },
+        {
+          "icon": "target",
+          "es": "Terapias neoadyuvantes y locorregionales son enfoques prometedores para pacientes seleccionados.",
+          "en": "Neoadjuvant and locoregional therapies are promising approaches for selected patients."
+        }
+      ],
+      "bottomLineEs": "La inmunoterapia en primera línea y la creciente importancia del testeo de biomarcadores han transformado el tratamiento sistémico del BTC, mejorando los resultados para pacientes seleccionados.",
+      "bottomLineEn": "First-line immunotherapy and the increasing importance of biomarker testing have transformed systemic BTC treatment, improving outcomes for selected patients.",
+      "relevance": "Práctica clínica",
+      "pmid": "43082482",
+      "url": "https://doi.org/10.3390/curroncol33110719",
+      "source": "Curr Oncol",
+      "date": "2026-Nov-19",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Revisión sistemática de NET ampulares: características clínicas y pronóstico favorable.",
+      "headlineEn": "Systematic Review of Ampullary NETs: Clinical Features and Favorable Prognosis.",
+      "studyType": "Revisión sistemática",
+      "trialName": null,
+      "n": "32 pacientes (16 estudios)",
+      "primaryMetricLabelEs": "Supervivencia global a 5 años",
+      "primaryMetricLabelEn": "5-year overall survival rate",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "32 casos de NET ampulares (19M/13F), edad media 56 años.",
+          "en": "32 ampullary NET cases (19M/13F), median age 56 years."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Biopsia guiada por EUS/ERCP: 100% de precisión diagnóstica preoperatoria.",
+          "en": "EUS/ERCP-guided biopsy: 100% preoperative diagnostic accuracy."
+        },
+        {
+          "icon": "dna",
+          "es": "Tamaño tumoral, profundidad de invasión y grado asociados a metástasis ganglionar.",
+          "en": "Tumor size, invasion depth, and grade linked to lymph node metastasis."
+        },
+        {
+          "icon": "clock",
+          "es": "Supervivencia global a 5 años del 96.4% (mediana de seguimiento 38.9 meses).",
+          "en": "5-year overall survival rate of 96.4% (median follow-up 38.9 months)."
+        }
+      ],
+      "bottomLineEs": "Los NET ampulares son raros y con síntomas inespecíficos. La biopsia guiada por EUS/ERCP mejora la precisión diagnóstica. El tratamiento debe ser individualizado: resección endoscópica para casos tempranos seleccionados y cirugía radical para alto riesgo/avanzados. El pronóstico es favorable, pero se requiere seguimiento por riesgo de recurrencia.",
+      "bottomLineEn": "Ampullary NETs are rare with nonspecific symptoms. EUS/ERCP-guided biopsy improves diagnostic accuracy. Treatment should be individualized: endoscopic resection for selected early cases, radical surgery for high-risk/advanced. Prognosis is favorable, but long-term follow-up is crucial due to recurrence risk.",
+      "relevance": "Práctica clínica",
+      "pmid": "43079519",
+      "url": "https://doi.org/10.1186/s12902-026-02460-2",
+      "source": "BMC Endocr Disord",
+      "date": "2026-Aug-31",
+      "topicId": "net"
+    }
+  ]
+}
