@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T16:35:10.213Z",
+  "count": 5,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "Interacciones Microbio-Tumorales y Estrategias Terapéuticas en Cáncer con Microbios Intratumorales",
+      "headlineEn": "Tumor-Microbe Interactions and Therapeutic Strategies in Cancers with Intratumoral Microbes",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Los microbios intratumorales (ITMs) modulan la biología tumoral, la señalización celular y las respuestas inmunes, afectando la eficacia terapéutica.",
+          "en": "Intratumoral microbes (ITMs) modulate tumor biology, cellular signaling, and immune responses, impacting therapeutic efficacy."
+        },
+        {
+          "icon": "pill",
+          "es": "Bacterias con citidina desaminasa inactivan gemcitabina en PDAC, causando quimiorresistencia inducida por microbios.",
+          "en": "Cytidine deaminase-expressing bacteria inactivate gemcitabine in PDAC, leading to microbe-induced chemoresistance."
+        },
+        {
+          "icon": "target",
+          "es": "La hipoxia, acidez y enzimas microbianas en el microambiente tumoral (TMME) favorecen la persistencia microbiana y afectan el desarrollo tumoral y la respuesta al tratamiento.",
+          "en": "Hypoxia, acidity, and microbial enzymes in the tumor microenvironment (TMME) support microbial persistence and impact tumor development and treatment response."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Estrategias emergentes incluyen modulación microbiana y sistemas de codelivery (p. ej., liposomal ciprofloxacina/gemcitabina) para superar la resistencia y mejorar la eficacia.",
+          "en": "Emerging strategies include microbial modulation and co-delivery systems (e.g., liposomal ciprofloxacin/gemcitabine) to overcome resistance and enhance efficacy."
+        }
+      ],
+      "bottomLineEs": "La modulación o eliminación de microbios intratumorales representa una estrategia prometedora para mejorar los resultados del tratamiento en tumores con quimiorresistencia inducida por microbios, aunque se requieren más avances en diagnóstico y comprensión mecanística.",
+      "bottomLineEn": "Modulating or eliminating intratumoral microbes represents a promising strategy to improve treatment outcomes in tumors with microbe-induced chemoresistance, though further advances in diagnostics and mechanistic understanding are needed.",
+      "relevance": "Emergente",
+      "pmid": "43094352",
+      "url": "https://doi.org/10.20892/j.issn.2095-3941.2026.0337",
+      "source": "Cancer Biol Med",
+      "date": "2026-Nov-20",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Páncreas · otros tumores",
+      "headlineEs": "Índices nutricionales/inflamatorios preoperatorios con valor limitado para predecir complicaciones mayores tras duodenopancreatectomía",
+      "headlineEn": "Limited Value of Preoperative Nutritional/Inflammatory Indices for Predicting Major Complications After Pancreaticoduodenectomy",
+      "studyType": "Estudio de cohorte retrospectivo",
+      "trialName": null,
+      "n": "92 pacientes",
+      "primaryMetricLabelEs": "Complicaciones mayores postoperatorias (Clavien-Dindo ≥ III)",
+      "primaryMetricLabelEn": "Major postoperative complications (Clavien-Dindo ≥ III)",
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "users",
+          "es": "Estudio retrospectivo de 92 pacientes sometidos a duodenopancreatectomía.",
+          "en": "Retrospective study of 92 patients who underwent pancreaticoduodenectomy."
+        },
+        {
+          "icon": "dna",
+          "es": "Los índices PNI, CAR y AGR preoperatorios no mostraron discriminación significativa para predecir complicaciones mayores.",
+          "en": "Preoperative PNI, CAR, and AGR indices did not show significant discrimination for predicting major complications."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La edad ≥ 70 años se asoció con una mayor tasa de complicaciones (48.3% vs 22.2%, p=0.012).",
+          "en": "Age ≥ 70 years was associated with a higher complication rate (48.3% vs 22.2%, p=0.012)."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La patología no maligna/maligna de bajo grado se asoció inesperadamente con una mayor tasa de complicaciones (57.1% vs 25.6%, p=0.018).",
+          "en": "Nonmalignant/low-grade malignant pathology was unexpectedly associated with a higher complication rate (57.1% vs 25.6%, p=0.018)."
+        }
+      ],
+      "bottomLineEs": "En esta cohorte, los índices nutricionales/inflamatorios preoperatorios (PNI, CAR, AGR) no fueron útiles para predecir complicaciones mayores tras duodenopancreatectomía. La edad avanzada y la patología no maligna/de bajo grado se asociaron con mayor riesgo de complicaciones.",
+      "bottomLineEn": "In this cohort, preoperative nutritional/inflammatory indices (PNI, CAR, AGR) were not useful for predicting major complications after pancreaticoduodenectomy. Older age and nonmalignant/low-grade pathology were associated with a higher risk of complications.",
+      "relevance": "Emergente",
+      "pmid": "43091527",
+      "url": "https://doi.org/10.3390/medicina62112130",
+      "source": "Medicina (Kaunas)",
+      "date": "2026-Oct-31",
+      "topicId": "panc_other"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "Estrategias terapéuticas basadas en el microbioma para HCC vía eje intestino-hígado",
+      "headlineEn": "Microbiome-based therapeutic strategies for HCC via gut-liver axis",
+      "studyType": "Revisión",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "La disbiosis promueve el HCC al alterar la barrera intestinal y translocar productos microbianos como LPS.",
+          "en": "Dysbiosis promotes HCC by disrupting intestinal barrier and translocating microbial products like LPS."
+        },
+        {
+          "icon": "target",
+          "es": "Las terapias microbianas incluyen probióticos, trasplante de microbiota fecal y bacterias modificadas.",
+          "en": "Microbial therapeutics include probiotics, fecal microbiota transplantation, and engineered bacteria."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Los microorganismos pueden usarse para la entrega dirigida de terapias y la prevención en poblaciones de alto riesgo.",
+          "en": "Microbes can be used for targeted therapeutic delivery and prevention in high-risk populations."
+        }
+      ],
+      "bottomLineEs": "La modulación del microbioma a través del eje intestino-hígado ofrece una plataforma terapéutica prometedora para el tratamiento y la prevención del HCC, con estrategias que van desde probióticos hasta bacterias diseñadas para entrega dirigida.",
+      "bottomLineEn": "Modulating the microbiome via the gut-liver axis offers a promising therapeutic platform for HCC treatment and prevention, with strategies ranging from probiotics to engineered bacteria for targeted delivery.",
+      "relevance": "Emergente",
+      "pmid": "43094274",
+      "url": "https://doi.org/10.1080/19490976.2026.2765063",
+      "source": "Gut Microbes",
+      "date": "2026-Dec-31",
+      "topicId": "hcc"
+    },
+    {
+      "tumorType": "Tumores neuroendocrinos (NET)",
+      "headlineEs": "Estrés y desregulación neuroendocrina en cáncer colorrectal: Eje HPA-HPT y pronóstico",
+      "headlineEn": "Stress and Neuroendocrine Dysregulation in Colorectal Cancer: HPA-HPT Axis and Prognosis",
+      "studyType": "Revisión narrativa",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "El estrés psicológico y la disrupción circadiana afectan el eje HPA; la inflamación y el tratamiento alteran el eje HPT.",
+          "en": "Psychological stress and circadian disruption affect HPA axis; inflammation and treatment alter HPT axis."
+        },
+        {
+          "icon": "clock",
+          "es": "Concentraciones reducidas de FT3 y ratios FT3/FT4 alterados se asocian a resultados desfavorables en CRC.",
+          "en": "Reduced FT3 concentrations and altered FT3/FT4 ratios are associated with unfavorable outcomes in CRC."
+        },
+        {
+          "icon": "target",
+          "es": "Los parámetros de hormona tiroidea circulante no reflejan directamente la señalización en el microambiente tumoral.",
+          "en": "Circulating thyroid hormone parameters do not directly reflect signaling in the tumor microenvironment."
+        }
+      ],
+      "bottomLineEs": "Se necesita un enfoque integrado para evaluar las alteraciones psicológicas, circadianas, inflamatorias, nutricionales y endocrinas en CRC, con estudios prospectivos.",
+      "bottomLineEn": "An integrated approach is needed to assess psychological, circadian, inflammatory, nutritional, and endocrine alterations in CRC, with prospective studies.",
+      "relevance": "Emergente",
+      "pmid": "43090920",
+      "url": "https://doi.org/10.3390/jcm15228888",
+      "source": "J Clin Med",
+      "date": "2026-Nov-13",
+      "topicId": "net"
+    },
+    {
+      "tumorType": "Vías moleculares · KRAS",
+      "headlineEs": "Modulación de NF-κB por fitoquímicos en adenocarcinoma ductal de páncreas: Avances preclínicos",
+      "headlineEn": "Phytochemical Modulation of NF-κB in Pancreatic Ductal Adenocarcinoma: Preclinical Progress",
+      "studyType": "Revisión Preclínica",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "NF-κB es un nodo regulador clave en el PDAC, integrando señales oncogénicas, inflamatorias y de supervivencia.",
+          "en": "NF-κB is a key regulatory node in PDAC, integrating oncogenic, inflammatory, and survival signals."
+        },
+        {
+          "icon": "pill",
+          "es": "Fitoquímicos como curcumina y xantohumol han sido investigados como moduladores de la actividad de NF-κB.",
+          "en": "Phytochemicals like curcumin and xanthohumol have been investigated as NF-κB activity modulators."
+        },
+        {
+          "icon": "dna",
+          "es": "NF-κB interactúa con vías como KRAS, PI3K-AKT, STAT3 y MAPK, afectando apoptosis y resistencia a quimioterapia.",
+          "en": "NF-κB interacts with pathways like KRAS, PI3K-AKT, STAT3, and MAPK, affecting apoptosis and chemoresistance."
+        },
+        {
+          "icon": "alert-triangle",
+          "es": "La evidencia clínica es limitada, con barreras en biodisponibilidad, exposición tumoral y engagement del objetivo.",
+          "en": "Clinical evidence is limited, with barriers in bioavailability, tumor exposure, and target engagement."
+        }
+      ],
+      "bottomLineEs": "La modulación de NF-κB con fitoquímicos muestra potencial preclínico en PDAC, pero requiere mejoras en farmacocinética y validación de biomarcadores para avanzar a la clínica.",
+      "bottomLineEn": "Phytochemical modulation of NF-κB shows preclinical potential in PDAC, but requires pharmacokinetic improvements and biomarker validation for clinical translation.",
+      "relevance": "Preclínico",
+      "pmid": "43093412",
+      "url": "https://doi.org/10.3390/ph19111828",
+      "source": "Pharmaceuticals (Basel)",
+      "date": "2026-Nov-17",
+      "topicId": "kras"
+    }
+  ]
+}
