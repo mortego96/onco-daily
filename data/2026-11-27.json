@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T16:20:15.003Z",
+  "count": 3,
+  "cards": [
+    {
+      "tumorType": "Páncreas · adenocarcinoma (PDAC)",
+      "headlineEs": "TR-107 y capivasertib muestran sinergia en la inhibición de organoides de PDAC.",
+      "headlineEn": "TR-107 and capivasertib synergistically inhibit PDAC organoid growth.",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "target",
+          "es": "TR-107 activa ClpP, parte del complejo mitocondrial ClpXP que regula la homeostasis.",
+          "en": "TR-107 activates mitochondrial ClpP, part of the ClpXP complex regulating homeostasis."
+        },
+        {
+          "icon": "pill",
+          "es": "TR-107 reduce la viabilidad en organoides y líneas celulares de PDAC a bajas concentraciones nanomolares.",
+          "en": "TR-107 reduces viability in PDAC organoids and cell lines at low-nanomolar concentrations."
+        },
+        {
+          "icon": "dna",
+          "es": "TR-107 sinergiza con capivasertib (inhibidor de AKT) para suprimir la viabilidad celular.",
+          "en": "TR-107 synergizes with capivasertib (AKT inhibitor) to suppress cell viability."
+        },
+        {
+          "icon": "dna",
+          "es": "TR-107 altera la ferroptosis, el metabolismo de aminoácidos y la señalización HIF-1α.",
+          "en": "TR-107 alters ferroptosis, amino acid metabolism, and HIF-1α signaling."
+        }
+      ],
+      "bottomLineEs": "TR-107 es un candidato prometedor que interrumpe la función mitocondrial y podría mejorar los resultados en PDAC en combinación.",
+      "bottomLineEn": "TR-107 is a promising candidate that disrupts mitochondrial function and may improve PDAC outcomes in combination therapies.",
+      "relevance": "Preclínico",
+      "pmid": "43100282",
+      "url": "https://doi.org/10.64898/2026.11.13.766013",
+      "source": "bioRxiv",
+      "date": "2026-Nov-17",
+      "topicId": "pdac"
+    },
+    {
+      "tumorType": "Vía biliar (BTC)",
+      "headlineEs": "Metalohélices de Zn(II) inhiben mTOR y modulan microambiente en colangiocarcinoma intrahepático",
+      "headlineEn": "Zn(II) Metallohelices Inhibit mTOR and Modulate TME in Intrahepatic Cholangiocarcinoma",
+      "studyType": "Preclínico",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "dna",
+          "es": "Nueva clase de metalofármacos: metalohélices de Zn(II) estables al agua con actividad estereoquímica dependiente.",
+          "en": "New class of metallodrugs: water-stable Zn(II) metallohelices with stereochemistry-dependent activity."
+        },
+        {
+          "icon": "target",
+          "es": "Inhibición de la vía PI3K-AKT-mTOR y reducción de la fosforilación de efectores posteriores.",
+          "en": "Inhibition of PI3K-AKT-mTOR pathway and reduced phosphorylation of downstream effectors."
+        },
+        {
+          "icon": "shield-check",
+          "es": "Actividad antiproliferativa potente en colangiocarcinoma intrahepático (ICC) en modelo murino AKT/YAP-driven.",
+          "en": "Potent antiproliferative activity in intrahepatic cholangiocarcinoma (ICC) in AKT/YAP-driven mouse model."
+        },
+        {
+          "icon": "users",
+          "es": "Modulación del microambiente tumoral: reducción de marcadores vasculares/estromales, aumento de CD8+ T y macrófagos.",
+          "en": "Modulation of tumor microenvironment: reduced vascular/stromal markers, increased CD8+ T and macrophages."
+        }
+      ],
+      "bottomLineEs": "Las metalohélices de Zn(II) representan una nueva clase de fármacos con potente actividad anti-ICC, suprimiendo la vía AKT/mTOR y modificando el microambiente tumoral.",
+      "bottomLineEn": "Zn(II) metallohelices are a new class of drugs with potent anti-ICC activity, suppressing the AKT/mTOR pathway and modifying the tumor microenvironment.",
+      "relevance": "Preclínico",
+      "pmid": "43095958",
+      "url": "https://doi.org/10.1021/acs.jmedchem.6c01356",
+      "source": "J Med Chem",
+      "date": "2026-Nov-26",
+      "topicId": "biliary"
+    },
+    {
+      "tumorType": "Hepatocarcinoma (HCC)",
+      "headlineEs": "HCC avanzado: Integración locorregional y sistémica basada en respuesta.",
+      "headlineEn": "Advanced HCC: Response-based locoregional and systemic integration.",
+      "studyType": "Revisión/Perspectiva",
+      "trialName": null,
+      "n": null,
+      "primaryMetricLabelEs": null,
+      "primaryMetricLabelEn": null,
+      "arms": [],
+      "hr": null,
+      "pfs": null,
+      "facts": [
+        {
+          "icon": "alert-triangle",
+          "es": "El BCLC C rígido de 'solo terapia sistémica' es insuficiente para el HCC avanzado heterogéneo.",
+          "en": "Rigid BCLC C 'systemic therapy only' is insufficient for heterogeneous advanced HCC."
+        },
+        {
+          "icon": "target",
+          "es": "La respuesta dinámica a la terapia sistémica (ICI) puede guiar la escalada multimodal (locorregional, cirugía).",
+          "en": "Dynamic response to systemic therapy (ICI) can guide multimodal escalation (locoregional, surgery)."
+        },
+        {
+          "icon": "dna",
+          "es": "La oligo-progresión focal justifica intervención locorregional manteniendo el tratamiento sistémico.",
+          "en": "Focal oligo-progression warrants locoregional intervention while maintaining systemic therapy."
+        },
+        {
+          "icon": "users",
+          "es": "La estrategia requiere un protocolo estructurado y un equipo multidisciplinar (MDT).",
+          "en": "Strategy requires a structured protocol and a multidisciplinary team (MDT)."
+        }
+      ],
+      "bottomLineEs": "La gestión del HCC avanzado debe evolucionar de algoritmos rígidos a estrategias personalizadas basadas en la respuesta al tratamiento y la integración multimodal.",
+      "bottomLineEn": "Advanced HCC management should evolve from rigid algorithms to personalized, response-based, multimodal integrated strategies.",
+      "relevance": "Práctica clínica",
+      "pmid": "43100078",
+      "url": "https://doi.org/10.17998/jlc.2026.11.25",
+      "source": "J Liver Cancer",
+      "date": "2026-Nov-27",
+      "topicId": "hcc"
+    }
+  ]
+}
